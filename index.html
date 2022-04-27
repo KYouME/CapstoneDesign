@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="style.css">
+    <title>KHUOTT</title>
+</head>
+<body>
+  <header style="position: relative;">
+
+    <div class="w3-top" class="header" id="home">
+      <div class="w3-bar  w3-card w3-left-align w3-large heeder-large-screen" style="background-color: #000015;" >
+        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-black w3-large " href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+        <a href="index.html" class="w3-bar-item w3-button w3-padding-large  w3-hover-black" style ="font-family:comicsans ;" >KHUOTT</a>
+        <div >
+          <a href="#about" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-black" >About</a>
+          <a href="#login" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-black">Log in</a>
+          <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-black">Contact</a>
+        </div>
+
+      </div>
+
+      <!-- Navbar on small screens -->
+      <div id="navDemo" class="w3-bar-block  w3-hide w3-hide-large w3-hide-medium w3-large">
+        <a href="#about" class="w3-bar-item w3-button w3-padding-large"onclick="myFunction()">About</a>
+        <a href="#login" class="w3-bar-item w3-button w3-padding-large"onclick="myFunction()">login</a>
+        <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Contact</a>
+      </div>
+    </div>
+  </header>
+      <section >
+         <div class="hero" id="about">
+           <div class="hero-description">
+             <div class="hero-text">
+              <h1 class="hero-title">콘텐츠를 추천해드립니다</h1>
+              <p>
+                KHUOTT(쿠오트)는 무료로 여러분에게 적합한 콘텐츠를 추천해드립니다. <br>
+                 τ 매번 비슷한 콘텐츠만이 추천되어서 실증을 느끼시나요?<br>
+                 τ 변경된 취향을 바로 추천 콘텐츠에 반영하고 싶으신가요? <br>
+                1000여개의 콘텐츠를 가지고 있는 KHUOTT에는 특별한 기능이 있습니다 <br>
+                 τ 사용자와 알고리즘 간의 상호소통이 가능합니다 <br>
+                 τ 사용자가 추천 콘텐츠에 바로 개입할 수 있습니다 <br>
+                KHUOTT를 통해 새롭고 다양한 콘텐츠를 추천받고 즐겨보세요!
+              </p>
+              <span class="w3-text-white social" style="margin-top:050px">
+                <p >Based on the following OTT services</p>
+                <div class="w3-margin-top">
+             <a href="https://www.youtube.com/" target="_blank">  <i class="fa fa-facebook-official w3-hover-opacity icons" ></i></a>
+             <a href="https://www.netflix.com/kr/" target="_blank"><i class="fa fa-instagram w3-hover-opacity icons" ></i></a>
+             <a href="https://www.wavve.com/" target="_blank"><i class="fa fa-snapchat w3-hover-opacity icons"></i></a>
+             <a href="https://www.tving.com/" target="_blank"><i class="fa fa-pinterest-p w3-hover-opacity icons" ></i></a>
+             <a href="https://watcha.com/" target="_blank"><i class="fa fa-twitter w3-hover-opacity icons"></i></a>
+             <a href="https://pedia.watcha.com/ko-KR"><i class="fa fa-linkedin w3-hover-opacity icons"></i></a>
+             </div>
+              </span>
+             </div>
+           </div>
+         </div>
+      </section>
+      <main style="padding-top:40px; padding-bottom:40px ;">
+        <h2 class="title" id="login">안녕하세요</h2>
+
+
+        <div class="login">
+          <!--클릭 이벤트 발0000-->
+          <div class="game-list" style="float:left">
+            <h3 >로그인</h3>
+          </div>
+          <div class="game-list" style="float:left">
+
+          <h3 >회원가입</h3>
+
+          </div>
+          <div class="game-list" style="float:left">
+
+            <h3>체험하기</h3>
+          </div>
+
+          <p style="clear:both;"></p>
+
+
+        </div>
+      </div>
+      <div>
+
+      <h2 class="title" style="padding-top:100px;">연락하기</h2>
+      <div class="contact" id="contact" style="padding-bottom: 10px !important;">
+      <div class="contact-list contact-address"  >
+        <h5><span><i class="fa fa-map-marker w3-xlarge w3-text-light-grey"></i></span>주소</h5>
+        <p style="margin: 18px 0 0 0 " >경희대학교</p>
+        <p>경기도 용인시 기흥구 덕영대로 1732</p>
+      </div>
+      <div class="contact-list">
+        <h5><span><i class="fa fa-envelope w3-xlarge w3-text-light-grey"></i></span>이메일</h5>
+        <div class="email-contact">
+          <input placeholder="메세지를 입력하세요"  type="email" style="margin: 8px 0px !important;"/>
+
+          <button class="w3-btn w3-red w3-round " style="width: 100px; padding:3px 10px !important">보내기</button>
+        </div>
+
+      </div>
+      <div class="contact-list" >
+        <h5><span><i class="fa fa-phone w3-xlarge w3-text-light-grey"></i></span>홈페이지</h5>
+        <a href="https://kyoume.github.io/KHUOTT/" > <p>쿠오트</p> </a>
+        <a href="https://github.com/KYouME/KHUOTT" target="_blank"><p>깃허브</p> </a>
+      </div>
+
+      </div>
+    </div>
+
+      </main>
+
+
+  <script>
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function myFunction() {
+      var x = document.getElementById("navDemo");
+      if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+      } else {
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+    </script>
+</body>
+</html>
