@@ -1,0 +1,3421 @@
+MOVIE_KEY,title,genres
+M1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+M2,Jumanji (1995),Adventure|Children|Fantasy
+M3,Grumpier Old Men (1995),Comedy|Romance
+M4,Waiting to Exhale (1995),Comedy|Drama|Romance
+M5,Father of the Bride Part II (1995),Comedy
+M6,Heat (1995),Action|Crime|Thriller
+M7,Sabrina (1995),Comedy|Romance
+M8,Tom and Huck (1995),Adventure|Children
+M9,Sudden Death (1995),Action
+M10,GoldenEye (1995),Action|Adventure|Thriller
+M11,"American President, The (1995)",Comedy|Drama|Romance
+M12,Dracula: Dead and Loving It (1995),Comedy|Horror
+M13,Balto (1995),Adventure|Animation|Children
+M14,Nixon (1995),Drama
+M15,Cutthroat Island (1995),Action|Adventure|Romance
+M16,Casino (1995),Crime|Drama
+M17,Sense and Sensibility (1995),Drama|Romance
+M18,Four Rooms (1995),Comedy
+M19,Ace Ventura: When Nature Calls (1995),Comedy
+M20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+M21,Get Shorty (1995),Comedy|Crime|Thriller
+M22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+M23,Assassins (1995),Action|Crime|Thriller
+M24,Powder (1995),Drama|Sci-Fi
+M25,Leaving Las Vegas (1995),Drama|Romance
+M26,Othello (1995),Drama
+M27,Now and Then (1995),Children|Drama
+M28,Persuasion (1995),Drama|Romance
+M29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+M30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Crime|Drama
+M31,Dangerous Minds (1995),Drama
+M32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+M34,Babe (1995),Children|Drama
+M36,Dead Man Walking (1995),Crime|Drama
+M38,It Takes Two (1995),Children|Comedy
+M39,Clueless (1995),Comedy|Romance
+M40,"Cry, the Beloved Country (1995)",Drama
+M41,Richard III (1995),Drama|War
+M42,Dead Presidents (1995),Action|Crime|Drama
+M43,Restoration (1995),Drama
+M44,Mortal Kombat (1995),Action|Adventure|Fantasy
+M45,To Die For (1995),Comedy|Drama|Thriller
+M46,How to Make an American Quilt (1995),Drama|Romance
+M47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+M48,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+M49,When Night Is Falling (1995),Drama|Romance
+M50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+M52,Mighty Aphrodite (1995),Comedy|Drama|Romance
+M53,Lamerica (1994),Adventure|Drama
+M54,"Big Green, The (1995)",Children|Comedy
+M55,Georgia (1995),Drama
+M57,Home for the Holidays (1995),Drama
+M58,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+M60,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+M61,Eye for an Eye (1996),Drama|Thriller
+M62,Mr. Holland's Opus (1995),Drama
+M63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Comedy|Crime
+M64,Two if by Sea (1996),Comedy|Romance
+M65,Bio-Dome (1996),Comedy
+M66,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller
+M68,French Twist (Gazon maudit) (1995),Comedy|Romance
+M69,Friday (1995),Comedy
+M70,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
+M71,Fair Game (1995),Action
+M72,Kicking and Screaming (1995),Comedy|Drama
+M73,"Misérables, Les (1995)",Drama|War
+M74,Bed of Roses (1996),Drama|Romance
+M75,Big Bully (1996),Comedy|Drama
+M76,Screamers (1995),Action|Sci-Fi|Thriller
+M77,Nico Icon (1995),Documentary
+M78,"Crossing Guard, The (1995)",Action|Crime|Drama|Thriller
+M79,"Juror, The (1996)",Drama|Thriller
+M80,"White Balloon, The (Badkonake sefid) (1995)",Children|Drama
+M81,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance
+M82,Antonia's Line (Antonia) (1995),Comedy|Drama
+M83,Once Upon a Time... When We Were Colored (1995),Drama|Romance
+M85,Angels and Insects (1995),Drama|Romance
+M86,White Squall (1996),Action|Adventure|Drama
+M87,Dunston Checks In (1996),Children|Comedy
+M88,Black Sheep (1996),Comedy
+M89,Nick of Time (1995),Action|Thriller
+M92,Mary Reilly (1996),Drama|Horror|Thriller
+M93,Vampire in Brooklyn (1995),Comedy|Horror|Romance
+M94,Beautiful Girls (1996),Comedy|Drama|Romance
+M95,Broken Arrow (1996),Action|Adventure|Thriller
+M96,In the Bleak Midwinter (1995),Comedy|Drama
+M97,"Hate (Haine, La) (1995)",Crime|Drama
+M99,Heidi Fleiss: Hollywood Madam (1995),Documentary
+M100,City Hall (1996),Drama|Thriller
+M101,Bottle Rocket (1996),Adventure|Comedy|Crime|Romance
+M102,Mr. Wrong (1996),Comedy
+M103,Unforgettable (1996),Mystery|Sci-Fi|Thriller
+M104,Happy Gilmore (1996),Comedy
+M105,"Bridges of Madison County, The (1995)",Drama|Romance
+M106,Nobody Loves Me (Keiner liebt mich) (1994),Comedy|Drama
+M107,Muppet Treasure Island (1996),Adventure|Children|Comedy|Musical
+M108,Catwalk (1996),Documentary
+M110,Braveheart (1995),Action|Drama|War
+M111,Taxi Driver (1976),Crime|Drama|Thriller
+M112,Rumble in the Bronx (Hont faan kui) (1995),Action|Adventure|Comedy|Crime
+M113,Before and After (1996),Drama|Mystery
+M116,Anne Frank Remembered (1995),Documentary
+M117,"Young Poisoner's Handbook, The (1995)",Crime|Drama
+M118,If Lucy Fell (1996),Comedy|Romance
+M119,"Steal Big, Steal Little (1995)",Comedy
+M121,"Boys of St. Vincent, The (1992)",Drama
+M122,Boomerang (1992),Comedy|Romance
+M123,Chungking Express (Chung Hing sam lam) (1994),Drama|Mystery|Romance
+M125,Flirting With Disaster (1996),Comedy
+M126,"NeverEnding Story III, The (1994)",Adventure|Children|Fantasy
+M128,Jupiter's Wife (1994),Documentary
+M129,Pie in the Sky (1996),Comedy|Romance
+M132,Jade (1995),Thriller
+M135,Down Periscope (1996),Comedy
+M137,Man of the Year (1995),Documentary
+M140,Up Close and Personal (1996),Drama|Romance
+M141,"Birdcage, The (1996)",Comedy
+M144,"Brothers McMullen, The (1995)",Comedy
+M145,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller
+M146,"Amazing Panda Adventure, The (1995)",Adventure|Children
+M147,"Basketball Diaries, The (1995)",Drama
+M148,"Awfully Big Adventure, An (1995)",Drama
+M149,Amateur (1994),Crime|Drama|Thriller
+M150,Apollo 13 (1995),Adventure|Drama|IMAX
+M151,Rob Roy (1995),Action|Drama|Romance|War
+M152,"Addiction, The (1995)",Drama|Horror
+M153,Batman Forever (1995),Action|Adventure|Comedy|Crime
+M154,Beauty of the Day (Belle de jour) (1967),Drama
+M155,Beyond Rangoon (1995),Adventure|Drama|War
+M156,Blue in the Face (1995),Comedy|Drama
+M157,Canadian Bacon (1995),Comedy|War
+M158,Casper (1995),Adventure|Children
+M159,Clockers (1995),Crime|Drama|Mystery
+M160,Congo (1995),Action|Adventure|Mystery|Sci-Fi
+M161,Crimson Tide (1995),Drama|Thriller|War
+M162,Crumb (1994),Documentary
+M163,Desperado (1995),Action|Romance|Western
+M164,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller
+M165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+M166,"Doom Generation, The (1995)",Comedy|Crime|Drama
+M168,First Knight (1995),Action|Drama|Romance
+M169,Free Willy 2: The Adventure Home (1995),Adventure|Children|Drama
+M170,Hackers (1995),Action|Adventure|Crime|Thriller
+M171,Jeffrey (1995),Comedy|Drama
+M172,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller
+M173,Judge Dredd (1995),Action|Crime|Sci-Fi
+M174,Jury Duty (1995),Comedy
+M175,Kids (1995),Drama
+M176,Living in Oblivion (1995),Comedy
+M177,Lord of Illusions (1995),Horror
+M178,Love & Human Remains (1993),Comedy|Drama
+M179,Mad Love (1995),Drama|Romance
+M180,Mallrats (1995),Comedy|Romance
+M181,Mighty Morphin Power Rangers: The Movie (1995),Action|Children
+M183,Mute Witness (1994),Comedy|Horror|Thriller
+M184,Nadja (1994),Drama
+M185,"Net, The (1995)",Action|Crime|Thriller
+M186,Nine Months (1995),Comedy|Romance
+M187,Party Girl (1995),Comedy
+M188,"Prophecy, The (1995)",Fantasy|Horror|Mystery
+M189,Reckless (1995),Comedy|Fantasy
+M190,Safe (1995),Thriller
+M191,"Scarlet Letter, The (1995)",Drama|Romance
+M193,Showgirls (1995),Drama
+M194,Smoke (1995),Comedy|Drama
+M195,Something to Talk About (1995),Comedy|Drama|Romance
+M196,Species (1995),Horror|Sci-Fi
+M198,Strange Days (1995),Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+M199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Drama|Musical|Romance
+M201,Three Wishes (1995),Drama|Fantasy
+M202,Total Eclipse (1995),Drama|Romance
+M203,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy
+M204,Under Siege 2: Dark Territory (1995),Action
+M205,Unstrung Heroes (1995),Comedy|Drama
+M206,Unzipped (1995),Documentary
+M207,"Walk in the Clouds, A (1995)",Drama|Romance
+M208,Waterworld (1995),Action|Adventure|Sci-Fi
+M209,White Man's Burden (1995),Drama
+M210,Wild Bill (1995),Western
+M211,"Browning Version, The (1994)",Drama
+M212,Bushwhacked (1995),Adventure|Comedy|Crime|Mystery
+M213,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama
+M214,Before the Rain (Pred dozhdot) (1994),Drama|War
+M215,Before Sunrise (1995),Drama|Romance
+M216,Billy Madison (1995),Comedy
+M217,"Babysitter, The (1995)",Drama|Thriller
+M218,Boys on the Side (1995),Comedy|Drama
+M219,"Cure, The (1995)",Drama
+M220,Castle Freak (1995),Horror
+M222,Circle of Friends (1995),Drama|Romance
+M223,Clerks (1994),Comedy
+M224,Don Juan DeMarco (1995),Comedy|Drama|Romance
+M225,Disclosure (1994),Drama|Thriller
+M227,Drop Zone (1994),Action|Thriller
+M228,Destiny Turns on the Radio (1995),Comedy
+M229,Death and the Maiden (1994),Drama|Thriller
+M230,Dolores Claiborne (1995),Drama|Thriller
+M231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy
+M232,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+M233,Exotica (1994),Drama
+M234,Exit to Eden (1994),Comedy
+M235,Ed Wood (1994),Comedy|Drama
+M236,French Kiss (1995),Action|Comedy|Romance
+M237,Forget Paris (1995),Comedy|Romance
+M238,Far From Home: The Adventures of Yellow Dog (1995),Adventure|Children
+M239,"Goofy Movie, A (1995)",Animation|Children|Comedy|Romance
+M240,Hideaway (1995),Thriller
+M241,Fluke (1995),Children|Drama
+M242,Farinelli: il castrato (1994),Drama|Musical
+M243,Gordy (1995),Children|Comedy|Fantasy
+M246,Hoop Dreams (1994),Documentary
+M247,Heavenly Creatures (1994),Crime|Drama
+M248,Houseguest (1994),Comedy
+M249,Immortal Beloved (1994),Drama|Romance
+M250,Heavyweights (Heavy Weights) (1995),Children|Comedy
+M251,"Hunted, The (1995)",Action
+M252,I.Q. (1994),Comedy|Romance
+M253,Interview with the Vampire: The Vampire Chronicles (1994),Drama|Horror
+M254,Jefferson in Paris (1995),Drama
+M255,"Jerky Boys, The (1995)",Comedy
+M256,Junior (1994),Comedy|Sci-Fi
+M257,Just Cause (1995),Mystery|Thriller
+M258,"Kid in King Arthur's Court, A (1995)",Adventure|Children|Comedy|Fantasy|Romance
+M259,Kiss of Death (1995),Crime|Drama|Thriller
+M260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+M261,Little Women (1994),Drama
+M262,"Little Princess, A (1995)",Children|Drama
+M263,Ladybird Ladybird (1994),Drama
+M265,Like Water for Chocolate (Como agua para chocolate) (1992),Drama|Fantasy|Romance
+M266,Legends of the Fall (1994),Drama|Romance|War|Western
+M267,Major Payne (1995),Comedy
+M269,My Crazy Life (Mi vida loca) (1993),Drama
+M270,Love Affair (1994),Drama|Romance
+M271,Losing Isaiah (1995),Drama
+M272,"Madness of King George, The (1994)",Comedy|Drama
+M273,Mary Shelley's Frankenstein (Frankenstein) (1994),Drama|Horror|Sci-Fi
+M274,Man of the House (1995),Comedy
+M275,Mixed Nuts (1994),Comedy
+M276,Milk Money (1994),Comedy|Romance
+M277,Miracle on 34th Street (1994),Drama
+M278,Miami Rhapsody (1995),Comedy
+M279,My Family (1995),Drama
+M280,Murder in the First (1995),Drama|Thriller
+M281,Nobody's Fool (1994),Comedy|Drama|Romance
+M282,Nell (1994),Drama
+M283,New Jersey Drive (1995),Crime|Drama
+M284,New York Cop (Nyû Yôku no koppu) (1993),Action|Crime
+M285,Beyond Bedlam (1993),Drama|Horror
+M287,Nina Takes a Lover (1994),Comedy|Romance
+M288,Natural Born Killers (1994),Action|Crime|Thriller
+M289,Only You (1994),Comedy|Romance
+M290,Once Were Warriors (1994),Crime|Drama
+M291,Poison Ivy II (1996),Drama|Thriller
+M292,Outbreak (1995),Action|Drama|Sci-Fi|Thriller
+M293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+M294,"Perez Family, The (1995)",Comedy|Romance
+M295,"Pyromaniac's Love Story, A (1995)",Comedy|Romance
+M296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+M298,Pushing Hands (Tui shou) (1992),Drama
+M299,Priest (1994),Drama
+M300,Quiz Show (1994),Drama
+M301,Picture Bride (Bijo photo) (1994),Drama|Romance
+M302,"Queen Margot (Reine Margot, La) (1994)",Drama|Romance
+M303,"Quick and the Dead, The (1995)",Action|Thriller|Western
+M304,Roommates (1995),Comedy|Drama
+M305,Ready to Wear (Pret-A-Porter) (1994),Comedy
+M306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama
+M307,Three Colors: Blue (Trois couleurs: Bleu) (1993),Drama
+M308,Three Colors: White (Trzy kolory: Bialy) (1994),Comedy|Drama
+M310,Rent-a-Kid (1995),Comedy
+M311,Relative Fear (1994),Horror|Thriller
+M312,Stuart Saves His Family (1995),Comedy
+M313,"Swan Princess, The (1994)",Animation|Children
+M314,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+M315,"Specialist, The (1994)",Action|Drama|Thriller
+M316,Stargate (1994),Action|Adventure|Sci-Fi
+M317,"Santa Clause, The (1994)",Comedy|Drama|Fantasy
+M318,"Shawshank Redemption, The (1994)",Crime|Drama
+M319,Shallow Grave (1994),Comedy|Drama|Thriller
+M320,Suture (1993),Film-Noir|Thriller
+M321,Strawberry and Chocolate (Fresa y chocolate) (1993),Drama
+M322,Swimming with Sharks (1995),Comedy|Drama
+M324,"Sum of Us, The (1994)",Comedy|Drama
+M325,National Lampoon's Senior Trip (1995),Comedy
+M326,To Live (Huozhe) (1994),Drama
+M327,Tank Girl (1995),Action|Comedy|Sci-Fi
+M328,Tales from the Crypt Presents: Demon Knight (1995),Horror|Thriller
+M329,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi
+M330,Tales from the Hood (1995),Action|Crime|Horror
+M331,Tom & Viv (1994),Drama
+M332,Village of the Damned (1995),Horror|Sci-Fi
+M333,Tommy Boy (1995),Comedy
+M334,Vanya on 42nd Street (1994),Drama
+M335,Underneath (1995),Mystery|Thriller
+M336,"Walking Dead, The (1995)",Drama|War
+M337,What's Eating Gilbert Grape (1993),Drama
+M338,Virtuosity (1995),Action|Sci-Fi|Thriller
+M339,While You Were Sleeping (1995),Comedy|Romance
+M340,"War, The (1994)",Adventure|Drama|War
+M341,Double Happiness (1994),Drama
+M342,Muriel's Wedding (1994),Comedy
+M343,"Baby-Sitters Club, The (1995)",Children
+M344,Ace Ventura: Pet Detective (1994),Comedy
+M345,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama
+M346,Backbeat (1993),Drama|Musical
+M347,Bitter Moon (1992),Drama|Film-Noir|Romance
+M348,Bullets Over Broadway (1994),Comedy
+M349,Clear and Present Danger (1994),Action|Crime|Drama|Thriller
+M350,"Client, The (1994)",Drama|Mystery|Thriller
+M351,"Corrina, Corrina (1994)",Comedy|Drama|Romance
+M352,Crooklyn (1994),Comedy|Drama
+M353,"Crow, The (1994)",Action|Crime|Fantasy|Thriller
+M354,Cobb (1994),Drama
+M355,"Flintstones, The (1994)",Children|Comedy|Fantasy
+M356,Forrest Gump (1994),Comedy|Drama|Romance|War
+M357,Four Weddings and a Funeral (1994),Comedy|Romance
+M358,Higher Learning (1995),Drama
+M359,I Like It Like That (1994),Comedy|Drama|Romance
+M360,I Love Trouble (1994),Action|Comedy
+M361,It Could Happen to You (1994),Comedy|Drama|Romance
+M362,"Jungle Book, The (1994)",Adventure|Children|Romance
+M363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)",Documentary
+M364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+M365,Little Buddha (1993),Drama
+M366,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)",Drama|Horror|Mystery|Thriller
+M367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+M368,Maverick (1994),Adventure|Comedy|Western
+M369,Mrs. Parker and the Vicious Circle (1994),Drama
+M370,Naked Gun 33 1/3: The Final Insult (1994),Action|Comedy
+M371,"Paper, The (1994)",Comedy|Drama
+M372,Reality Bites (1994),Comedy|Drama|Romance
+M373,Red Rock West (1992),Thriller
+M374,Richie Rich (1994),Children|Comedy
+M376,"River Wild, The (1994)",Action|Thriller
+M377,Speed (1994),Action|Romance|Thriller
+M378,Speechless (1994),Comedy|Romance
+M379,Timecop (1994),Action|Sci-Fi|Thriller
+M380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller
+M381,When a Man Loves a Woman (1994),Drama|Romance
+M382,Wolf (1994),Drama|Horror|Romance|Thriller
+M383,Wyatt Earp (1994),Western
+M384,Bad Company (1995),Action|Crime|Drama
+M385,"Man of No Importance, A (1994)",Drama
+M386,S.F.W. (1994),Drama
+M387,"Low Down Dirty Shame, A (1994)",Action|Comedy
+M388,Boys Life (1995),Drama
+M389,"Colonel Chabert, Le (1994)",Drama|Romance|War
+M390,Faster Pussycat! Kill! Kill! (1965),Action|Crime|Drama
+M391,Jason's Lyric (1994),Crime|Drama
+M393,Street Fighter (1994),Action|Adventure|Fantasy
+M405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994),Action|Fantasy
+M406,Federal Hill (1994),Drama
+M407,In the Mouth of Madness (1995),Horror|Thriller
+M408,8 Seconds (1994),Drama
+M409,Above the Rim (1994),Crime|Drama
+M410,Addams Family Values (1993),Children|Comedy|Fantasy
+M412,"Age of Innocence, The (1993)",Drama
+M413,Airheads (1994),Comedy
+M414,"Air Up There, The (1994)",Comedy
+M415,Another Stakeout (1993),Comedy|Thriller
+M416,Bad Girls (1994),Western
+M417,Barcelona (1994),Comedy|Romance
+M418,Being Human (1993),Drama
+M419,"Beverly Hillbillies, The (1993)",Comedy
+M420,Beverly Hills Cop III (1994),Action|Comedy|Crime|Thriller
+M421,Black Beauty (1994),Adventure|Children|Drama
+M422,Blink (1994),Thriller
+M423,Blown Away (1994),Action|Thriller
+M424,Blue Chips (1994),Drama
+M425,Blue Sky (1994),Drama|Romance
+M426,Body Snatchers (1993),Horror|Sci-Fi|Thriller
+M427,Boxing Helena (1993),Drama|Mystery|Romance|Thriller
+M428,"Bronx Tale, A (1993)",Drama
+M429,Cabin Boy (1994),Comedy
+M430,Calendar Girl (1993),Comedy|Drama
+M431,Carlito's Way (1993),Crime|Drama
+M432,City Slickers II: The Legend of Curly's Gold (1994),Adventure|Comedy|Western
+M433,Clean Slate (1994),Comedy
+M434,Cliffhanger (1993),Action|Adventure|Thriller
+M435,Coneheads (1993),Comedy|Sci-Fi
+M436,Color of Night (1994),Drama|Thriller
+M437,Cops and Robbersons (1994),Comedy
+M438,"Cowboy Way, The (1994)",Action|Comedy|Drama
+M440,Dave (1993),Comedy|Romance
+M441,Dazed and Confused (1993),Comedy
+M442,Demolition Man (1993),Action|Adventure|Sci-Fi
+M444,Even Cowgirls Get the Blues (1993),Comedy|Romance
+M445,Fatal Instinct (1993),Comedy
+M446,Farewell My Concubine (Ba wang bie ji) (1993),Drama|Romance
+M448,Fearless (1993),Drama
+M449,Fear of a Black Hat (1994),Comedy
+M450,With Honors (1994),Comedy|Drama
+M451,Flesh and Bone (1993),Drama|Mystery|Romance
+M452,Widows' Peak (1994),Drama
+M453,For Love or Money (1993),Comedy|Romance
+M454,"Firm, The (1993)",Drama|Thriller
+M455,Free Willy (1993),Adventure|Children|Drama
+M456,Fresh (1994),Crime|Drama|Thriller
+M457,"Fugitive, The (1993)",Thriller
+M458,Geronimo: An American Legend (1993),Drama|Western
+M459,"Getaway, The (1994)",Action|Adventure|Crime|Drama|Romance|Thriller
+M460,Getting Even with Dad (1994),Comedy
+M461,Go Fish (1994),Drama|Romance
+M464,Hard Target (1993),Action|Adventure|Crime|Thriller
+M466,Hot Shots! Part Deux (1993),Action|Comedy|War
+M467,Live Nude Girls (1995),Comedy
+M468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",Comedy|Romance
+M469,"House of the Spirits, The (1993)",Drama|Romance
+M470,House Party 3 (1994),Comedy
+M471,"Hudsucker Proxy, The (1994)",Comedy
+M472,I'll Do Anything (1994),Comedy|Drama
+M473,In the Army Now (1994),Comedy|War
+M474,In the Line of Fire (1993),Action|Thriller
+M475,In the Name of the Father (1993),Drama
+M476,"Inkwell, The (1994)",Comedy|Drama
+M477,What's Love Got to Do with It? (1993),Drama|Musical
+M478,Jimmy Hollywood (1994),Comedy|Crime|Drama
+M479,Judgment Night (1993),Action|Crime|Thriller
+M480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+M481,Kalifornia (1993),Drama|Thriller
+M482,Killing Zoe (1994),Crime|Drama|Thriller
+M484,Lassie (1994),Adventure|Children
+M485,Last Action Hero (1993),Action|Adventure|Comedy|Fantasy
+M486,Life with Mikey (1993),Comedy
+M487,Lightning Jack (1994),Comedy|Western
+M488,M. Butterfly (1993),Drama|Romance
+M489,Made in America (1993),Comedy
+M490,Malice (1993),Thriller
+M491,"Man Without a Face, The (1993)",Drama
+M492,Manhattan Murder Mystery (1993),Comedy|Mystery
+M493,Menace II Society (1993),Action|Crime|Drama
+M494,Executive Decision (1996),Action|Adventure|Thriller
+M495,In the Realm of the Senses (Ai no corrida) (1976),Drama
+M496,What Happened Was... (1994),Comedy|Drama|Romance|Thriller
+M497,Much Ado About Nothing (1993),Comedy|Romance
+M499,Mr. Wonderful (1993),Comedy|Romance
+M500,Mrs. Doubtfire (1993),Comedy|Drama
+M501,Naked (1993),Drama
+M502,"Next Karate Kid, The (1994)",Action|Children|Romance
+M504,No Escape (1994),Action|Drama|Sci-Fi
+M505,North (1994),Comedy
+M506,Orlando (1992),Drama|Fantasy|Romance
+M507,"Perfect World, A (1993)",Crime|Drama|Thriller
+M508,Philadelphia (1993),Drama
+M509,"Piano, The (1993)",Drama|Romance
+M510,Poetic Justice (1993),Drama
+M511,"Program, The (1993)",Action|Drama
+M512,"Puppet Masters, The (1994)",Horror|Sci-Fi
+M513,Radioland Murders (1994),Comedy|Mystery|Romance
+M514,"Ref, The (1994)",Comedy
+M515,"Remains of the Day, The (1993)",Drama|Romance
+M516,Renaissance Man (1994),Comedy|Drama
+M517,Rising Sun (1993),Action|Drama|Mystery
+M518,"Road to Wellville, The (1994)",Comedy
+M519,RoboCop 3 (1993),Action|Crime|Drama|Sci-Fi|Thriller
+M520,Robin Hood: Men in Tights (1993),Comedy
+M521,Romeo Is Bleeding (1993),Crime|Thriller
+M522,Romper Stomper (1992),Action|Drama
+M523,Ruby in Paradise (1993),Drama
+M524,Rudy (1993),Drama
+M526,"Savage Nights (Nuits fauves, Les) (1992)",Drama
+M527,Schindler's List (1993),Drama|War
+M528,"Scout, The (1994)",Comedy|Drama
+M529,Searching for Bobby Fischer (1993),Drama
+M531,"Secret Garden, The (1993)",Children|Drama
+M532,Serial Mom (1994),Comedy|Crime|Horror
+M533,"Shadow, The (1994)",Action|Adventure|Fantasy|Mystery
+M534,Shadowlands (1993),Drama|Romance
+M535,Short Cuts (1993),Drama
+M536,"Simple Twist of Fate, A (1994)",Drama
+M537,Sirens (1994),Drama
+M538,Six Degrees of Separation (1993),Drama
+M539,Sleepless in Seattle (1993),Comedy|Drama|Romance
+M540,Sliver (1993),Thriller
+M541,Blade Runner (1982),Action|Sci-Fi|Thriller
+M542,Son in Law (1993),Comedy|Drama|Romance
+M543,So I Married an Axe Murderer (1993),Comedy|Romance|Thriller
+M544,Striking Distance (1993),Action|Crime
+M546,Super Mario Bros. (1993),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+M547,Surviving the Game (1994),Action|Adventure|Thriller
+M548,Terminal Velocity (1994),Action|Mystery|Thriller
+M549,Thirty-Two Short Films About Glenn Gould (1993),Drama|Musical
+M550,Threesome (1994),Comedy|Romance
+M551,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical
+M552,"Three Musketeers, The (1993)",Action|Adventure|Comedy|Romance
+M553,Tombstone (1993),Action|Drama|Western
+M555,True Romance (1993),Crime|Thriller
+M556,"War Room, The (1993)",Documentary
+M558,"Pagemaster, The (1994)",Action|Adventure|Animation|Children|Fantasy
+M562,Welcome to the Dollhouse (1995),Comedy|Drama
+M563,Germinal (1993),Drama|Romance
+M564,Chasers (1994),Comedy
+M567,Kika (1993),Comedy|Drama
+M568,Bhaji on the Beach (1993),Comedy|Drama
+M569,Little Big League (1994),Comedy|Drama
+M573,"Ciao, Professore! (Io speriamo che me la cavo) (1992)",Drama
+M574,Spanking the Monkey (1994),Comedy|Drama
+M575,"Little Rascals, The (1994)",Children|Comedy
+M577,Andre (1994),Adventure|Children|Drama
+M579,"Escort, The (Scorta, La) (1993)",Crime|Thriller
+M580,Princess Caraboo (1994),Drama
+M581,"Celluloid Closet, The (1995)",Documentary
+M583,Dear Diary (Caro Diario) (1994),Comedy|Drama
+M585,"Brady Bunch Movie, The (1995)",Comedy
+M586,Home Alone (1990),Children|Comedy
+M587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller
+M588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+M589,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+M590,Dances with Wolves (1990),Adventure|Drama|Western
+M592,Batman (1989),Action|Crime|Thriller
+M593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+M594,Snow White and the Seven Dwarfs (1937),Animation|Children|Drama|Fantasy|Musical
+M595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+M596,Pinocchio (1940),Animation|Children|Fantasy|Musical
+M597,Pretty Woman (1990),Comedy|Romance
+M599,"Wild Bunch, The (1969)",Adventure|Western
+M600,Love and a .45 (1994),Action|Comedy|Crime
+M602,"Great Day in Harlem, A (1994)",Documentary
+M605,One Fine Day (1996),Drama|Romance
+M606,Candyman: Farewell to the Flesh (1995),Fantasy|Horror
+M608,Fargo (1996),Comedy|Crime|Drama|Thriller
+M609,Homeward Bound II: Lost in San Francisco (1996),Adventure|Children
+M610,Heavy Metal (1981),Action|Adventure|Animation|Horror|Sci-Fi
+M611,Hellraiser: Bloodline (1996),Action|Horror|Sci-Fi
+M612,"Pallbearer, The (1996)",Comedy
+M613,Jane Eyre (1996),Drama|Romance
+M615,Bread and Chocolate (Pane e cioccolata) (1973),Comedy|Drama
+M616,"Aristocats, The (1970)",Animation|Children
+M617,"Flower of My Secret, The (La flor de mi secreto) (1995)",Comedy|Drama
+M618,Two Much (1995),Comedy|Romance
+M619,Ed (1996),Comedy
+M626,"Thin Line Between Love and Hate, A (1996)",Comedy
+M627,"Last Supper, The (1995)",Drama|Thriller
+M628,Primal Fear (1996),Crime|Drama|Mystery|Thriller
+M631,All Dogs Go to Heaven 2 (1996),Adventure|Animation|Children|Fantasy|Musical|Romance
+M632,Land and Freedom (Tierra y libertad) (1995),Drama|War
+M633,Denise Calls Up (1995),Comedy
+M634,Theodore Rex (1995),Comedy
+M635,"Family Thing, A (1996)",Comedy|Drama
+M636,Frisk (1995),Drama
+M637,Sgt. Bilko (1996),Comedy
+M638,Jack and Sarah (1995),Romance
+M639,Girl 6 (1996),Comedy|Drama
+M640,Diabolique (1996),Drama|Thriller
+M645,Nelly & Monsieur Arnaud (1995),Drama
+M647,Courage Under Fire (1996),Action|Crime|Drama|War
+M648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller
+M649,Cold Fever (Á köldum klaka) (1995),Comedy|Drama
+M650,Moll Flanders (1996),Drama
+M653,Dragonheart (1996),Action|Adventure|Fantasy
+M656,Eddie (1996),Comedy
+M661,James and the Giant Peach (1996),Adventure|Animation|Children|Fantasy|Musical
+M662,Fear (1996),Thriller
+M663,Kids in the Hall: Brain Candy (1996),Comedy
+M665,Underground (1995),Comedy|Drama|War
+M667,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996),Action
+M668,Song of the Little Road (Pather Panchali) (1955),Drama
+M670,"World of Apu, The (Apur Sansar) (1959)",Drama
+M671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+M673,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+M674,Barbarella (1968),Adventure|Comedy|Sci-Fi
+M678,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+M679,"Run of the Country, The (1995)",Drama
+M680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)",Drama|Mystery|Romance|Sci-Fi|Thriller
+M685,It's My Party (1996),Drama
+M688,Operation Dumbo Drop (1995),Action|Adventure|Comedy|War
+M691,Mrs. Winterbourne (1996),Comedy|Romance
+M692,Solo (1996),Action|Sci-Fi|Thriller
+M694,"Substitute, The (1996)",Action|Crime|Drama
+M695,True Crime (1996),Mystery|Thriller
+M697,Feeling Minnesota (1996),Drama|Romance
+M698,Delta of Venus (1995),Drama
+M700,Angus (1995),Comedy
+M703,Boys (1996),Drama
+M704,"Quest, The (1996)",Action|Adventure
+M706,Sunset Park (1996),Drama
+M707,Mulholland Falls (1996),Crime|Drama|Thriller
+M708,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+M709,Oliver & Company (1988),Adventure|Animation|Children|Comedy|Musical
+M710,Celtic Pride (1996),Comedy
+M711,Flipper (1996),Adventure|Children
+M714,Dead Man (1995),Drama|Mystery|Western
+M715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama|Romance
+M718,"Visitors, The (Visiteurs, Les) (1993)",Comedy|Fantasy|Sci-Fi
+M719,Multiplicity (1996),Comedy
+M720,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy
+M722,"Haunted World of Edward D. Wood Jr., The (1996)",Documentary
+M724,"Craft, The (1996)",Drama|Fantasy|Horror|Thriller
+M725,"Great White Hype, The (1996)",Comedy
+M726,Last Dance (1996),Drama
+M728,Cold Comfort Farm (1995),Comedy
+M731,Heaven's Prisoners (1996),Crime|Thriller
+M733,"Rock, The (1996)",Action|Adventure|Thriller
+M735,Cemetery Man (Dellamorte Dellamore) (1994),Horror
+M736,Twister (1996),Action|Adventure|Romance|Thriller
+M737,Barb Wire (1996),Action|Sci-Fi
+M741,Ghost in the Shell (Kôkaku kidôtai) (1995),Animation|Sci-Fi
+M742,Thinner (1996),Horror|Thriller
+M743,Spy Hard (1996),Comedy
+M745,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy
+M747,"Stupids, The (1996)",Comedy
+M748,"Arrival, The (1996)",Action|Sci-Fi|Thriller
+M750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War
+M757,Ashes of Time (Dung che sai duk) (1994),Drama
+M759,Maya Lin: A Strong Clear Vision (1994),Documentary
+M760,Stalingrad (1993),Drama|War
+M761,"Phantom, The (1996)",Action|Adventure
+M762,Striptease (1996),Comedy|Crime
+M764,Heavy (1995),Drama|Romance
+M765,Jack (1996),Comedy|Drama
+M766,I Shot Andy Warhol (1996),Drama
+M773,Touki Bouki (1973),Drama
+M775,Spirits of the Dead (1968),Horror|Mystery
+M778,Trainspotting (1996),Comedy|Crime|Drama
+M779,'Til There Was You (1997),Drama|Romance
+M780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+M781,Stealing Beauty (1996),Drama
+M782,"Fan, The (1996)",Drama|Thriller
+M783,"Hunchback of Notre Dame, The (1996)",Animation|Children|Drama|Musical|Romance
+M784,"Cable Guy, The (1996)",Comedy|Thriller
+M785,Kingpin (1996),Comedy
+M786,Eraser (1996),Action|Drama|Thriller
+M788,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+M790,"Unforgettable Summer, An (Un été inoubliable) (1994)",Drama
+M791,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1994)",Documentary
+M795,Somebody to Love (1994),Drama
+M798,Daylight (1996),Action|Adventure|Drama|Thriller
+M799,"Frighteners, The (1996)",Comedy|Horror|Thriller
+M800,Lone Star (1996),Drama|Mystery|Western
+M801,Harriet the Spy (1996),Children|Comedy
+M802,Phenomenon (1996),Drama|Romance
+M803,Walking and Talking (1996),Comedy|Drama|Romance
+M804,She's the One (1996),Comedy|Romance
+M805,"Time to Kill, A (1996)",Drama|Thriller
+M806,American Buffalo (1996),Crime|Drama
+M808,Alaska (1996),Adventure|Children
+M809,Fled (1996),Action|Adventure
+M810,Kazaam (1996),Children|Comedy|Fantasy
+M813,Larger Than Life (1996),Comedy
+M818,"Very Brady Sequel, A (1996)",Comedy
+M823,"Collector, The (La collectionneuse) (1967)",Drama
+M824,Kaspar Hauser (1993),Drama|Mystery
+M828,"Adventures of Pinocchio, The (1996)",Adventure|Children
+M829,Joe's Apartment (1996),Comedy|Fantasy|Musical
+M830,"First Wives Club, The (1996)",Comedy
+M832,Ransom (1996),Crime|Thriller
+M833,High School High (1996),Comedy
+M835,Foxfire (1996),Drama
+M836,Chain Reaction (1996),Action|Adventure|Thriller
+M837,Matilda (1996),Children|Comedy|Fantasy
+M838,Emma (1996),Comedy|Drama|Romance
+M839,"Crow: City of Angels, The (1996)",Action|Thriller
+M840,House Arrest (1996),Children|Comedy
+M841,"Eyes Without a Face (Yeux sans visage, Les) (1959)",Horror
+M842,Tales from the Crypt Presents: Bordello of Blood (1996),Comedy|Horror
+M848,"Spitfire Grill, The (1996)",Drama
+M849,Escape from L.A. (1996),Action|Adventure|Sci-Fi|Thriller
+M851,Basquiat (1996),Drama
+M852,Tin Cup (1996),Comedy|Drama|Romance
+M858,"Godfather, The (1972)",Crime|Drama
+M861,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992),Action|Comedy|Crime|Thriller
+M866,Bound (1996),Crime|Drama|Romance|Thriller
+M867,Carpool (1996),Comedy|Crime
+M869,Kansas City (1996),Crime|Drama|Musical|Thriller
+M870,Gone Fishin' (1997),Comedy
+M875,Nothing to Lose (1994),Action|Crime|Drama
+M876,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller
+M879,"Relic, The (1997)",Horror|Thriller
+M880,"Island of Dr. Moreau, The (1996)",Sci-Fi|Thriller
+M881,First Kid (1996),Children|Comedy
+M882,"Trigger Effect, The (1996)",Drama|Thriller
+M885,Bogus (1996),Children|Drama|Fantasy
+M886,Bulletproof (1996),Action|Comedy|Crime
+M888,Land Before Time III: The Time of the Great Giving (1995),Adventure|Animation|Children|Musical
+M889,1-900 (06) (1994),Drama|Romance
+M891,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers) (1995),Horror|Thriller
+M892,Twelfth Night (1996),Comedy|Drama|Romance
+M893,Mother Night (1996),Drama
+M896,Wild Reeds (Les roseaux sauvages) (1994),Drama
+M897,For Whom the Bell Tolls (1943),Adventure|Drama|Romance|War
+M898,"Philadelphia Story, The (1940)",Comedy|Drama|Romance
+M899,Singin' in the Rain (1952),Comedy|Musical|Romance
+M900,"American in Paris, An (1951)",Musical|Romance
+M901,Funny Face (1957),Comedy|Musical
+M902,Breakfast at Tiffany's (1961),Drama|Romance
+M903,Vertigo (1958),Drama|Mystery|Romance|Thriller
+M904,Rear Window (1954),Mystery|Thriller
+M905,It Happened One Night (1934),Comedy|Romance
+M906,Gaslight (1944),Drama|Thriller
+M907,"Gay Divorcee, The (1934)",Comedy|Musical|Romance
+M908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller
+M909,"Apartment, The (1960)",Comedy|Drama|Romance
+M910,Some Like It Hot (1959),Comedy|Crime
+M911,Charade (1963),Comedy|Crime|Mystery|Romance|Thriller
+M912,Casablanca (1942),Drama|Romance
+M913,"Maltese Falcon, The (1941)",Film-Noir|Mystery
+M914,My Fair Lady (1964),Comedy|Drama|Musical|Romance
+M915,Sabrina (1954),Comedy|Romance
+M916,Roman Holiday (1953),Comedy|Drama|Romance
+M917,"Little Princess, The (1939)",Children|Drama
+M918,Meet Me in St. Louis (1944),Musical
+M919,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical
+M920,Gone with the Wind (1939),Drama|Romance|War
+M921,My Favorite Year (1982),Comedy
+M922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance
+M923,Citizen Kane (1941),Drama|Mystery
+M924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+M926,All About Eve (1950),Drama
+M927,"Women, The (1939)",Comedy
+M928,Rebecca (1940),Drama|Mystery|Romance|Thriller
+M929,Foreign Correspondent (1940),Drama|Film-Noir|Mystery|Thriller
+M930,Notorious (1946),Film-Noir|Romance|Thriller
+M931,Spellbound (1945),Mystery|Romance|Thriller
+M932,"Affair to Remember, An (1957)",Drama|Romance
+M933,To Catch a Thief (1955),Crime|Mystery|Romance|Thriller
+M934,Father of the Bride (1950),Comedy
+M935,"Band Wagon, The (1953)",Comedy|Musical
+M936,Ninotchka (1939),Comedy|Romance
+M937,Love in the Afternoon (1957),Comedy|Romance
+M938,Gigi (1958),Musical
+M940,"Adventures of Robin Hood, The (1938)",Action|Adventure|Romance
+M941,"Mark of Zorro, The (1940)",Adventure
+M942,Laura (1944),Crime|Film-Noir|Mystery
+M943,"Ghost and Mrs. Muir, The (1947)",Drama|Fantasy|Romance
+M944,Lost Horizon (1937),Drama
+M945,Top Hat (1935),Comedy|Musical|Romance
+M946,To Be or Not to Be (1942),Comedy|Drama|War
+M947,My Man Godfrey (1936),Comedy|Romance
+M948,Giant (1956),Drama|Romance|Western
+M949,East of Eden (1955),Drama
+M950,"Thin Man, The (1934)",Comedy|Crime
+M951,His Girl Friday (1940),Comedy|Romance
+M952,Around the World in 80 Days (1956),Adventure|Comedy
+M953,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance
+M954,Mr. Smith Goes to Washington (1939),Drama
+M955,Bringing Up Baby (1938),Comedy|Romance
+M956,Penny Serenade (1941),Drama|Romance
+M959,Of Human Bondage (1934),Drama
+M961,Little Lord Fauntleroy (1936),Drama
+M963,"Inspector General, The (1949)",Musical
+M965,"39 Steps, The (1935)",Drama|Mystery|Thriller
+M968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller
+M969,"African Queen, The (1951)",Adventure|Comedy|Romance|War
+M970,Beat the Devil (1953),Adventure|Comedy|Crime|Drama|Romance
+M971,Cat on a Hot Tin Roof (1958),Drama
+M973,Meet John Doe (1941),Comedy|Drama
+M976,"Farewell to Arms, A (1932)",Romance|War
+M979,Nothing Personal (1995),Drama|War
+M981,Dangerous Ground (1997),Drama
+M982,Picnic (1955),Drama
+M984,"Pompatus of Love, The (1996)",Comedy|Drama
+M986,Fly Away Home (1996),Adventure|Children
+M987,Bliss (1997),Drama|Romance
+M988,Grace of My Heart (1996),Comedy|Drama
+M990,Maximum Risk (1996),Action|Adventure|Thriller
+M991,Michael Collins (1996),Drama
+M993,Infinity (1996),Drama
+M994,Big Night (1996),Comedy|Drama
+M996,Last Man Standing (1996),Action|Crime|Drama|Thriller
+M998,Set It Off (1996),Action|Crime
+M999,2 Days in the Valley (1996),Crime|Film-Noir
+M1003,Extreme Measures (1996),Drama|Thriller
+M1004,"Glimmer Man, The (1996)",Action|Thriller
+M1005,D3: The Mighty Ducks (1996),Children|Comedy
+M1006,"Chamber, The (1996)",Drama
+M1007,"Apple Dumpling Gang, The (1975)",Children|Comedy|Western
+M1008,"Davy Crockett, King of the Wild Frontier (1955)",Adventure|Western
+M1009,Escape to Witch Mountain (1975),Adventure|Children|Fantasy
+M1010,"Love Bug, The (1969)",Children|Comedy
+M1011,Herbie Rides Again (1974),Children|Comedy|Fantasy|Romance
+M1012,Old Yeller (1957),Children|Drama
+M1013,"Parent Trap, The (1961)",Children|Comedy|Romance
+M1014,Pollyanna (1960),Children|Comedy|Drama
+M1015,Homeward Bound: The Incredible Journey (1993),Adventure|Children|Drama
+M1016,"Shaggy Dog, The (1959)",Children|Comedy
+M1017,Swiss Family Robinson (1960),Adventure|Children
+M1018,That Darn Cat! (1965),Children|Comedy|Mystery
+M1019,"20,000 Leagues Under the Sea (1954)",Adventure|Drama|Sci-Fi
+M1020,Cool Runnings (1993),Comedy
+M1021,Angels in the Outfield (1994),Children|Comedy
+M1022,Cinderella (1950),Animation|Children|Fantasy|Musical|Romance
+M1023,Winnie the Pooh and the Blustery Day (1968),Animation|Children|Musical
+M1024,"Three Caballeros, The (1945)",Animation|Children|Musical
+M1025,"Sword in the Stone, The (1963)",Animation|Children|Fantasy|Musical
+M1027,Robin Hood: Prince of Thieves (1991),Adventure|Drama
+M1028,Mary Poppins (1964),Children|Comedy|Fantasy|Musical
+M1029,Dumbo (1941),Animation|Children|Drama|Musical
+M1030,Pete's Dragon (1977),Adventure|Animation|Children|Musical
+M1031,Bedknobs and Broomsticks (1971),Adventure|Children|Musical
+M1032,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical
+M1033,"Fox and the Hound, The (1981)",Animation|Children|Drama
+M1034,Freeway (1996),Comedy|Crime|Drama|Thriller
+M1035,"Sound of Music, The (1965)",Musical|Romance
+M1036,Die Hard (1988),Action|Crime|Thriller
+M1037,"Lawnmower Man, The (1992)",Action|Horror|Sci-Fi|Thriller
+M1040,"Secret Agent, The (1996)",Drama
+M1041,Secrets & Lies (1996),Drama
+M1042,That Thing You Do! (1996),Comedy|Drama
+M1043,To Gillian on Her 37th Birthday (1996),Drama|Romance
+M1046,Beautiful Thing (1996),Drama|Romance
+M1047,"Long Kiss Goodnight, The (1996)",Action|Drama|Thriller
+M1049,"Ghost and the Darkness, The (1996)",Action|Adventure
+M1050,Looking for Richard (1996),Documentary|Drama
+M1051,Trees Lounge (1996),Drama
+M1053,Normal Life (1996),Crime|Drama|Romance
+M1054,Get on the Bus (1996),Drama
+M1055,Shadow Conspiracy (1997),Thriller
+M1056,Jude (1996),Drama
+M1057,Everyone Says I Love You (1996),Comedy|Musical|Romance
+M1059,William Shakespeare's Romeo + Juliet (1996),Drama|Romance
+M1060,Swingers (1996),Comedy|Drama
+M1061,Sleepers (1996),Thriller
+M1064,Aladdin and the King of Thieves (1996),Animation|Children|Comedy|Fantasy|Musical|Romance
+M1066,Shall We Dance (1937),Comedy|Musical|Romance
+M1068,Crossfire (1947),Crime|Film-Noir
+M1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+M1076,"Innocents, The (1961)",Drama|Horror|Thriller
+M1077,Sleeper (1973),Comedy|Sci-Fi
+M1078,Bananas (1971),Comedy|War
+M1079,"Fish Called Wanda, A (1988)",Comedy|Crime
+M1080,Monty Python's Life of Brian (1979),Comedy
+M1081,Victor/Victoria (1982),Comedy|Musical|Romance
+M1082,"Candidate, The (1972)",Drama
+M1083,"Great Race, The (1965)",Comedy|Musical
+M1084,Bonnie and Clyde (1967),Crime|Drama
+M1085,"Old Man and the Sea, The (1958)",Adventure|Drama
+M1086,Dial M for Murder (1954),Crime|Mystery|Thriller
+M1088,Dirty Dancing (1987),Drama|Musical|Romance
+M1089,Reservoir Dogs (1992),Crime|Mystery|Thriller
+M1090,Platoon (1986),Drama|War
+M1091,Weekend at Bernie's (1989),Comedy
+M1092,Basic Instinct (1992),Crime|Mystery|Thriller
+M1093,"Doors, The (1991)",Drama
+M1094,"Crying Game, The (1992)",Drama|Romance|Thriller
+M1095,Glengarry Glen Ross (1992),Drama
+M1096,Sophie's Choice (1982),Drama
+M1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+M1099,"Christmas Carol, A (1938)",Children|Drama|Fantasy
+M1100,Days of Thunder (1990),Action|Drama|Romance
+M1101,Top Gun (1986),Action|Romance
+M1103,Rebel Without a Cause (1955),Drama
+M1104,"Streetcar Named Desire, A (1951)",Drama
+M1105,Children of the Corn IV: The Gathering (1996),Horror
+M1107,Loser (1991),Comedy
+M1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary
+M1112,Palookaville (1996),Action|Comedy|Drama
+M1114,"Funeral, The (1996)",Crime|Drama
+M1116,"Single Girl, A (Fille seule, La) (1995)",Drama
+M1117,"Eighth Day, The (Huitième jour, Le) (1996)",Drama
+M1119,Drunks (1995),Drama
+M1120,"People vs. Larry Flynt, The (1996)",Comedy|Drama
+M1121,Glory Daze (1995),Drama
+M1123,"Perfect Candidate, A (1996)",Documentary
+M1124,On Golden Pond (1981),Drama
+M1125,"Return of the Pink Panther, The (1975)",Comedy|Crime
+M1126,Drop Dead Fred (1991),Comedy|Fantasy
+M1127,"Abyss, The (1989)",Action|Adventure|Sci-Fi|Thriller
+M1128,"Fog, The (1980)",Horror
+M1129,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller
+M1130,"Howling, The (1980)",Horror|Mystery
+M1131,Jean de Florette (1986),Drama|Mystery
+M1132,Manon of the Spring (Manon des sources) (1986),Drama
+M1135,Private Benjamin (1980),Comedy
+M1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+M1137,Hustler White (1996),Romance
+M1140,Entertaining Angels: The Dorothy Day Story (1996),Drama
+M1144,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+M1147,When We Were Kings (1996),Documentary
+M1148,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime
+M1150,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",Drama
+M1151,Lesson Faust (1994),Animation|Comedy|Drama|Fantasy
+M1156,"Children Are Watching Us, The (Bambini ci guardano, I) (1944)",Drama
+M1161,"Tin Drum, The (Blechtrommel, Die) (1979)",Drama|War
+M1162,"Ruling Class, The (1972)",Comedy|Drama
+M1163,Mina Tannenbaum (1994),Drama
+M1167,Dear God (1996),Comedy
+M1170,Best of the Best 3: No Turning Back (1995),Action
+M1171,Bob Roberts (1992),Comedy
+M1172,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama
+M1173,"Cook the Thief His Wife & Her Lover, The (1989)",Comedy|Drama
+M1175,Delicatessen (1991),Comedy|Drama|Romance
+M1176,"Double Life of Veronique, The (Double Vie de Véronique, La) (1991)",Drama|Fantasy|Romance
+M1177,Enchanted April (1992),Drama|Romance
+M1178,Paths of Glory (1957),Drama|War
+M1179,"Grifters, The (1990)",Crime|Drama|Film-Noir
+M1180,Hear My Song (1991),Comedy
+M1183,"English Patient, The (1996)",Drama|Romance|War
+M1184,Mediterraneo (1991),Comedy|Drama
+M1185,My Left Foot (1989),Drama
+M1186,"Sex, Lies, and Videotape (1989)",Drama
+M1187,Passion Fish (1992),Drama
+M1188,Strictly Ballroom (1992),Comedy|Romance
+M1189,"Thin Blue Line, The (1988)",Documentary
+M1190,Tie Me Up! Tie Me Down! (¡Átame!) (1990),Crime|Drama|Romance
+M1191,Madonna: Truth or Dare (1991),Documentary|Musical
+M1192,Paris Is Burning (1990),Documentary
+M1193,One Flew Over the Cuckoo's Nest (1975),Drama
+M1194,Cheech and Chong's Up in Smoke (1978),Comedy
+M1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+M1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+M1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+M1199,Brazil (1985),Fantasy|Sci-Fi
+M1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+M1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western
+M1202,Withnail & I (1987),Comedy
+M1203,12 Angry Men (1957),Drama
+M1204,Lawrence of Arabia (1962),Adventure|Drama|War
+M1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller
+M1207,To Kill a Mockingbird (1962),Drama
+M1208,Apocalypse Now (1979),Action|Drama|War
+M1209,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western
+M1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+M1211,"Wings of Desire (Himmel über Berlin, Der) (1987)",Drama|Fantasy|Romance
+M1212,"Third Man, The (1949)",Film-Noir|Mystery|Thriller
+M1213,Goodfellas (1990),Crime|Drama
+M1214,Alien (1979),Horror|Sci-Fi
+M1215,Army of Darkness (1993),Action|Adventure|Comedy|Fantasy|Horror
+M1216,"Big Blue, The (Grand bleu, Le) (1988)",Adventure|Drama|Romance
+M1217,Ran (1985),Drama|War
+M1218,"Killer, The (Die xue shuang xiong) (1989)",Action|Crime|Drama|Thriller
+M1219,Psycho (1960),Crime|Horror
+M1220,"Blues Brothers, The (1980)",Action|Comedy|Musical
+M1221,"Godfather: Part II, The (1974)",Crime|Drama
+M1222,Full Metal Jacket (1987),Drama|War
+M1223,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi
+M1224,Henry V (1989),Action|Drama|Romance|War
+M1225,Amadeus (1984),Drama
+M1226,"Quiet Man, The (1952)",Drama|Romance
+M1227,Once Upon a Time in America (1984),Crime|Drama
+M1228,Raging Bull (1980),Drama
+M1230,Annie Hall (1977),Comedy|Romance
+M1231,"Right Stuff, The (1983)",Drama
+M1232,Stalker (1979),Drama|Mystery|Sci-Fi
+M1233,"Boot, Das (Boat, The) (1981)",Action|Drama|War
+M1234,"Sting, The (1973)",Comedy|Crime
+M1235,Harold and Maude (1971),Comedy|Drama|Romance
+M1236,Trust (1990),Comedy|Drama|Romance
+M1237,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama
+M1238,Local Hero (1983),Comedy
+M1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+M1241,Dead Alive (Braindead) (1992),Comedy|Fantasy|Horror
+M1242,Glory (1989),Drama|War
+M1243,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama
+M1244,Manhattan (1979),Comedy|Drama|Romance
+M1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller
+M1246,Dead Poets Society (1989),Drama
+M1247,"Graduate, The (1967)",Comedy|Drama|Romance
+M1248,Touch of Evil (1958),Crime|Film-Noir|Thriller
+M1249,"Femme Nikita, La (Nikita) (1990)",Action|Crime|Romance|Thriller
+M1250,"Bridge on the River Kwai, The (1957)",Adventure|Drama|War
+M1251,8 1/2 (8½) (1963),Drama|Fantasy
+M1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+M1253,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi|Thriller
+M1254,"Treasure of the Sierra Madre, The (1948)",Action|Adventure|Drama|Western
+M1255,Bad Taste (1987),Comedy|Horror|Sci-Fi
+M1256,Duck Soup (1933),Comedy|Musical|War
+M1257,Better Off Dead... (1985),Comedy|Romance
+M1258,"Shining, The (1980)",Horror
+M1259,Stand by Me (1986),Adventure|Drama
+M1260,M (1931),Crime|Film-Noir|Thriller
+M1261,Evil Dead II (Dead by Dawn) (1987),Action|Comedy|Fantasy|Horror
+M1262,"Great Escape, The (1963)",Action|Adventure|Drama|War
+M1263,"Deer Hunter, The (1978)",Drama|War
+M1264,Diva (1981),Action|Drama|Mystery|Romance|Thriller
+M1265,Groundhog Day (1993),Comedy|Fantasy|Romance
+M1266,Unforgiven (1992),Drama|Western
+M1267,"Manchurian Candidate, The (1962)",Crime|Thriller|War
+M1268,Pump Up the Volume (1990),Comedy|Drama
+M1269,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+M1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+M1271,Fried Green Tomatoes (1991),Comedy|Crime|Drama
+M1272,Patton (1970),Drama|War
+M1273,Down by Law (1986),Comedy|Drama|Film-Noir
+M1274,Akira (1988),Action|Adventure|Animation|Sci-Fi
+M1275,Highlander (1986),Action|Adventure|Fantasy
+M1276,Cool Hand Luke (1967),Drama
+M1277,Cyrano de Bergerac (1990),Comedy|Drama|Romance
+M1278,Young Frankenstein (1974),Comedy|Fantasy
+M1279,Night on Earth (1991),Comedy|Drama
+M1280,Raise the Red Lantern (Da hong deng long gao gao gua) (1991),Drama
+M1281,"Great Dictator, The (1940)",Comedy|Drama|War
+M1282,Fantasia (1940),Animation|Children|Fantasy|Musical
+M1283,High Noon (1952),Drama|Western
+M1284,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery
+M1285,Heathers (1989),Comedy
+M1286,Somewhere in Time (1980),Drama|Romance
+M1287,Ben-Hur (1959),Action|Adventure|Drama
+M1288,This Is Spinal Tap (1984),Comedy
+M1289,Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983),Documentary
+M1290,Some Kind of Wonderful (1987),Drama|Romance
+M1291,Indiana Jones and the Last Crusade (1989),Action|Adventure
+M1292,Being There (1979),Comedy|Drama
+M1293,Gandhi (1982),Drama
+M1295,"Unbearable Lightness of Being, The (1988)",Drama
+M1296,"Room with a View, A (1986)",Drama|Romance
+M1297,Real Genius (1985),Comedy
+M1298,Pink Floyd: The Wall (1982),Drama|Musical
+M1299,"Killing Fields, The (1984)",Drama|War
+M1300,My Life as a Dog (Mitt liv som hund) (1985),Comedy|Drama
+M1301,Forbidden Planet (1956),Drama|Sci-Fi
+M1302,Field of Dreams (1989),Children|Drama|Fantasy
+M1303,"Man Who Would Be King, The (1975)",Adventure|Drama
+M1304,Butch Cassidy and the Sundance Kid (1969),Action|Western
+M1305,"Paris, Texas (1984)",Drama|Romance
+M1306,Until the End of the World (Bis ans Ende der Welt) (1991),Adventure|Drama|Sci-Fi
+M1307,When Harry Met Sally... (1989),Comedy|Romance
+M1310,Hype! (1996),Documentary
+M1312,Female Perversions (1996),Drama
+M1318,Blue Juice (1995),Comedy|Drama
+M1320,Alien³ (a.k.a. Alien 3) (1992),Action|Horror|Sci-Fi|Thriller
+M1321,"American Werewolf in London, An (1981)",Comedy|Horror|Thriller
+M1322,Amityville 1992: It's About Time (1992),Horror
+M1323,Amityville 3-D (1983),Horror
+M1324,Amityville: Dollhouse (1996),Horror
+M1325,Amityville: A New Generation (1993),Horror
+M1326,Amityville II: The Possession (1982),Horror
+M1327,"Amityville Horror, The (1979)",Drama|Horror|Mystery|Thriller
+M1328,"Amityville Curse, The (1990)",Horror
+M1329,Blood for Dracula (Andy Warhol's Dracula) (1974),Horror
+M1330,April Fool's Day (1986),Horror
+M1331,Audrey Rose (1977),Horror
+M1332,"Believers, The (1987)",Horror|Thriller
+M1333,"Birds, The (1963)",Horror|Thriller
+M1334,"Blob, The (1958)",Horror|Sci-Fi
+M1335,Blood Beach (1981),Horror|Mystery
+M1336,Body Parts (1991),Horror|Thriller
+M1337,"Body Snatcher, The (1945)",Drama|Horror|Thriller
+M1339,Dracula (Bram Stoker's Dracula) (1992),Fantasy|Horror|Romance|Thriller
+M1340,"Bride of Frankenstein, The (Bride of Frankenstein) (1935)",Drama|Horror|Sci-Fi
+M1341,Burnt Offerings (1976),Horror
+M1342,Candyman (1992),Horror|Thriller
+M1343,Cape Fear (1991),Thriller
+M1344,Cape Fear (1962),Crime|Drama|Thriller
+M1345,Carrie (1976),Drama|Fantasy|Horror|Thriller
+M1346,Cat People (1982),Drama|Fantasy|Horror
+M1347,"Nightmare on Elm Street, A (1984)",Horror|Thriller
+M1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Horror
+M1349,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice) (1986),Horror
+M1350,"Omen, The (1976)",Horror|Mystery|Thriller
+M1351,Blood and Wine (Blood & Wine) (1996),Crime|Drama|Thriller
+M1352,Albino Alligator (1996),Crime|Thriller
+M1353,"Mirror Has Two Faces, The (1996)",Comedy|Drama|Romance
+M1354,Breaking the Waves (1996),Drama|Mystery
+M1355,Nightwatch (1997),Horror|Thriller
+M1356,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi|Thriller
+M1357,Shine (1996),Drama|Romance
+M1358,Sling Blade (1996),Drama
+M1359,Jingle All the Way (1996),Children|Comedy
+M1361,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary
+M1363,"Preacher's Wife, The (1996)",Drama
+M1365,Ridicule (1996),Drama
+M1366,"Crucible, The (1996)",Drama
+M1367,101 Dalmatians (1996),Adventure|Children|Comedy
+M1370,Die Hard 2 (1990),Action|Adventure|Thriller
+M1371,Star Trek: The Motion Picture (1979),Adventure|Sci-Fi
+M1372,Star Trek VI: The Undiscovered Country (1991),Action|Mystery|Sci-Fi
+M1373,Star Trek V: The Final Frontier (1989),Action|Sci-Fi
+M1374,Star Trek II: The Wrath of Khan (1982),Action|Adventure|Sci-Fi|Thriller
+M1375,Star Trek III: The Search for Spock (1984),Action|Adventure|Sci-Fi
+M1376,Star Trek IV: The Voyage Home (1986),Adventure|Comedy|Sci-Fi
+M1377,Batman Returns (1992),Action|Crime
+M1378,Young Guns (1988),Action|Comedy|Western
+M1379,Young Guns II (1990),Action|Western
+M1380,Grease (1978),Comedy|Musical|Romance
+M1381,Grease 2 (1982),Comedy|Musical|Romance
+M1382,Marked for Death (1990),Action|Drama
+M1385,Under Siege (1992),Action|Drama|Thriller
+M1387,Jaws (1975),Action|Horror
+M1388,Jaws 2 (1978),Horror|Thriller
+M1389,Jaws 3-D (1983),Action|Horror
+M1390,My Fellow Americans (1996),Comedy
+M1391,Mars Attacks! (1996),Action|Comedy|Sci-Fi
+M1392,Citizen Ruth (1996),Comedy|Drama
+M1393,Jerry Maguire (1996),Drama|Romance
+M1394,Raising Arizona (1987),Comedy
+M1395,Tin Men (1987),Comedy|Drama
+M1396,Sneakers (1992),Action|Comedy|Crime|Drama|Sci-Fi
+M1397,Bastard Out of Carolina (1996),Drama
+M1398,In Love and War (1996),Romance|War
+M1399,Marvin's Room (1996),Drama
+M1401,Ghosts of Mississippi (1996),Drama
+M1405,Beavis and Butt-Head Do America (1996),Adventure|Animation|Comedy|Crime
+M1406,La Cérémonie (1995),Crime|Drama|Mystery|Thriller
+M1407,Scream (1996),Comedy|Horror|Mystery|Thriller
+M1408,"Last of the Mohicans, The (1992)",Action|Romance|War|Western
+M1409,Michael (1996),Comedy|Drama|Fantasy|Romance
+M1411,Hamlet (1996),Crime|Drama|Romance
+M1412,Some Mother's Son (1996),Drama
+M1413,"Whole Wide World, The (1996)",Drama
+M1414,Mother (1996),Comedy
+M1415,"Thieves (Voleurs, Les) (1996)",Crime|Drama|Romance
+M1416,Evita (1996),Drama|Musical
+M1417,"Portrait of a Lady, The (1996)",Drama
+M1419,Walkabout (1971),Adventure|Drama
+M1422,Murder at 1600 (1997),Crime|Drama|Mystery|Thriller
+M1423,Hearts and Minds (1996),Drama
+M1425,Fierce Creatures (1997),Comedy
+M1426,Zeus and Roxanne (1997),Children
+M1427,Turbulence (1997),Action|Thriller
+M1428,Angel Baby (1995),Drama
+M1429,First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996),Action|Adventure|Comedy|Thriller
+M1430,Underworld (1996),Comedy|Thriller
+M1431,Beverly Hills Ninja (1997),Action|Comedy
+M1432,Metro (1997),Action|Comedy|Crime|Drama|Thriller
+M1437,"Cement Garden, The (1993)",Drama
+M1438,Dante's Peak (1997),Action|Thriller
+M1439,Meet Wally Sparks (1997),Comedy
+M1440,Amos & Andrew (1993),Comedy
+M1441,Benny & Joon (1993),Comedy|Romance
+M1442,Prefontaine (1997),Drama
+M1445,McHale's Navy (1997),Comedy|War
+M1446,Kolya (Kolja) (1996),Comedy|Drama
+M1447,Gridlock'd (1997),Crime
+M1449,Waiting for Guffman (1996),Comedy
+M1453,"Beautician and the Beast, The (1997)",Comedy|Romance
+M1454,SubUrbia (1997),Comedy|Drama
+M1456,"Pest, The (1997)",Comedy
+M1457,Fools Rush In (1997),Comedy|Drama|Romance
+M1458,Touch (1997),Drama|Fantasy|Romance
+M1459,Absolute Power (1997),Mystery|Thriller
+M1460,That Darn Cat (1997),Children|Comedy|Mystery
+M1461,Vegas Vacation (National Lampoon's Las Vegas Vacation) (1997),Comedy
+M1464,Lost Highway (1997),Crime|Drama|Fantasy|Film-Noir|Mystery|Romance
+M1465,Rosewood (1997),Action|Drama
+M1466,Donnie Brasco (1997),Crime|Drama
+M1468,Booty Call (1997),Comedy|Romance
+M1473,Best Men (1997),Action|Comedy|Crime|Drama
+M1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997),Children|Comedy
+M1475,Kama Sutra: A Tale of Love (1996),Romance
+M1476,Private Parts (1997),Comedy|Drama
+M1477,Love Jones (1997),Romance
+M1479,"Saint, The (1997)",Action|Romance|Sci-Fi|Thriller
+M1480,Smilla's Sense of Snow (1997),Drama|Thriller
+M1483,Crash (1996),Drama|Thriller
+M1484,"Daytrippers, The (1996)",Comedy|Drama|Mystery|Romance
+M1485,Liar Liar (1997),Comedy
+M1487,Selena (1997),Drama|Musical
+M1488,"Devil's Own, The (1997)",Action|Drama|Thriller
+M1489,Cats Don't Dance (1997),Animation|Children|Musical
+M1490,B*A*P*S (1997),Comedy
+M1493,Love and Other Catastrophes (1996),Romance
+M1495,Turbo: A Power Rangers Movie (1997),Action|Adventure|Children
+M1496,Anna Karenina (1997),Drama|Romance
+M1497,Double Team (1997),Action
+M1498,Inventing the Abbotts (1997),Drama|Romance
+M1499,Anaconda (1997),Action|Adventure|Thriller
+M1500,Grosse Pointe Blank (1997),Comedy|Crime|Romance
+M1502,Kissed (1996),Drama|Romance
+M1503,8 Heads in a Duffel Bag (1997),Comedy
+M1507,Paradise Road (1997),Drama|War
+M1513,Romy and Michele's High School Reunion (1997),Comedy
+M1514,Temptress Moon (Feng Yue) (1996),Romance
+M1515,Volcano (1997),Action|Drama|Thriller
+M1516,Children of the Revolution (1996),Comedy
+M1517,Austin Powers: International Man of Mystery (1997),Action|Adventure|Comedy
+M1518,Breakdown (1997),Action|Thriller
+M1519,Broken English (1996),Drama
+M1526,Fathers' Day (1997),Comedy
+M1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi
+M1529,Nowhere (1997),Comedy|Drama
+M1533,"Promise, The (La promesse) (1996)",Drama
+M1537,Shall We Dance? (Shall We Dansu?) (1996),Comedy|Drama|Romance
+M1541,Addicted to Love (1997),Comedy|Romance
+M1542,Brassed Off (1996),Comedy|Drama|Romance
+M1544,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller
+M1545,Ponette (1996),Drama
+M1546,Schizopolis (1996),Comedy
+M1547,Shiloh (1997),Children|Drama
+M1549,Rough Magic (1995),Drama|Romance
+M1550,Trial and Error (1997),Comedy|Romance
+M1551,Buddy (1997),Adventure|Children|Drama
+M1552,Con Air (1997),Action|Adventure|Thriller
+M1554,"Pillow Book, The (1996)",Drama|Romance
+M1556,Speed 2: Cruise Control (1997),Action|Romance|Thriller
+M1562,Batman & Robin (1997),Action|Adventure|Fantasy|Thriller
+M1564,For Roseanna (Roseanna's Grave) (1997),Comedy|Drama|Romance
+M1565,Head Above Water (1996),Comedy|Thriller
+M1566,Hercules (1997),Adventure|Animation|Children|Comedy|Musical
+M1569,My Best Friend's Wedding (1997),Comedy|Romance
+M1571,When the Cat's Away (Chacun cherche son chat) (1996),Comedy|Romance
+M1572,"Contempt (Mépris, Le) (1963)",Drama
+M1573,Face/Off (1997),Action|Crime|Drama|Thriller
+M1574,Fall (1997),Romance
+M1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+M1581,Out to Sea (1997),Comedy
+M1582,Wild America (1997),Adventure|Children
+M1583,"Simple Wish, A (1997)",Children|Fantasy
+M1584,Contact (1997),Drama|Sci-Fi
+M1585,Love Serenade (1996),Comedy
+M1586,G.I. Jane (1997),Action|Drama
+M1587,Conan the Barbarian (1982),Action|Adventure|Fantasy
+M1588,George of the Jungle (1997),Children|Comedy
+M1589,Cop Land (1997),Action|Crime|Drama|Thriller
+M1590,Event Horizon (1997),Horror|Sci-Fi|Thriller
+M1591,Spawn (1997),Action|Adventure|Sci-Fi|Thriller
+M1592,Air Bud (1997),Children|Comedy
+M1593,Picture Perfect (1997),Comedy|Romance
+M1594,In the Company of Men (1997),Comedy|Drama
+M1596,Career Girls (1997),Drama
+M1597,Conspiracy Theory (1997),Drama|Mystery|Romance|Thriller
+M1598,Desperate Measures (1998),Crime|Drama|Thriller
+M1599,Steel (1997),Action
+M1600,She's So Lovely (1997),Drama|Romance
+M1601,Hoodlum (1997),Crime|Drama|Film-Noir
+M1602,Leave It to Beaver (1997),Comedy
+M1603,Mimic (1997),Horror|Sci-Fi|Thriller
+M1604,Money Talks (1997),Action|Comedy
+M1605,Excess Baggage (1997),Adventure|Romance
+M1606,Kull the Conqueror (1997),Action|Adventure
+M1608,Air Force One (1997),Action|Thriller
+M1609,187 (One Eight Seven) (1997),Drama|Thriller
+M1610,"Hunt for Red October, The (1990)",Action|Adventure|Thriller
+M1611,My Own Private Idaho (1991),Drama|Romance
+M1612,"Kiss Me, Guido (1997)",Comedy
+M1613,Star Maps (1997),Drama
+M1614,In & Out (1997),Comedy
+M1615,"Edge, The (1997)",Adventure|Drama
+M1616,"Peacemaker, The (1997)",Action|Thriller|War
+M1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+M1619,Seven Years in Tibet (1997),Adventure|Drama|War
+M1620,Kiss the Girls (1997),Crime|Drama|Mystery|Thriller
+M1621,Soul Food (1997),Drama
+M1623,Wishmaster (1997),Horror
+M1624,"Thousand Acres, A (1997)",Drama
+M1625,"Game, The (1997)",Drama|Mystery|Thriller
+M1626,Fire Down Below (1997),Action|Drama|Thriller
+M1627,U Turn (1997),Crime|Drama|Mystery
+M1629,"MatchMaker, The (1997)",Comedy|Romance
+M1631,"Assignment, The (1997)",Action|Thriller
+M1633,Ulee's Gold (1997),Drama
+M1635,"Ice Storm, The (1997)",Drama
+M1639,Chasing Amy (1997),Comedy|Drama|Romance
+M1641,"Full Monty, The (1997)",Comedy|Drama
+M1642,Indian Summer (a.k.a. Alive & Kicking) (1996),Comedy|Drama
+M1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",Drama|Romance
+M1644,I Know What You Did Last Summer (1997),Horror|Mystery|Thriller
+M1645,The Devil's Advocate (1997),Drama|Mystery|Thriller
+M1646,RocketMan (a.k.a. Rocket Man) (1997),Children|Comedy|Romance|Sci-Fi
+M1647,Playing God (1997),Crime|Drama|Thriller
+M1648,"House of Yes, The (1997)",Comedy|Drama
+M1649,"Fast, Cheap & Out of Control (1997)",Documentary
+M1650,Washington Square (1997),Drama
+M1652,Year of the Horse (1997),Documentary
+M1653,Gattaca (1997),Drama|Sci-Fi|Thriller
+M1654,FairyTale: A True Story (1997),Children|Drama|Fantasy
+M1655,Phantoms (1998),Drama|Horror|Thriller
+M1656,Swept from the Sea (1997),Drama|Romance
+M1658,"Life Less Ordinary, A (1997)",Romance|Thriller
+M1659,Hurricane Streets (1997),Drama
+M1660,Eve's Bayou (1997),Drama
+M1661,Switchback (1997),Crime|Mystery|Thriller
+M1662,Gang Related (1997),Crime
+M1663,Stripes (1981),Comedy|War
+M1665,Bean (1997),Comedy
+M1667,Mad City (1997),Action|Drama
+M1670,Welcome to Sarajevo (1997),Drama|War
+M1671,Deceiver (1997),Crime|Drama|Thriller
+M1672,"Rainmaker, The (1997)",Drama
+M1673,Boogie Nights (1997),Drama
+M1674,Witness (1985),Drama|Romance|Thriller
+M1675,Incognito (1997),Crime|Thriller
+M1676,Starship Troopers (1997),Action|Sci-Fi
+M1677,Critical Care (1997),Comedy|Drama
+M1678,"Joy Luck Club, The (1993)",Drama|Romance
+M1679,Chairman of the Board (1998),Comedy
+M1680,Sliding Doors (1998),Drama|Romance
+M1681,Mortal Kombat: Annihilation (1997),Action|Adventure|Fantasy
+M1682,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi
+M1683,"Wings of the Dove, The (1997)",Drama|Romance
+M1684,Mrs. Dalloway (1997),Drama|Romance
+M1685,"I Love You, I Love You Not (1996)",Drama|Romance
+M1686,Red Corner (1997),Crime|Thriller
+M1687,"Jackal, The (1997)",Action|Thriller
+M1688,Anastasia (1997),Adventure|Animation|Children|Drama|Musical
+M1689,"Man Who Knew Too Little, The (1997)",Comedy|Crime|Thriller
+M1690,Alien: Resurrection (1997),Action|Horror|Sci-Fi
+M1693,Amistad (1997),Drama|Mystery
+M1694,"Apostle, The (1997)",Drama
+M1695,Artemisia (1997),Drama
+M1696,Bent (1997),Drama|War
+M1699,"Butcher Boy, The (1997)",Comedy|Drama
+M1701,Deconstructing Harry (1997),Comedy|Drama
+M1702,Flubber (1997),Children|Comedy|Fantasy
+M1703,For Richer or Poorer (1997),Comedy
+M1704,Good Will Hunting (1997),Drama|Romance
+M1707,Home Alone 3 (1997),Children|Comedy
+M1711,Midnight in the Garden of Good and Evil (1997),Crime|Drama|Mystery
+M1713,Mouse Hunt (1997),Children|Comedy
+M1717,Scream 2 (1997),Comedy|Horror|Mystery|Thriller
+M1718,Stranger in the House (1997),Thriller
+M1719,"Sweet Hereafter, The (1997)",Drama
+M1721,Titanic (1997),Drama|Romance
+M1722,Tomorrow Never Dies (1997),Action|Adventure|Thriller
+M1726,"Postman, The (1997)",Action|Adventure|Drama|Sci-Fi
+M1727,"Horse Whisperer, The (1998)",Drama|Romance
+M1729,Jackie Brown (1997),Crime|Drama|Thriller
+M1730,Kundun (1997),Drama
+M1731,Mr. Magoo (1997),Comedy
+M1732,"Big Lebowski, The (1998)",Comedy|Crime
+M1733,Afterglow (1997),Drama|Romance
+M1734,My Life in Pink (Ma vie en rose) (1997),Comedy|Drama
+M1735,Great Expectations (1998),Drama|Romance
+M1739,3 Ninjas: High Noon On Mega Mountain (1998),Action|Children|Comedy
+M1746,Senseless (1998),Comedy
+M1747,Wag the Dog (1997),Comedy
+M1748,Dark City (1998),Adventure|Film-Noir|Sci-Fi|Thriller
+M1752,Hard Rain (1998),Action|Crime|Thriller
+M1753,Half Baked (1998),Comedy
+M1754,Fallen (1998),Crime|Drama|Fantasy|Thriller
+M1755,Shooting Fish (1997),Comedy|Romance
+M1757,Fallen Angels (Duo luo tian shi) (1995),Drama|Romance
+M1759,"Four Days in September (O Que É Isso, Companheiro?) (1997)",Drama
+M1760,Spice World (1997),Comedy
+M1762,Deep Rising (1998),Action|Horror|Sci-Fi
+M1767,Music From Another Room (1998),Drama|Romance
+M1769,"Replacement Killers, The (1998)",Action|Crime|Thriller
+M1770,B. Monkey (1998),Crime|Romance|Thriller
+M1771,Night Flier (1997),Horror
+M1772,Blues Brothers 2000 (1998),Action|Comedy|Musical
+M1777,"Wedding Singer, The (1998)",Comedy|Romance
+M1779,Sphere (1998),Sci-Fi|Thriller
+M1783,Palmetto (1998),Crime|Drama|Mystery|Romance|Thriller
+M1784,As Good as It Gets (1997),Comedy|Drama|Romance
+M1785,King of New York (1990),Crime|Thriller
+M1791,Twilight (1998),Crime|Drama|Thriller
+M1792,U.S. Marshals (1998),Action|Crime|Thriller
+M1793,Welcome to Woop-Woop (1997),Comedy
+M1794,Love and Death on Long Island (1997),Comedy|Drama
+M1797,Everest (1998),Documentary|IMAX
+M1798,Hush (1998),Thriller
+M1799,Suicide Kings (1997),Comedy|Crime|Drama|Mystery|Thriller
+M1801,"Man in the Iron Mask, The (1998)",Action|Adventure|Drama
+M1804,"Newton Boys, The (1998)",Crime|Drama
+M1805,Wild Things (1998),Crime|Drama|Mystery|Thriller
+M1806,Paulie (1998),Adventure|Children|Comedy
+M1807,"Cool, Dry Place, A (1998)",Drama
+M1809,Fireworks (Hana-bi) (1997),Crime|Drama
+M1810,Primary Colors (1998),Comedy|Drama
+M1812,Wide Awake (1998),Children|Comedy|Drama
+M1816,Two Girls and a Guy (1997),Comedy|Drama
+M1821,"Object of My Affection, The (1998)",Comedy|Romance
+M1824,Homegrown (1998),Comedy|Thriller
+M1825,The Players Club (1998),Comedy|Drama
+M1826,Barney's Great Adventure (1998),Adventure|Children
+M1827,"Big One, The (1997)",Comedy|Documentary
+M1829,Chinese Box (1997),Drama|Romance
+M1831,Lost in Space (1998),Action|Adventure|Sci-Fi
+M1833,Mercury Rising (1998),Action|Drama|Thriller
+M1834,"Spanish Prisoner, The (1997)",Crime|Drama|Mystery|Thriller
+M1835,City of Angels (1998),Drama|Fantasy|Romance
+M1836,"Last Days of Disco, The (1998)",Comedy|Drama
+M1837,"Odd Couple II, The (1998)",Comedy
+M1839,My Giant (1998),Comedy
+M1840,He Got Game (1998),Drama
+M1841,"Gingerbread Man, The (1998)",Drama|Thriller
+M1844,Live Flesh (Carne trémula) (1997),Drama|Romance
+M1845,Zero Effect (1998),Comedy|Mystery|Thriller
+M1848,"Borrowers, The (1997)",Adventure|Children|Comedy|Fantasy
+M1855,Krippendorf's Tribe (1998),Comedy
+M1856,Kurt & Courtney (1998),Documentary
+M1857,"Real Blonde, The (1997)",Comedy
+M1858,Mr. Nice Guy (Yat goh ho yan) (1997),Action|Comedy
+M1859,Taste of Cherry (Ta'm e guilass) (1997),Drama
+M1860,Character (Karakter) (1997),Drama
+M1862,Species II (1998),Horror|Sci-Fi
+M1863,Major League: Back to the Minors (1998),Comedy
+M1866,"Big Hit, The (1998)",Action|Comedy|Crime
+M1867,Tarzan and the Lost City (1998),Action|Adventure
+M1870,"Dancer, Texas Pop. 81 (1998)",Comedy|Drama
+M1873,"Misérables, Les (1998)",Crime|Drama|Romance|War
+M1875,Clockwatchers (1997),Comedy
+M1876,Deep Impact (1998),Drama|Sci-Fi|Thriller
+M1881,Quest for Camelot (1998),Adventure|Animation|Children|Fantasy|Musical
+M1882,Godzilla (1998),Action|Sci-Fi|Thriller
+M1883,Bulworth (1998),Comedy|Drama|Romance
+M1884,Fear and Loathing in Las Vegas (1998),Adventure|Comedy|Drama
+M1885,"Opposite of Sex, The (1998)",Comedy|Drama|Romance
+M1887,Almost Heroes (1998),Adventure|Comedy|Western
+M1888,Hope Floats (1998),Comedy|Drama|Romance
+M1889,Insomnia (1997),Drama|Mystery|Thriller
+M1891,"Ugly, The (1997)",Horror|Thriller
+M1892,"Perfect Murder, A (1998)",Thriller
+M1893,Beyond Silence (Jenseits der Stille) (1996),Drama
+M1894,Six Days Seven Nights (1998),Adventure|Comedy|Romance
+M1895,Can't Hardly Wait (1998),Comedy|Drama|Romance
+M1897,High Art (1998),Drama|Romance
+M1900,"Children of Heaven, The (Bacheha-Ye Aseman) (1997)",Comedy|Drama
+M1902,Dream for an Insomniac (1996),Drama|Romance
+M1904,Henry Fool (1997),Comedy|Drama
+M1906,Mr. Jealousy (1997),Comedy|Romance
+M1907,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+M1909,"X-Files: Fight the Future, The (1998)",Action|Crime|Mystery|Sci-Fi|Thriller
+M1910,I Went Down (1997),Comedy|Crime|Drama
+M1911,Dr. Dolittle (1998),Comedy
+M1912,Out of Sight (1998),Comedy|Crime|Drama|Romance|Thriller
+M1913,Picnic at Hanging Rock (1975),Drama|Mystery
+M1914,Smoke Signals (1998),Comedy|Drama
+M1916,Buffalo '66 (a.k.a. Buffalo 66) (1998),Drama|Romance
+M1917,Armageddon (1998),Action|Romance|Sci-Fi|Thriller
+M1918,Lethal Weapon 4 (1998),Action|Comedy|Crime|Thriller
+M1919,Madeline (1998),Children|Comedy
+M1920,Small Soldiers (1998),Animation|Children|Fantasy|War
+M1921,Pi (1998),Drama|Sci-Fi|Thriller
+M1922,Whatever (1998),Drama
+M1923,There's Something About Mary (1998),Comedy|Romance
+M1924,Plan 9 from Outer Space (1959),Horror|Sci-Fi
+M1926,"Broadway Melody, The (1929)",Musical
+M1927,All Quiet on the Western Front (1930),Action|Drama|War
+M1928,Cimarron (1931),Drama|Western
+M1929,Grand Hotel (1932),Drama|Romance
+M1931,Mutiny on the Bounty (1935),Adventure|Drama
+M1932,"Great Ziegfeld, The (1936)",Drama|Musical
+M1933,"Life of Emile Zola, The (1937)",Drama
+M1934,You Can't Take It with You (1938),Comedy|Romance
+M1936,Mrs. Miniver (1942),Drama|War
+M1937,Going My Way (1944),Comedy|Drama|Musical
+M1938,"Lost Weekend, The (1945)",Drama
+M1939,"Best Years of Our Lives, The (1946)",Drama|War
+M1940,Gentleman's Agreement (1947),Drama
+M1941,Hamlet (1948),Drama
+M1942,All the King's Men (1949),Drama
+M1944,From Here to Eternity (1953),Drama|Romance|War
+M1945,On the Waterfront (1954),Crime|Drama
+M1946,Marty (1955),Drama|Romance
+M1947,West Side Story (1961),Drama|Musical|Romance
+M1948,Tom Jones (1963),Adventure|Comedy|Romance
+M1949,"Man for All Seasons, A (1966)",Drama
+M1950,In the Heat of the Night (1967),Drama|Mystery
+M1951,Oliver! (1968),Drama|Musical
+M1952,Midnight Cowboy (1969),Drama
+M1953,"French Connection, The (1971)",Action|Crime|Thriller
+M1954,Rocky (1976),Drama
+M1955,Kramer vs. Kramer (1979),Drama
+M1956,Ordinary People (1980),Drama
+M1957,Chariots of Fire (1981),Drama
+M1958,Terms of Endearment (1983),Comedy|Drama
+M1959,Out of Africa (1985),Drama|Romance
+M1960,"Last Emperor, The (1987)",Drama
+M1961,Rain Man (1988),Drama
+M1962,Driving Miss Daisy (1989),Drama
+M1963,Take the Money and Run (1969),Comedy|Crime
+M1964,Klute (1971),Drama|Mystery
+M1965,Repo Man (1984),Comedy|Sci-Fi
+M1966,Metropolitan (1990),Comedy
+M1967,Labyrinth (1986),Adventure|Fantasy|Musical
+M1968,"Breakfast Club, The (1985)",Comedy|Drama
+M1969,"Nightmare on Elm Street 2: Freddy's Revenge, A (1985)",Horror
+M1970,"Nightmare on Elm Street 3: Dream Warriors, A (1987)",Horror|Thriller
+M1971,"Nightmare on Elm Street 4: The Dream Master, A (1988)",Horror|Thriller
+M1972,"Nightmare on Elm Street 5: The Dream Child, A (1989)",Horror
+M1973,"Freddy's Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy's Dead, A) (1991)",Horror
+M1974,Friday the 13th (1980),Horror|Mystery|Thriller
+M1975,Friday the 13th Part 2 (1981),Horror
+M1976,Friday the 13th Part 3: 3D (1982),Horror
+M1977,Friday the 13th Part IV: The Final Chapter (1984),Horror
+M1978,Friday the 13th Part V: A New Beginning (1985),Horror
+M1979,Friday the 13th Part VI: Jason Lives (1986),Horror
+M1980,Friday the 13th Part VII: The New Blood (1988),Horror
+M1981,Friday the 13th Part VIII: Jason Takes Manhattan (1989),Horror
+M1982,Halloween (1978),Horror
+M1983,Halloween II (1981),Horror
+M1984,Halloween III: Season of the Witch (1982),Horror
+M1985,Halloween 4: The Return of Michael Myers (1988),Horror
+M1986,Halloween 5: The Revenge of Michael Myers (1989),Horror
+M1987,Prom Night (1980),Horror
+M1990,Prom Night IV: Deliver Us From Evil (1992),Horror
+M1991,Child's Play (1988),Horror|Thriller
+M1992,Child's Play 2 (1990),Horror|Thriller
+M1993,Child's Play 3 (1991),Comedy|Horror|Thriller
+M1994,Poltergeist (1982),Horror|Thriller
+M1995,Poltergeist II: The Other Side (1986),Horror|Thriller
+M1996,Poltergeist III (1988),Horror|Thriller
+M1997,"Exorcist, The (1973)",Horror|Mystery
+M1998,Exorcist II: The Heretic (1977),Horror
+M1999,"Exorcist III, The (1990)",Horror
+M2000,Lethal Weapon (1987),Action|Comedy|Crime|Drama
+M2001,Lethal Weapon 2 (1989),Action|Comedy|Crime|Drama
+M2002,Lethal Weapon 3 (1992),Action|Comedy|Crime|Drama
+M2003,Gremlins (1984),Comedy|Horror
+M2004,Gremlins 2: The New Batch (1990),Comedy|Horror
+M2005,"Goonies, The (1985)",Action|Adventure|Children|Comedy|Fantasy
+M2006,"Mask of Zorro, The (1998)",Action|Comedy|Romance
+M2007,Polish Wedding (1998),Comedy
+M2008,"This World, Then the Fireworks (1997)",Crime|Drama|Film-Noir
+M2009,Soylent Green (1973),Drama|Mystery|Sci-Fi|Thriller
+M2010,Metropolis (1927),Drama|Sci-Fi
+M2011,Back to the Future Part II (1989),Adventure|Comedy|Sci-Fi
+M2012,Back to the Future Part III (1990),Adventure|Comedy|Sci-Fi|Western
+M2013,"Poseidon Adventure, The (1972)",Action|Adventure|Drama
+M2014,Freaky Friday (1977),Children|Comedy|Fantasy
+M2015,"Absent-Minded Professor, The (1961)",Children|Comedy|Fantasy
+M2016,"Apple Dumpling Gang Rides Again, The (1979)",Children|Comedy|Western
+M2017,Babes in Toyland (1961),Children|Fantasy|Musical
+M2018,Bambi (1942),Animation|Children|Drama
+M2019,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+M2020,Dangerous Liaisons (1988),Drama|Romance
+M2021,Dune (1984),Adventure|Sci-Fi
+M2022,"Last Temptation of Christ, The (1988)",Drama
+M2023,"Godfather: Part III, The (1990)",Crime|Drama|Mystery|Thriller
+M2024,"Rapture, The (1991)",Drama|Mystery
+M2025,Lolita (1997),Drama|Romance
+M2026,Disturbing Behavior (1998),Horror|Thriller
+M2027,Jane Austen's Mafia! (1998),Comedy|Crime
+M2028,Saving Private Ryan (1998),Action|Drama|War
+M2032,"Barefoot Executive, The (1971)",Children|Comedy
+M2033,"Black Cauldron, The (1985)",Adventure|Animation|Children|Fantasy
+M2034,"Black Hole, The (1979)",Children|Sci-Fi
+M2035,Blackbeard's Ghost (1968),Children|Comedy
+M2036,Blank Check (1994),Children|Comedy
+M2037,Candleshoe (1977),Adventure|Children|Comedy
+M2038,"Cat from Outer Space, The (1978)",Children|Comedy|Sci-Fi
+M2040,"Computer Wore Tennis Shoes, The (1969)",Children|Comedy
+M2041,Condorman (1981),Action|Adventure|Children|Comedy
+M2042,D2: The Mighty Ducks (1994),Children|Comedy
+M2043,Darby O'Gill and the Little People (1959),Adventure|Children|Fantasy
+M2044,"Devil and Max Devlin, The (1981)",Comedy|Fantasy
+M2046,Flight of the Navigator (1986),Adventure|Children|Sci-Fi
+M2048,"Great Mouse Detective, The (1986)",Action|Animation|Children|Crime
+M2050,Herbie Goes Bananas (1980),Adventure|Children|Comedy
+M2051,Herbie Goes to Monte Carlo (1977),Adventure|Children|Comedy
+M2052,Hocus Pocus (1993),Children|Comedy|Fantasy|Horror
+M2053,"Honey, I Blew Up the Kid (1992)",Children|Comedy|Sci-Fi
+M2054,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+M2055,Hot Lead and Cold Feet (1978),Action|Comedy|Western
+M2056,In Search of the Castaways (1962),Adventure|Children
+M2057,"Incredible Journey, The (1963)",Adventure|Children
+M2058,"Negotiator, The (1998)",Action|Crime|Drama|Mystery|Thriller
+M2059,"Parent Trap, The (1998)",Children|Comedy|Romance
+M2060,BASEketball (1998),Comedy
+M2064,Roger & Me (1989),Documentary
+M2065,"Purple Rose of Cairo, The (1985)",Comedy|Drama|Fantasy|Romance
+M2066,Out of the Past (1947),Film-Noir
+M2067,Doctor Zhivago (1965),Drama|Romance|War
+M2068,Fanny and Alexander (Fanny och Alexander) (1982),Drama|Fantasy|Mystery
+M2069,"Trip to Bountiful, The (1985)",Drama
+M2070,Tender Mercies (1983),Drama|Romance|Western
+M2071,And the Band Played On (1993),Drama
+M2072,"'burbs, The (1989)",Comedy
+M2073,Fandango (1985),Comedy
+M2074,"Night Porter, The (Portiere di notte, Il) (1974)",Crime|Drama|Romance
+M2075,Mephisto (1981),Drama|War
+M2076,Blue Velvet (1986),Drama|Mystery|Thriller
+M2077,"Journey of Natty Gann, The (1985)",Adventure|Children
+M2078,"Jungle Book, The (1967)",Animation|Children|Comedy|Musical
+M2080,Lady and the Tramp (1955),Animation|Children|Comedy|Romance
+M2081,"Little Mermaid, The (1989)",Animation|Children|Comedy|Musical|Romance
+M2082,"Mighty Ducks, The (1992)",Children|Comedy
+M2083,"Muppet Christmas Carol, The (1992)",Children|Comedy|Musical
+M2084,Newsies (1992),Children|Musical
+M2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),Adventure|Animation|Children
+M2087,Peter Pan (1953),Animation|Children|Fantasy|Musical
+M2088,Popeye (1980),Adventure|Comedy|Musical
+M2089,"Rescuers Down Under, The (1990)",Adventure|Animation|Children
+M2090,"Rescuers, The (1977)",Adventure|Animation|Children|Crime|Drama
+M2091,Return from Witch Mountain (1978),Children|Sci-Fi
+M2092,"Return of Jafar, The (1994)",Adventure|Animation|Children|Fantasy|Musical|Romance
+M2093,Return to Oz (1985),Adventure|Children|Fantasy
+M2094,"Rocketeer, The (1991)",Action|Adventure|Sci-Fi
+M2095,"Shaggy D.A., The (1976)",Children|Comedy
+M2096,Sleeping Beauty (1959),Animation|Children|Musical
+M2097,Something Wicked This Way Comes (1983),Children|Drama|Fantasy|Mystery|Thriller
+M2098,Son of Flubber (1963),Children|Comedy
+M2099,Song of the South (1946),Adventure|Animation|Children|Musical
+M2100,Splash (1984),Comedy|Fantasy|Romance
+M2102,Steamboat Willie (1928),Animation|Children|Comedy|Musical
+M2103,Tall Tale (1995),Adventure|Children|Fantasy|Western
+M2104,Tex (1982),Drama
+M2105,Tron (1982),Action|Adventure|Sci-Fi
+M2106,Swing Kids (1993),Drama|War
+M2107,Halloween H20: 20 Years Later (Halloween 7: The Revenge of Laurie Strode) (1998),Horror|Thriller
+M2108,L.A. Story (1991),Comedy|Romance
+M2109,"Jerk, The (1979)",Comedy
+M2110,Dead Men Don't Wear Plaid (1982),Comedy|Crime|Thriller
+M2111,"Man with Two Brains, The (1983)",Comedy
+M2112,Grand Canyon (1991),Crime|Drama
+M2114,"Outsiders, The (1983)",Drama
+M2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy
+M2116,"Lord of the Rings, The (1978)",Adventure|Animation|Children|Fantasy
+M2117,1984 (Nineteen Eighty-Four) (1984),Drama|Sci-Fi
+M2118,"Dead Zone, The (1983)",Thriller
+M2119,Maximum Overdrive (1986),Horror
+M2120,Needful Things (1993),Drama|Horror
+M2121,Cujo (1983),Horror|Thriller
+M2122,Children of the Corn (1984),Horror|Thriller
+M2123,All Dogs Go to Heaven (1989),Animation|Children|Comedy|Drama|Fantasy
+M2124,"Addams Family, The (1991)",Children|Comedy|Fantasy
+M2125,Ever After: A Cinderella Story (1998),Comedy|Drama|Romance
+M2126,Snake Eyes (1998),Action|Crime|Mystery|Thriller
+M2130,Atlantic City (1980),Crime|Drama|Romance
+M2131,Autumn Sonata (Höstsonaten) (1978),Drama
+M2132,Who's Afraid of Virginia Woolf? (1966),Drama
+M2133,Adventures in Babysitting (1987),Adventure|Comedy
+M2134,Weird Science (1985),Comedy|Fantasy|Sci-Fi
+M2135,Doctor Dolittle (1967),Adventure|Children|Musical
+M2136,"Nutty Professor, The (1963)",Comedy|Sci-Fi
+M2137,Charlotte's Web (1973),Animation|Children
+M2138,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy
+M2139,"Secret of NIMH, The (1982)",Adventure|Animation|Children|Drama
+M2140,"Dark Crystal, The (1982)",Adventure|Fantasy
+M2141,"American Tail, An (1986)",Adventure|Animation|Children|Comedy
+M2142,"American Tail: Fievel Goes West, An (1991)",Adventure|Animation|Children|Musical|Western
+M2143,Legend (1985),Adventure|Fantasy|Romance
+M2144,Sixteen Candles (1984),Comedy|Romance
+M2145,Pretty in Pink (1986),Comedy|Drama|Romance
+M2146,St. Elmo's Fire (1985),Drama|Romance
+M2147,"Clan of the Cave Bear, The (1986)",Adventure|Drama|Fantasy
+M2148,House (1986),Comedy|Fantasy|Horror
+M2149,House II: The Second Story (1987),Comedy|Fantasy|Horror
+M2150,"Gods Must Be Crazy, The (1980)",Adventure|Comedy
+M2151,"Gods Must Be Crazy II, The (1989)",Comedy
+M2152,Air Bud: Golden Receiver (1998),Children|Comedy
+M2153,"Avengers, The (1998)",Action|Adventure
+M2154,How Stella Got Her Groove Back (1998),Drama|Romance
+M2155,"Slums of Beverly Hills, The (1998)",Comedy|Drama
+M2156,"Best Man, The (Testimone dello sposo, Il) (1998)",Comedy|Drama|Romance
+M2159,Henry: Portrait of a Serial Killer (1986),Crime|Horror|Thriller
+M2160,Rosemary's Baby (1968),Drama|Horror|Thriller
+M2161,"NeverEnding Story, The (1984)",Adventure|Children|Fantasy
+M2162,"NeverEnding Story II: The Next Chapter, The (1990)",Adventure|Children|Fantasy
+M2163,Attack of the Killer Tomatoes! (1978),Comedy|Horror
+M2164,Surf Nazis Must Die (1987),Action|Comedy|Drama|Horror
+M2165,Your Friends and Neighbors (1998),Comedy|Drama
+M2166,Return to Paradise (1998),Crime|Drama|Romance|Thriller
+M2167,Blade (1998),Action|Horror|Thriller
+M2169,Dead Man on Campus (1998),Comedy
+M2170,Wrongfully Accused (1998),Action|Comedy
+M2171,Next Stop Wonderland (1998),Comedy|Drama|Romance
+M2172,"Strike! (a.k.a. All I Wanna Do, The Hairy Bird) (1998)",Comedy|Drama
+M2174,Beetlejuice (1988),Comedy|Fantasy
+M2175,Déjà Vu (1997),Drama|Romance
+M2176,Rope (1948),Crime|Drama|Thriller
+M2177,Family Plot (1976),Comedy|Thriller
+M2178,Frenzy (1972),Thriller
+M2179,Topaz (1969),Thriller
+M2180,Torn Curtain (1966),Thriller
+M2181,Marnie (1964),Drama|Mystery|Romance|Thriller
+M2182,"Wrong Man, The (1956)",Drama|Film-Noir|Thriller
+M2183,"Man Who Knew Too Much, The (1956)",Adventure|Drama|Mystery|Thriller
+M2184,"Trouble with Harry, The (1955)",Comedy|Mystery
+M2185,I Confess (1953),Thriller
+M2186,Strangers on a Train (1951),Crime|Drama|Film-Noir|Thriller
+M2187,Stage Fright (1950),Mystery|Romance|Thriller
+M2188,54 (1998),Drama
+M2190,Why Do Fools Fall In Love? (1998),Drama
+M2193,Willow (1988),Action|Adventure|Fantasy
+M2194,"Untouchables, The (1987)",Action|Crime|Drama
+M2195,Dirty Work (1998),Comedy
+M2196,Knock Off (1998),Action
+M2201,"Paradine Case, The (1947)",Drama
+M2202,Lifeboat (1944),Drama|War
+M2203,Shadow of a Doubt (1943),Crime|Drama|Thriller
+M2204,Saboteur (1942),Mystery|Thriller
+M2205,Mr. & Mrs. Smith (1941),Comedy|Romance
+M2206,Suspicion (1941),Film-Noir|Mystery|Thriller
+M2207,Jamaica Inn (1939),Drama
+M2208,"Lady Vanishes, The (1938)",Drama|Mystery|Thriller
+M2210,Sabotage (1936),Thriller
+M2211,Secret Agent (1936),Thriller
+M2212,"Man Who Knew Too Much, The (1934)",Drama|Thriller
+M2226,"Ring, The (1927)",Drama
+M2227,"Lodger: A Story of the London Fog, The (1927)",Crime|Drama|Thriller
+M2231,Rounders (1998),Drama
+M2232,Cube (1997),Horror|Mystery|Sci-Fi|Thriller
+M2236,Simon Birch (1998),Drama
+M2239,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama
+M2240,My Bodyguard (1980),Drama
+M2241,Class (1983),Comedy
+M2243,Broadcast News (1987),Comedy|Drama|Romance
+M2244,"Allnighter, The (1987)",Comedy|Romance
+M2245,Working Girl (1988),Comedy|Drama|Romance
+M2247,Married to the Mob (1988),Comedy
+M2248,Say Anything... (1989),Comedy|Drama|Romance
+M2249,My Blue Heaven (1990),Comedy
+M2252,Hero (1992),Comedy|Drama
+M2253,Toys (1992),Comedy|Fantasy
+M2255,Young Doctors in Love (1982),Comedy
+M2256,Parasite (1982),Horror|Sci-Fi
+M2257,No Small Affair (1984),Comedy|Romance
+M2259,Blame It on Rio (1984),Comedy|Romance
+M2260,Wisdom (1986),Crime|Drama
+M2261,One Crazy Summer (1986),Comedy
+M2262,About Last Night... (1986),Comedy|Drama|Romance
+M2263,"Seventh Sign, The (1988)",Drama|Fantasy|Thriller
+M2264,We're No Angels (1989),Comedy|Crime
+M2265,Nothing But Trouble (1991),Adventure|Comedy
+M2266,"Butcher's Wife, The (1991)",Comedy|Romance
+M2267,Mortal Thoughts (1991),Mystery|Thriller
+M2268,"Few Good Men, A (1992)",Crime|Drama|Thriller
+M2269,Indecent Proposal (1993),Drama|Romance
+M2271,Permanent Midnight (1998),Drama
+M2272,One True Thing (1998),Drama
+M2273,Rush Hour (1998),Action|Comedy|Crime|Thriller
+M2275,Six-String Samurai (1998),Action|Adventure|Sci-Fi
+M2278,Ronin (1998),Action|Crime|Thriller
+M2279,Urban Legend (1998),Horror|Thriller
+M2280,Clay Pigeons (1998),Crime
+M2281,Monument Ave. (1998),Action|Crime|Drama
+M2282,Pecker (1998),Comedy|Drama
+M2283,"Sheltering Sky, The (1990)",Drama
+M2286,"Fiendish Plot of Dr. Fu Manchu, The (1980)",Comedy
+M2287,Them! (1954),Horror|Sci-Fi|Thriller
+M2288,"Thing, The (1982)",Action|Horror|Sci-Fi|Thriller
+M2289,"Player, The (1992)",Comedy|Crime|Drama
+M2290,Stardust Memories (1980),Comedy|Drama
+M2291,Edward Scissorhands (1990),Drama|Fantasy|Romance
+M2292,Overnight Delivery (1998),Comedy|Romance
+M2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy
+M2295,"Impostors, The (1998)",Comedy
+M2296,"Night at the Roxbury, A (1998)",Comedy
+M2297,What Dreams May Come (1998),Adventure|Drama|Fantasy|Romance
+M2298,Strangeland (1998),Thriller
+M2300,"Producers, The (1968)",Comedy
+M2301,History of the World: Part I (1981),Comedy|Musical
+M2302,My Cousin Vinny (1992),Comedy
+M2303,Nashville (1975),Drama|Musical
+M2304,Love Is the Devil (1998),Drama
+M2306,Holy Man (1998),Comedy
+M2307,One Tough Cop (1998),Action|Crime
+M2310,"Mighty, The (1998)",Drama
+M2311,2010: The Year We Make Contact (1984),Sci-Fi
+M2312,Children of a Lesser God (1986),Drama
+M2313,"Elephant Man, The (1980)",Drama
+M2314,Beloved (1998),Drama
+M2315,Bride of Chucky (Child's Play 4) (1998),Comedy|Horror|Thriller
+M2316,Practical Magic (1998),Drama|Fantasy|Mystery|Romance
+M2318,Happiness (1998),Comedy|Drama
+M2320,Apt Pupil (1998),Drama|Thriller
+M2321,Pleasantville (1998),Comedy|Drama|Fantasy
+M2322,Soldier (1998),Action|Sci-Fi|War
+M2323,"Cruise, The (1998)",Documentary
+M2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War
+M2325,Orgazmo (1997),Comedy
+M2327,Tales from the Darkside: The Movie (1990),Fantasy|Horror|Thriller
+M2328,Vampires (1998),Horror|Western
+M2329,American History X (1998),Crime|Drama
+M2330,Hands on a Hard Body (1996),Comedy|Documentary
+M2331,Living Out Loud (1998),Comedy|Drama|Romance
+M2332,Belly (1998),Crime|Drama
+M2333,Gods and Monsters (1998),Drama
+M2334,"Siege, The (1998)",Action|Thriller
+M2335,"Waterboy, The (1998)",Comedy
+M2336,Elizabeth (1998),Drama
+M2337,Velvet Goldmine (1998),Drama
+M2338,I Still Know What You Did Last Summer (1998),Horror|Mystery|Thriller
+M2339,I'll Be Home For Christmas (1998),Comedy|Romance
+M2340,Meet Joe Black (1998),Romance
+M2342,Hard Core Logo (1996),Comedy|Drama
+M2344,Runaway Train (1985),Action|Adventure|Drama|Thriller
+M2346,"Stepford Wives, The (1975)",Mystery|Sci-Fi|Thriller
+M2347,"Pope of Greenwich Village, The (1984)",Drama
+M2348,Sid and Nancy (1986),Drama
+M2349,Mona Lisa (1986),Comedy|Thriller
+M2350,Heart Condition (1990),Comedy
+M2351,"Nights of Cabiria (Notti di Cabiria, Le) (1957)",Drama
+M2352,"Big Chill, The (1983)",Comedy|Drama
+M2353,Enemy of the State (1998),Action|Thriller
+M2354,"Rugrats Movie, The (1998)",Animation|Children|Comedy
+M2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy
+M2356,Celebrity (1998),Comedy
+M2357,Central Station (Central do Brasil) (1998),Drama
+M2358,Savior (1998),Drama|War
+M2359,Waking Ned Devine (a.k.a. Waking Ned) (1998),Comedy
+M2360,"Celebration, The (Festen) (1998)",Drama
+M2361,Pink Flamingos (1972),Comedy
+M2362,Glen or Glenda (1953),Drama
+M2363,Godzilla (Gojira) (1954),Drama|Horror|Sci-Fi
+M2364,"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The) (1984)",Action|Horror|Sci-Fi|Thriller
+M2365,King Kong vs. Godzilla (Kingukongu tai Gojira) (1962),Action|Sci-Fi
+M2366,King Kong (1933),Action|Adventure|Fantasy|Horror
+M2367,King Kong (1976),Adventure|Fantasy|Romance|Sci-Fi|Thriller
+M2368,King Kong Lives (1986),Adventure|Sci-Fi
+M2369,Desperately Seeking Susan (1985),Comedy|Drama|Romance
+M2370,"Emerald Forest, The (1985)",Action|Adventure|Drama
+M2371,Fletch (1985),Comedy|Crime|Mystery
+M2372,Fletch Lives (1989),Comedy
+M2373,Red Sonja (1985),Action|Adventure|Fantasy
+M2374,Gung Ho (1986),Comedy|Drama
+M2375,"Money Pit, The (1986)",Comedy
+M2376,"View to a Kill, A (1985)",Action|Adventure|Thriller
+M2377,Lifeforce (1985),Horror|Sci-Fi
+M2378,Police Academy (1984),Comedy|Crime
+M2379,Police Academy 2: Their First Assignment (1985),Comedy|Crime
+M2380,Police Academy 3: Back in Training (1986),Comedy|Crime
+M2381,Police Academy 4: Citizens on Patrol (1987),Comedy|Crime
+M2382,Police Academy 5: Assignment: Miami Beach (1988),Comedy|Crime
+M2383,Police Academy 6: City Under Siege (1989),Comedy|Crime
+M2384,Babe: Pig in the City (1998),Adventure|Children|Drama
+M2385,Home Fries (1998),Comedy|Romance
+M2387,Very Bad Things (1998),Comedy|Crime
+M2388,Steam: The Turkish Bath (Hamam) (1997),Drama|Romance
+M2389,Psycho (1998),Crime|Horror|Thriller
+M2390,Little Voice (1998),Comedy
+M2391,"Simple Plan, A (1998)",Crime|Drama|Thriller
+M2392,Jack Frost (1998),Children|Comedy|Drama
+M2393,Star Trek: Insurrection (1998),Action|Drama|Romance|Sci-Fi
+M2394,"Prince of Egypt, The (1998)",Animation|Musical
+M2395,Rushmore (1998),Comedy|Drama
+M2396,Shakespeare in Love (1998),Comedy|Drama|Romance
+M2398,Miracle on 34th Street (1947),Comedy|Drama
+M2399,Santa Claus: The Movie (1985),Adventure|Children|Fantasy
+M2400,Prancer (1989),Children|Drama|Fantasy
+M2401,Pale Rider (1985),Western
+M2402,Rambo: First Blood Part II (1985),Action|Adventure|Thriller
+M2403,First Blood (Rambo: First Blood) (1982),Action|Adventure|Drama|Thriller
+M2404,Rambo III (1988),Action|Adventure|Thriller|War
+M2405,"Jewel of the Nile, The (1985)",Action|Adventure|Comedy|Romance
+M2406,Romancing the Stone (1984),Action|Adventure|Comedy|Romance
+M2407,Cocoon (1985),Comedy|Sci-Fi
+M2408,Cocoon: The Return (1988),Comedy|Sci-Fi
+M2409,Rocky II (1979),Action|Drama
+M2410,Rocky III (1982),Action|Drama
+M2411,Rocky IV (1985),Action|Drama
+M2412,Rocky V (1990),Action|Drama
+M2413,Clue (1985),Comedy|Crime|Mystery|Thriller
+M2414,Young Sherlock Holmes (1985),Action|Adventure|Children|Fantasy|Mystery|Thriller
+M2415,Violets Are Blue... (1986),Drama|Romance
+M2416,Back to School (1986),Comedy
+M2417,Heartburn (1986),Comedy|Drama
+M2418,Nothing in Common (1986),Comedy
+M2419,Extremities (1986),Drama|Thriller
+M2420,"Karate Kid, The (1984)",Drama
+M2421,"Karate Kid, Part II, The (1986)",Action|Adventure|Drama
+M2422,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+M2423,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),Comedy
+M2424,You've Got Mail (1998),Comedy|Romance
+M2425,"General, The (1998)",Crime
+M2427,"Thin Red Line, The (1998)",Action|Drama|War
+M2428,"Faculty, The (1998)",Horror|Sci-Fi
+M2429,Mighty Joe Young (1998),Action|Adventure|Drama|Fantasy|Thriller
+M2430,Mighty Joe Young (1949),Adventure|Children|Drama
+M2431,Patch Adams (1998),Comedy|Drama
+M2432,Stepmom (1998),Drama
+M2433,"Civil Action, A (1998)",Drama
+M2435,Hurlyburly (1998),Drama
+M2436,Tea with Mussolini (1999),Comedy|Drama|War
+M2439,Affliction (1997),Drama
+M2442,Hilary and Jackie (1998),Drama
+M2443,Playing by Heart (1998),Drama|Romance
+M2445,At First Sight (1999),Drama
+M2446,In Dreams (1999),Horror|Thriller
+M2447,Varsity Blues (1999),Comedy|Drama
+M2448,Virus (1999),Horror|Sci-Fi
+M2450,Howard the Duck (1986),Adventure|Comedy|Sci-Fi
+M2451,"Gate, The (1987)",Horror
+M2453,"Boy Who Could Fly, The (1986)",Drama|Fantasy
+M2454,"Fly, The (1958)",Horror|Mystery|Sci-Fi
+M2455,"Fly, The (1986)",Drama|Horror|Sci-Fi|Thriller
+M2456,"Fly II, The (1989)",Horror|Sci-Fi
+M2457,Running Scared (1986),Action|Comedy
+M2458,Armed and Dangerous (1986),Comedy|Crime
+M2459,"Texas Chainsaw Massacre, The (1974)",Horror
+M2460,"Texas Chainsaw Massacre 2, The (1986)",Horror
+M2462,Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre) (1994),Horror
+M2463,Ruthless People (1986),Comedy
+M2465,Deadly Friend (1986),Horror
+M2467,"Name of the Rose, The (Name der Rose, Der) (1986)",Crime|Drama|Mystery|Thriller
+M2468,Jumpin' Jack Flash (1986),Action|Comedy|Romance|Thriller
+M2469,Peggy Sue Got Married (1986),Comedy|Drama
+M2470,Crocodile Dundee (1986),Adventure|Comedy
+M2471,Crocodile Dundee II (1988),Action|Adventure|Comedy
+M2472,Tough Guys (1986),Comedy
+M2473,Soul Man (1986),Comedy
+M2474,"Color of Money, The (1986)",Drama
+M2475,52 Pick-Up (1986),Action|Mystery|Thriller
+M2476,Heartbreak Ridge (1986),Action|War
+M2477,Firewalker (1986),Adventure
+M2478,¡Three Amigos! (1986),Comedy|Western
+M2481,My Name Is Joe (1998),Drama|Romance
+M2482,Still Crazy (1998),Comedy|Romance
+M2483,"Day of the Beast, The (Día de la Bestia, El) (1995)",Adventure|Comedy|Thriller
+M2485,She's All That (1999),Comedy|Romance
+M2488,Peeping Tom (1960),Drama|Horror|Thriller
+M2490,Payback (1999),Action|Thriller
+M2491,Simply Irresistible (1999),Comedy|Romance
+M2492,20 Dates (1998),Comedy|Romance
+M2493,"Harmonists, The (1997)",Drama
+M2494,"Last Days, The (1998)",Documentary
+M2495,"Fantastic Planet, The (Planète sauvage, La) (1973)",Animation|Sci-Fi
+M2496,Blast from the Past (1999),Comedy|Romance
+M2497,Message in a Bottle (1999),Romance
+M2498,My Favorite Martian (1999),Comedy|Sci-Fi
+M2500,Jawbreaker (1999),Comedy
+M2501,October Sky (1999),Drama
+M2502,Office Space (1999),Comedy|Crime
+M2503,"Apple, The (Sib) (1998)",Drama
+M2504,200 Cigarettes (1999),Comedy|Drama
+M2505,8MM (1999),Drama|Mystery|Thriller
+M2506,"Other Sister, The (1999)",Comedy|Drama|Romance
+M2511,"Long Goodbye, The (1973)",Crime|Film-Noir
+M2512,"Ballad of Narayama, The (Narayama bushiko) (1983)",Drama
+M2513,Pet Sematary (1989),Horror
+M2514,Pet Sematary II (1992),Comedy|Horror
+M2515,Children of the Corn II: The Final Sacrifice (1993),Horror
+M2516,Children of the Corn III (1994),Horror
+M2517,Christine (1983),Horror
+M2518,Night Shift (1982),Comedy
+M2520,Airport (1970),Drama
+M2521,Airport 1975 (1974),Action|Drama|Thriller
+M2522,Airport '77 (1977),Drama
+M2523,Rollercoaster (1977),Drama|Thriller
+M2524,"Towering Inferno, The (1974)",Action|Adventure|Drama|Thriller
+M2525,Alligator (1980),Action|Horror|Sci-Fi
+M2526,Meteor (1979),Sci-Fi
+M2527,Westworld (1973),Action|Sci-Fi|Thriller|Western
+M2528,Logan's Run (1976),Action|Adventure|Sci-Fi
+M2529,Planet of the Apes (1968),Action|Drama|Sci-Fi
+M2530,Beneath the Planet of the Apes (1970),Action|Sci-Fi
+M2531,Battle for the Planet of the Apes (1973),Action|Sci-Fi
+M2532,Conquest of the Planet of the Apes (1972),Action|Sci-Fi
+M2533,Escape from the Planet of the Apes (1971),Action|Sci-Fi
+M2534,Avalanche (1978),Action
+M2535,Earthquake (1974),Action|Drama|Thriller
+M2537,Beyond the Poseidon Adventure (1979),Adventure
+M2538,Dancemaker (1998),Documentary
+M2539,Analyze This (1999),Comedy
+M2540,"Corruptor, The (1999)",Action|Crime|Drama|Thriller
+M2541,Cruel Intentions (1999),Drama
+M2542,"Lock, Stock & Two Smoking Barrels (1998)",Comedy|Crime|Thriller
+M2544,"School of Flesh, The (École de la chair, L') (1998)",Drama|Romance
+M2546,"Deep End of the Ocean, The (1999)",Drama
+M2548,"Rage: Carrie 2, The (1999)",Horror
+M2549,Wing Commander (1999),Action|Sci-Fi
+M2550,"Haunting, The (1963)",Horror|Thriller
+M2551,Dead Ringers (1988),Drama|Horror|Thriller
+M2552,My Boyfriend's Back (1993),Comedy
+M2553,Village of the Damned (1960),Horror|Sci-Fi|Thriller
+M2554,Children of the Damned (1963),Horror|Sci-Fi|Thriller
+M2555,Baby Geniuses (1999),Comedy
+M2557,I Stand Alone (Seul contre tous) (1998),Drama|Thriller
+M2558,Forces of Nature (1999),Comedy|Romance
+M2559,"King and I, The (1999)",Animation|Children
+M2560,Ravenous (1999),Horror|Thriller
+M2561,True Crime (1999),Crime|Thriller
+M2563,Dangerous Beauty (1998),Drama
+M2565,"King and I, The (1956)",Drama|Musical|Romance
+M2566,Doug's 1st Movie (1999),Animation|Children
+M2567,EDtv (1999),Comedy
+M2568,"Mod Squad, The (1999)",Action|Crime
+M2570,"Walk on the Moon, A (1999)",Drama|Romance
+M2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+M2572,10 Things I Hate About You (1999),Comedy|Romance
+M2573,Tango (1998),Drama|Musical
+M2574,"Out-of-Towners, The (1999)",Comedy
+M2575,"Dreamlife of Angels, The (Vie rêvée des anges, La) (1998)",Drama
+M2577,Metroland (1997),Comedy|Drama
+M2579,Following (1998),Crime|Mystery|Thriller
+M2580,Go (1999),Comedy|Crime
+M2581,Never Been Kissed (1999),Comedy|Romance
+M2582,Twin Dragons (Shuang long hui) (1992),Action|Comedy
+M2583,Cookie's Fortune (1999),Comedy|Drama
+M2585,"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar) (1998)",Drama|Romance
+M2586,Goodbye Lover (1999),Comedy|Crime|Thriller
+M2587,Life (1999),Comedy|Crime|Drama
+M2589,Friends & Lovers (1999),Comedy|Drama|Romance
+M2590,Hideous Kinky (1998),Drama
+M2593,"Monster, The (Mostro, Il) (1994)",Comedy
+M2594,Open Your Eyes (Abre los ojos) (1997),Drama|Romance|Sci-Fi|Thriller
+M2596,SLC Punk! (1998),Comedy|Drama
+M2597,Lost & Found (1999),Comedy|Romance
+M2598,Pushing Tin (1999),Comedy
+M2599,Election (1999),Comedy
+M2600,eXistenZ (1999),Action|Sci-Fi|Thriller
+M2605,Entrapment (1999),Crime|Thriller
+M2606,Idle Hands (1999),Comedy|Horror
+M2607,Get Real (1998),Drama|Romance
+M2609,"King of Masks, The (Bian Lian) (1996)",Drama
+M2611,"Winslow Boy, The (1999)",Drama
+M2612,Mildred Pierce (1945),Drama|Film-Noir
+M2613,Night of the Comet (1984),Comedy|Horror|Sci-Fi
+M2614,Chopping Mall (a.k.a. Killbots) (1986),Action|Horror|Sci-Fi
+M2615,My Science Project (1985),Adventure|Sci-Fi
+M2616,Dick Tracy (1990),Action|Crime
+M2617,"Mummy, The (1999)",Action|Adventure|Comedy|Fantasy|Horror|Thriller
+M2618,"Castle, The (1997)",Comedy
+M2620,This Is My Father (1998),Drama|Romance
+M2622,William Shakespeare's A Midsummer Night's Dream (1999),Comedy|Fantasy
+M2623,Trippin' (1999),Comedy
+M2624,After Life (Wandafuru raifu) (1998),Drama|Fantasy
+M2625,Black Mask (Hak hap) (1996),Action|Adventure|Crime|Sci-Fi|Thriller
+M2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi
+M2629,"Love Letter, The (1999)",Comedy|Romance
+M2630,Besieged (a.k.a. L' Assedio) (1998),Drama
+M2632,"Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965)",Adventure|Drama|Mystery
+M2633,"Mummy, The (1932)",Horror|Romance
+M2634,"Mummy, The (1959)",Horror
+M2639,Mommie Dearest (1981),Drama
+M2640,Superman (1978),Action|Adventure|Sci-Fi
+M2641,Superman II (1980),Action|Sci-Fi
+M2642,Superman III (1983),Action|Adventure|Sci-Fi
+M2643,Superman IV: The Quest for Peace (1987),Action|Adventure|Sci-Fi
+M2644,Dracula (1931),Horror
+M2648,Frankenstein (1931),Drama|Horror|Sci-Fi
+M2651,Frankenstein Meets the Wolf Man (1943),Horror
+M2652,"Curse of Frankenstein, The (1957)",Horror
+M2654,"Wolf Man, The (1941)",Drama|Fantasy|Horror
+M2655,Howling II: Your Sister Is a Werewolf (1985),Horror
+M2656,Tarantula (1955),Horror|Sci-Fi
+M2657,"Rocky Horror Picture Show, The (1975)",Comedy|Horror|Musical|Sci-Fi
+M2659,It Came from Hollywood (1982),Comedy|Documentary
+M2660,"Thing from Another World, The (1951)",Horror|Sci-Fi
+M2661,It Came from Outer Space (1953),Sci-Fi
+M2662,"War of the Worlds, The (1953)",Action|Drama|Sci-Fi
+M2664,Invasion of the Body Snatchers (1956),Horror|Sci-Fi|Thriller
+M2665,Earth vs. the Flying Saucers (1956),Sci-Fi
+M2668,Swamp Thing (1982),Horror|Sci-Fi
+M2669,Pork Chop Hill (1959),War
+M2670,Run Silent Run Deep (1958),War
+M2671,Notting Hill (1999),Comedy|Romance
+M2672,"Thirteenth Floor, The (1999)",Drama|Sci-Fi|Thriller
+M2674,"Loss of Sexual Innocence, The (1999)",Drama|Fantasy
+M2676,Instinct (1999),Drama|Thriller
+M2677,Buena Vista Social Club (1999),Documentary|Musical
+M2681,Free Enterprise (1998),Comedy|Romance|Sci-Fi
+M2682,Limbo (1999),Drama
+M2683,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy
+M2686,"Red Violin, The (Violon rouge, Le) (1998)",Drama|Mystery
+M2687,Tarzan (1999),Adventure|Animation|Children|Drama
+M2688,"General's Daughter, The (1999)",Crime|Drama|Mystery|Thriller
+M2690,"Ideal Husband, An (1999)",Comedy|Romance
+M2691,"Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)",Drama
+M2692,Run Lola Run (Lola rennt) (1998),Action|Crime
+M2693,Trekkies (1997),Documentary
+M2694,Big Daddy (1999),Comedy
+M2695,"Boys, The (1998)",Drama
+M2696,"Dinner Game, The (Dîner de cons, Le) (1998)",Comedy
+M2697,My Son the Fanatic (1997),Comedy|Drama|Romance
+M2698,Zone 39 (1997),Sci-Fi
+M2699,Arachnophobia (1990),Comedy|Horror
+M2700,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical
+M2701,Wild Wild West (1999),Action|Comedy|Sci-Fi|Western
+M2702,Summer of Sam (1999),Drama
+M2706,American Pie (1999),Comedy|Romance
+M2707,Arlington Road (1999),Thriller
+M2708,"Autumn Tale, An (Conte d'automne) (1998)",Romance
+M2709,Muppets From Space (1999),Children|Comedy
+M2710,"Blair Witch Project, The (1999)",Drama|Horror|Thriller
+M2712,Eyes Wide Shut (1999),Drama|Mystery|Thriller
+M2713,Lake Placid (1999),Horror|Thriller
+M2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi
+M2717,Ghostbusters II (1989),Comedy|Fantasy|Sci-Fi
+M2718,Drop Dead Gorgeous (1999),Comedy
+M2719,"Haunting, The (1999)",Horror|Thriller
+M2720,Inspector Gadget (1999),Action|Adventure|Children|Comedy
+M2722,Deep Blue Sea (1999),Action|Horror|Sci-Fi|Thriller
+M2723,Mystery Men (1999),Action|Comedy|Fantasy
+M2724,Runaway Bride (1999),Comedy|Romance
+M2725,Twin Falls Idaho (1999),Drama
+M2726,"Killing, The (1956)",Crime|Film-Noir
+M2727,Killer's Kiss (1955),Crime|Film-Noir
+M2728,Spartacus (1960),Action|Drama|Romance|War
+M2729,Lolita (1962),Drama|Romance
+M2730,Barry Lyndon (1975),Drama|Romance|War
+M2731,"400 Blows, The (Les quatre cents coups) (1959)",Crime|Drama
+M2732,Jules and Jim (Jules et Jim) (1961),Drama|Romance
+M2733,Vibes (1988),Adventure|Comedy|Romance
+M2734,"Mosquito Coast, The (1986)",Adventure|Drama|Thriller
+M2735,"Golden Child, The (1986)",Action|Adventure|Comedy|Fantasy|Mystery
+M2736,Brighton Beach Memoirs (1986),Comedy
+M2737,Assassination (1987),Action|Drama|Thriller
+M2738,Crimes of the Heart (1986),Comedy|Drama
+M2739,"Color Purple, The (1985)",Drama
+M2740,"Kindred, The (1986)",Horror|Sci-Fi
+M2741,No Mercy (1986),Action|Crime|Thriller
+M2742,Ménage (Tenue de soirée) (1986),Comedy|Drama
+M2743,Native Son (1986),Drama
+M2744,Otello (1986),Drama
+M2745,"Mission, The (1986)",Drama
+M2746,Little Shop of Horrors (1986),Comedy|Horror|Musical
+M2747,"Little Shop of Horrors, The (1960)",Comedy|Horror
+M2748,Allan Quatermain and the Lost City of Gold (1987),Action|Adventure|Comedy
+M2749,"Morning After, The (1986)",Drama|Mystery
+M2750,Radio Days (1987),Comedy|Drama
+M2751,From the Hip (1987),Comedy|Drama
+M2752,Outrageous Fortune (1987),Comedy|Mystery
+M2754,Deadtime Stories (1987),Horror
+M2757,Frances (1982),Drama
+M2759,Dick (1999),Comedy
+M2761,"Iron Giant, The (1999)",Adventure|Animation|Children|Drama|Sci-Fi
+M2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+M2763,"Thomas Crown Affair, The (1999)",Action|Mystery
+M2764,"Thomas Crown Affair, The (1968)",Crime|Drama|Romance|Thriller
+M2765,"Acid House, The (1998)",Comedy|Drama
+M2766,"Adventures of Sebastian Cole, The (1998)",Comedy|Drama
+M2769,"Yards, The (2000)",Crime|Drama
+M2770,Bowfinger (1999),Comedy
+M2771,Brokedown Palace (1999),Drama
+M2772,Detroit Rock City (1999),Comedy
+M2774,Better Than Chocolate (1999),Comedy|Romance
+M2775,Head On (1998),Drama
+M2779,Heaven Can Wait (1978),Comedy
+M2782,Pit and the Pendulum (1961),Horror
+M2784,"Masque of the Red Death, The (1964)",Horror
+M2786,Haunted Honeymoon (1986),Comedy
+M2787,Cat's Eye (1985),Horror
+M2788,Monty Python's And Now for Something Completely Different (1971),Comedy
+M2789,Damien: Omen II (1978),Horror
+M2790,"Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981)",Horror|Thriller
+M2791,Airplane! (1980),Comedy
+M2792,Airplane II: The Sequel (1982),Comedy
+M2793,"American Werewolf in Paris, An (1997)",Comedy|Horror|Romance|Thriller
+M2794,European Vacation (aka National Lampoon's European Vacation) (1985),Adventure|Comedy|Romance
+M2795,National Lampoon's Vacation (1983),Comedy
+M2796,Funny Farm (1988),Comedy
+M2797,Big (1988),Comedy|Drama|Fantasy|Romance
+M2798,Problem Child (1990),Children|Comedy
+M2799,Problem Child 2 (1991),Comedy
+M2800,Little Nemo: Adventures in Slumberland (1992),Adventure|Animation|Children|Drama|Fantasy
+M2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),Drama|Romance
+M2802,Tequila Sunrise (1988),Action|Drama|Romance|Thriller
+M2803,"Pelican Brief, The (1993)",Crime|Drama|Mystery|Romance|Thriller
+M2804,"Christmas Story, A (1983)",Children|Comedy
+M2805,Mickey Blue Eyes (1999),Comedy|Romance
+M2806,Teaching Mrs. Tingle (1999),Comedy|Thriller
+M2807,Universal Soldier: The Return (1999),Action|Sci-Fi
+M2808,Universal Soldier (1992),Action|Sci-Fi
+M2810,Perfect Blue (1997),Animation|Horror|Mystery|Thriller
+M2812,In Too Deep (1999),Action|Thriller
+M2813,"Source, The (1999)",Documentary
+M2815,Iron Eagle (1986),Action|War
+M2816,Iron Eagle II (1988),Action|War
+M2817,Aces: Iron Eagle III (1992),Action
+M2818,Iron Eagle IV (1995),Action|War
+M2819,Three Days of the Condor (3 Days of the Condor) (1975),Drama|Mystery|Romance|Thriller
+M2820,Hamlet (1964),Drama
+M2822,Medicine Man (1992),Adventure|Romance
+M2824,On the Ropes (1999),Documentary|Drama
+M2826,"13th Warrior, The (1999)",Action|Adventure|Fantasy
+M2827,"Astronaut's Wife, The (1999)",Horror|Sci-Fi|Thriller
+M2828,Dudley Do-Right (1999),Children|Comedy
+M2829,"Muse, The (1999)",Comedy
+M2835,Chill Factor (1999),Action|Adventure|Comedy|Thriller
+M2836,Outside Providence (1999),Comedy
+M2837,Bedrooms & Hallways (1998),Comedy|Romance
+M2839,West Beirut (West Beyrouth) (1998),Drama
+M2840,Stigmata (1999),Drama|Thriller
+M2841,Stir of Echoes (1999),Horror|Mystery|Thriller
+M2843,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+M2844,"Minus Man, The (1999)",Drama|Mystery
+M2846,"Adventures of Milo and Otis, The (Koneko monogatari) (1986)",Adventure|Children|Comedy|Drama
+M2847,Only Angels Have Wings (1939),Adventure|Drama|Romance
+M2848,"Othello (Tragedy of Othello: The Moor of Venice, The) (1952)",Drama
+M2851,Saturn 3 (1980),Adventure|Sci-Fi|Thriller
+M2852,"Soldier's Story, A (1984)",Drama
+M2856,I Saw What You Did (1965),Thriller
+M2857,Yellow Submarine (1968),Adventure|Animation|Comedy|Fantasy|Musical
+M2858,American Beauty (1999),Drama|Romance
+M2859,Stop Making Sense (1984),Documentary|Musical
+M2860,Blue Streak (1999),Comedy
+M2861,For Love of the Game (1999),Comedy|Drama
+M2862,Caligula (1979),Drama
+M2863,"Hard Day's Night, A (1964)",Adventure|Comedy|Musical
+M2865,Sugar Town (1999),Comedy
+M2866,"Buddy Holly Story, The (1978)",Drama
+M2867,Fright Night (1985),Comedy|Horror|Thriller
+M2868,Fright Night Part II (1988),Horror
+M2870,Barefoot in the Park (1967),Comedy
+M2871,Deliverance (1972),Adventure|Drama|Thriller
+M2872,Excalibur (1981),Adventure|Fantasy
+M2874,"Pajama Game, The (1957)",Comedy|Musical|Romance
+M2875,Sommersby (1993),Drama|Mystery|Romance
+M2876,Thumbelina (1994),Animation|Children|Fantasy
+M2877,Tommy (1975),Musical
+M2878,Hell Night (1981),Horror
+M2879,Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak) (1991),Action|Adventure|Comedy
+M2880,Armour of God (Long xiong hu di) (1987),Action|Adventure|Comedy
+M2881,Double Jeopardy (1999),Action|Crime|Drama|Thriller
+M2882,Jakob the Liar (1999),Drama
+M2883,Mumford (1999),Comedy|Drama
+M2884,Dog Park (1998),Comedy|Romance
+M2885,Guinevere (1999),Drama|Romance
+M2886,"Adventures of Elmo in Grouchland, The (1999)",Children|Comedy
+M2887,Simon Sez (1999),Action|Comedy
+M2888,Drive Me Crazy (1999),Comedy|Romance
+M2889,"Mystery, Alaska (1999)",Comedy|Drama
+M2890,Three Kings (1999),Action|Adventure|Comedy|Drama|War
+M2891,"Happy, Texas (1999)",Comedy
+M2892,New Rose Hotel (1998),Action|Drama
+M2893,Plunkett & MaCleane (1999),Action|Adventure|Drama
+M2894,Romance (1999),Drama|Romance
+M2896,Alvarez Kelly (1966),Western
+M2897,And the Ship Sails On (E la nave va) (1983),Comedy|War
+M2898,"Dark Half, The (1993)",Horror|Mystery
+M2899,Gulliver's Travels (1939),Adventure|Animation|Children
+M2900,Monkey Shines (1988),Horror|Sci-Fi
+M2901,Phantasm (1979),Horror|Sci-Fi
+M2902,Psycho II (1983),Horror|Mystery|Thriller
+M2903,Psycho III (1986),Horror|Thriller
+M2905,Sanjuro (Tsubaki Sanjûrô) (1962),Action|Adventure|Drama
+M2906,Random Hearts (1999),Drama|Romance
+M2907,Superstar (1999),Comedy
+M2908,Boys Don't Cry (1999),Drama
+M2912,"Limey, The (1999)",Crime|Drama|Thriller
+M2915,Risky Business (1983),Comedy
+M2916,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller
+M2917,Body Heat (1981),Crime|Thriller
+M2918,Ferris Bueller's Day Off (1986),Comedy
+M2919,"Year of Living Dangerously, The (1982)",Drama|Romance|War
+M2921,High Plains Drifter (1973),Western
+M2922,Hang 'Em High (1968),Crime|Drama|Western
+M2924,Drunken Master (Jui kuen) (1978),Action|Comedy
+M2925,"Conformist, The (Conformista, Il) (1970)",Drama
+M2926,Hairspray (1988),Comedy|Drama
+M2927,Brief Encounter (1946),Drama|Romance
+M2928,"Razor's Edge, The (1984)",Drama
+M2929,Reds (1981),Drama|Romance
+M2930,Return with Honor (1998),Documentary
+M2931,Time of the Gypsies (Dom za vesanje) (1989),Comedy|Crime|Drama|Fantasy
+M2932,Days of Heaven (1978),Drama
+M2935,"Lady Eve, The (1941)",Comedy|Romance
+M2936,Sullivan's Travels (1941),Adventure|Comedy|Romance
+M2937,"Palm Beach Story, The (1942)",Comedy
+M2939,Niagara (1953),Drama|Thriller
+M2940,Gilda (1946),Drama|Film-Noir|Mystery|Romance
+M2941,South Pacific (1958),Musical|Romance|War
+M2942,Flashdance (1983),Drama|Romance
+M2943,Indochine (1992),Drama|Romance
+M2944,"Dirty Dozen, The (1967)",Action|Drama|War
+M2946,Help! (1965),Comedy|Musical
+M2947,Goldfinger (1964),Action|Adventure|Thriller
+M2948,From Russia with Love (1963),Action|Adventure|Thriller
+M2949,Dr. No (1962),Action|Adventure|Thriller
+M2950,"Blue Lagoon, The (1980)",Adventure|Drama|Romance
+M2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)",Action|Western
+M2952,Sydney (Hard Eight) (1996),Crime|Drama|Thriller
+M2953,Home Alone 2: Lost in New York (1992),Children|Comedy
+M2956,Someone to Watch Over Me (1987),Action|Crime|Thriller
+M2959,Fight Club (1999),Action|Crime|Drama|Thriller
+M2961,"Story of Us, The (1999)",Comedy|Drama
+M2962,Fever Pitch (1997),Comedy|Romance
+M2964,Julien Donkey-Boy (1999),Drama
+M2965,"Omega Code, The (1999)",Action
+M2966,"Straight Story, The (1999)",Adventure|Drama
+M2967,"Bad Seed, The (1956)",Drama|Thriller
+M2968,Time Bandits (1981),Adventure|Comedy|Fantasy|Sci-Fi
+M2969,"Man and a Woman, A (Un homme et une femme) (1966)",Drama|Romance
+M2970,Fitzcarraldo (1982),Adventure|Drama
+M2971,All That Jazz (1979),Drama|Fantasy|Musical
+M2972,Red Sorghum (Hong gao liang) (1987),Drama|War
+M2973,Crimes and Misdemeanors (1989),Comedy|Crime|Drama
+M2974,Bats (1999),Horror|Thriller
+M2975,"Best Man, The (1999)",Comedy|Drama
+M2976,Bringing Out the Dead (1999),Drama
+M2977,Crazy in Alabama (1999),Comedy|Drama
+M2978,Three to Tango (1999),Comedy|Romance
+M2979,Body Shots (1999),Drama
+M2982,"Guardian, The (1990)",Horror|Thriller
+M2983,"Ipcress File, The (1965)",Thriller
+M2984,On Any Sunday (1971),Documentary
+M2985,RoboCop (1987),Action|Crime|Drama|Sci-Fi|Thriller
+M2986,RoboCop 2 (1990),Action|Crime|Sci-Fi|Thriller
+M2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery
+M2988,Melvin and Howard (1980),Drama
+M2989,For Your Eyes Only (1981),Action|Adventure|Thriller
+M2990,Licence to Kill (1989),Action|Adventure|Thriller
+M2991,Live and Let Die (1973),Action|Adventure|Thriller
+M2992,Rawhead Rex (1986),Horror|Thriller
+M2993,Thunderball (1965),Action|Adventure|Thriller
+M2995,House on Haunted Hill (1999),Horror|Thriller
+M2996,Music of the Heart (1999),Drama
+M2997,Being John Malkovich (1999),Comedy|Drama|Fantasy
+M3000,Princess Mononoke (Mononoke-hime) (1997),Action|Adventure|Animation|Drama|Fantasy
+M3002,My Best Fiend (Mein liebster Feind) (1999),Documentary
+M3003,Train of Life (Train de vie) (1998),Comedy|Drama|Romance|War
+M3004,"Bachelor, The (1999)",Comedy|Romance
+M3005,"Bone Collector, The (1999)",Thriller
+M3006,"Insider, The (1999)",Drama|Thriller
+M3007,American Movie (1999),Documentary
+M3008,Last Night (1998),Drama|Sci-Fi
+M3010,Rosetta (1999),Drama
+M3011,"They Shoot Horses, Don't They? (1969)",Drama
+M3013,Bride of Re-Animator (1990),Comedy|Horror
+M3014,Bustin' Loose (1981),Comedy
+M3015,Coma (1978),Thriller
+M3016,Creepshow (1982),Horror
+M3017,Creepshow 2 (1987),Horror
+M3018,Re-Animator (1985),Comedy|Horror|Sci-Fi
+M3019,Drugstore Cowboy (1989),Crime|Drama
+M3020,Falling Down (1993),Action|Drama
+M3021,"Funhouse, The (1981)",Horror
+M3022,"General, The (1926)",Comedy|War
+M3024,Piranha (1978),Horror|Sci-Fi
+M3028,"Taming of the Shrew, The (1967)",Comedy
+M3029,Nighthawks (1981),Action|Drama
+M3030,Yojimbo (1961),Action|Adventure
+M3031,Repossessed (1990),Comedy
+M3032,"Omega Man, The (1971)",Action|Drama|Sci-Fi|Thriller
+M3033,Spaceballs (1987),Comedy|Sci-Fi
+M3034,Robin Hood (1973),Adventure|Animation|Children|Comedy|Musical
+M3035,Mister Roberts (1955),Comedy|Drama|War
+M3036,"Quest for Fire (Guerre du feu, La) (1981)",Adventure|Drama
+M3037,Little Big Man (1970),Western
+M3038,"Face in the Crowd, A (1957)",Drama
+M3039,Trading Places (1983),Comedy
+M3040,Meatballs (1979),Comedy
+M3041,Meatballs Part II (1984),Comedy
+M3042,Meatballs III (1987),Comedy
+M3043,Meatballs 4 (1992),Comedy
+M3044,Dead Again (1991),Mystery|Romance|Thriller
+M3045,Peter's Friends (1992),Comedy|Drama
+M3046,"Incredibly True Adventure of Two Girls in Love, The (1995)",Comedy|Romance
+M3048,Under the Rainbow (1981),Comedy
+M3051,Anywhere But Here (1999),Comedy|Drama
+M3052,Dogma (1999),Adventure|Comedy|Fantasy
+M3053,"Messenger: The Story of Joan of Arc, The (1999)",Drama|War
+M3054,Pokémon: The First Movie (1998),Adventure|Animation|Children|Fantasy|Sci-Fi
+M3055,Felicia's Journey (1999),Thriller
+M3056,Oxygen (1999),Crime|Drama|Thriller
+M3057,Where's Marlowe? (1998),Comedy
+M3060,"Commitments, The (1991)",Comedy|Drama|Musical
+M3061,Holiday Inn (1942),Comedy|Musical
+M3062,"Longest Day, The (1962)",Action|Drama|War
+M3063,Poison Ivy (1992),Drama|Thriller
+M3064,Poison Ivy: New Seduction (1997),Drama|Thriller
+M3066,Tora! Tora! Tora! (1970),Action|Drama|War
+M3067,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988),Comedy|Drama
+M3068,"Verdict, The (1982)",Drama|Mystery
+M3070,"Adventures of Buckaroo Banzai Across the 8th Dimension, The (1984)",Adventure|Comedy|Sci-Fi
+M3071,Stand and Deliver (1988),Comedy|Drama
+M3072,Moonstruck (1987),Comedy|Romance
+M3073,"Sandpiper, The (1965)",Drama|Romance
+M3074,Jeremiah Johnson (1972),Western
+M3075,Repulsion (1965),Drama|Horror
+M3076,Irma la Douce (1963),Comedy
+M3077,42 Up (1998),Documentary
+M3078,Liberty Heights (1999),Drama
+M3079,Mansfield Park (1999),Comedy|Drama|Romance
+M3081,Sleepy Hollow (1999),Fantasy|Horror|Mystery|Romance
+M3082,"World Is Not Enough, The (1999)",Action|Adventure|Thriller
+M3083,All About My Mother (Todo sobre mi madre) (1999),Drama
+M3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+M3087,Scrooged (1988),Comedy|Fantasy|Romance
+M3088,Harvey (1950),Comedy|Fantasy
+M3089,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama
+M3090,Matewan (1987),Drama
+M3091,Kagemusha (1980),Drama|War
+M3093,McCabe & Mrs. Miller (1971),Drama|Western
+M3094,Maurice (1987),Drama|Romance
+M3095,"Grapes of Wrath, The (1940)",Drama
+M3096,My Man Godfrey (1957),Comedy
+M3097,"Shop Around the Corner, The (1940)",Comedy|Drama|Romance
+M3098,"Natural, The (1984)",Drama
+M3099,Shampoo (1975),Comedy|Drama|Romance
+M3100,"River Runs Through It, A (1992)",Drama
+M3101,Fatal Attraction (1987),Drama|Thriller
+M3102,Jagged Edge (1985),Crime|Romance|Thriller
+M3103,Stanley & Iris (1990),Drama|Romance
+M3104,Midnight Run (1988),Action|Comedy|Crime|Thriller
+M3105,Awakenings (1990),Drama|Mystery
+M3106,Come See the Paradise (1990),Drama|Romance
+M3107,Backdraft (1991),Action|Drama
+M3108,"Fisher King, The (1991)",Comedy|Drama|Fantasy|Romance
+M3109,"River, The (1984)",Drama
+M3111,Places in the Heart (1984),Drama
+M3112,'night Mother (1986),Drama
+M3113,End of Days (1999),Action|Fantasy|Horror|Mystery|Thriller
+M3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy
+M3115,Flawless (1999),Drama
+M3117,Ride with the Devil (1999),Drama|Romance|War
+M3120,"Distinguished Gentleman, The (1992)",Comedy
+M3125,"End of the Affair, The (1999)",Drama
+M3127,Holy Smoke (1999),Comedy|Drama
+M3129,Sweet and Lowdown (1999),Comedy|Drama
+M3130,Bonfire of the Vanities (1990),Comedy|Crime|Drama
+M3132,Daddy Long Legs (1919),Comedy|Drama
+M3134,Grand Illusion (La grande illusion) (1937),Drama|War
+M3135,"Great Santini, The (1979)",Drama
+M3138,Stealing Home (1988),Drama
+M3141,"Two Jakes, The (1990)",Drama
+M3142,U2: Rattle and Hum (1988),Documentary|Musical
+M3143,Hell in the Pacific (1968),Drama|War
+M3145,Cradle Will Rock (1999),Drama
+M3146,Deuce Bigalow: Male Gigolo (1999),Comedy
+M3147,"Green Mile, The (1999)",Crime|Drama
+M3148,"Cider House Rules, The (1999)",Drama
+M3150,"War Zone, The (1999)",Drama|Thriller
+M3152,"Last Picture Show, The (1971)",Drama
+M3153,"7th Voyage of Sinbad, The (1958)",Action|Adventure|Fantasy
+M3155,Anna and the King (1999),Drama|Romance
+M3156,Bicentennial Man (1999),Drama|Romance|Sci-Fi
+M3157,Stuart Little (1999),Children|Comedy|Fantasy
+M3158,"Emperor and the Assassin, The (Jing ke ci qin wang) (1999)",Drama
+M3159,Fantasia 2000 (1999),Animation|Children|Musical|IMAX
+M3160,Magnolia (1999),Drama
+M3161,Onegin (1999),Drama|Romance
+M3162,Simpatico (1999),Comedy|Drama
+M3163,Topsy-Turvy (1999),Comedy|Drama|Musical
+M3165,Boiling Point (1993),Action|Drama
+M3167,Carnal Knowledge (1971),Comedy|Drama
+M3168,Easy Rider (1969),Adventure|Drama
+M3169,The Falcon and the Snowman (1985),Crime|Drama|Thriller
+M3171,Room at the Top (1959),Drama
+M3173,Any Given Sunday (1999),Drama
+M3174,Man on the Moon (1999),Comedy|Drama
+M3175,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi
+M3176,"Talented Mr. Ripley, The (1999)",Drama|Mystery|Thriller
+M3177,Next Friday (2000),Comedy
+M3178,"Hurricane, The (1999)",Drama
+M3179,Angela's Ashes (1999),Drama
+M3181,Titus (1999),Drama
+M3182,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)",Documentary
+M3183,"Third Miracle, The (1999)",Drama
+M3185,Snow Falling on Cedars (1999),Drama
+M3186,"Girl, Interrupted (1999)",Drama
+M3189,My Dog Skip (1999),Children|Drama
+M3190,Supernova (2000),Adventure|Sci-Fi|Thriller
+M3192,"Terrorist, The (a.k.a. Malli) (Theeviravaathi) (1998)",Drama
+M3194,"Way We Were, The (1973)",Drama|Romance
+M3196,Stalag 17 (1953),Drama|War
+M3197,"Presidio, The (1988)",Action|Crime|Romance|Thriller
+M3198,Papillon (1973),Crime|Drama
+M3200,"Last Detail, The (1973)",Comedy|Drama
+M3201,Five Easy Pieces (1970),Drama
+M3203,Dead Calm (1989),Thriller
+M3204,"Boys from Brazil, The (1978)",Action|Mystery|Thriller
+M3206,Against All Odds (1984),Romance
+M3208,Loaded Weapon 1 (National Lampoon's Loaded Weapon 1) (1993),Action|Comedy
+M3210,Fast Times at Ridgemont High (1982),Comedy|Drama|Romance
+M3211,"Cry in the Dark, A (1988)",Drama
+M3213,Batman: Mask of the Phantasm (1993),Animation|Children
+M3214,American Flyers (1985),Drama
+M3217,"Star Is Born, A (1937)",Drama
+M3219,Pacific Heights (1990),Mystery|Thriller
+M3221,"Draughtsman's Contract, The (1982)",Drama
+M3223,"Zed & Two Noughts, A (1985)",Drama
+M3224,Woman in the Dunes (Suna no onna) (1964),Drama
+M3225,Down to You (2000),Comedy|Romance
+M3230,"Odessa File, The (1974)",Thriller
+M3235,Where the Buffalo Roam (1980),Comedy
+M3238,Eye of the Beholder (1999),Thriller
+M3240,"Big Tease, The (1999)",Comedy
+M3241,"Cup, The (Phörpa) (1999)",Comedy
+M3243,Encino Man (1992),Comedy
+M3244,"Goodbye Girl, The (1977)",Comedy|Romance
+M3246,Malcolm X (1992),Drama
+M3247,Sister Act (1992),Comedy|Crime
+M3248,Sister Act 2: Back in the Habit (1993),Comedy
+M3249,"Hand That Rocks the Cradle, The (1992)",Drama|Thriller
+M3250,Alive (1993),Drama
+M3251,Agnes of God (1985),Drama|Mystery
+M3252,Scent of a Woman (1992),Drama
+M3253,Wayne's World (1992),Comedy
+M3254,Wayne's World 2 (1993),Comedy
+M3255,"League of Their Own, A (1992)",Comedy|Drama
+M3256,Patriot Games (1992),Action|Crime|Drama|Thriller
+M3257,"Bodyguard, The (1992)",Drama|Romance|Thriller
+M3258,Death Becomes Her (1992),Comedy|Fantasy
+M3259,Far and Away (1992),Adventure|Drama|Romance
+M3260,Howards End (1992),Drama
+M3261,Singles (1992),Comedy|Drama|Romance
+M3262,Twin Peaks: Fire Walk with Me (1992),Crime|Drama|Mystery|Thriller
+M3263,White Men Can't Jump (1992),Comedy|Drama
+M3264,Buffy the Vampire Slayer (1992),Action|Comedy|Horror
+M3265,Hard-Boiled (Lat sau san taam) (1992),Action|Crime|Drama|Thriller
+M3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller
+M3267,"Mariachi, El (1992)",Action|Crime|Thriller|Western
+M3268,Stop! Or My Mom Will Shoot (1992),Action|Comedy
+M3269,Forever Young (1992),Drama|Romance|Sci-Fi
+M3270,"Cutting Edge, The (1992)",Comedy|Drama|Romance
+M3271,Of Mice and Men (1992),Drama
+M3272,Bad Lieutenant (1992),Crime|Drama
+M3273,Scream 3 (2000),Comedy|Horror|Mystery|Thriller
+M3274,Single White Female (1992),Drama|Thriller
+M3275,"Boondock Saints, The (2000)",Action|Crime|Drama|Thriller
+M3276,Gun Shy (2000),Comedy
+M3280,"Baby, The (1973)",Horror
+M3281,"Brandon Teena Story, The (1998)",Documentary
+M3283,Minnie and Moskowitz (1971),Action
+M3284,They Might Be Giants (1971),Comedy|Mystery|Romance
+M3285,"Beach, The (2000)",Adventure|Drama
+M3286,Snow Day (2000),Comedy
+M3287,"Tigger Movie, The (2000)",Animation|Children
+M3289,Not One Less (Yi ge dou bu neng shao) (1999),Drama
+M3294,Eaten Alive (1977),Horror
+M3295,Raining Stones (1993),Drama
+M3296,To Sir with Love (1967),Drama
+M3298,Boiler Room (2000),Crime|Drama|Thriller
+M3299,Hanging Up (2000),Comedy|Drama
+M3300,Pitch Black (2000),Horror|Sci-Fi|Thriller
+M3301,"Whole Nine Yards, The (2000)",Comedy|Crime
+M3302,Beautiful People (1999),Comedy
+M3303,Black Tar Heroin: The Dark End of the Street (2000),Documentary
+M3306,"Circus, The (1928)",Comedy
+M3307,City Lights (1931),Comedy|Drama|Romance
+M3308,"Flamingo Kid, The (1984)",Comedy|Drama
+M3310,"Kid, The (1921)",Comedy|Drama
+M3313,Class Reunion (1982),Comedy
+M3315,Happy Go Lovely (1951),Musical
+M3316,Reindeer Games (2000),Action|Thriller
+M3317,Wonder Boys (2000),Comedy|Drama
+M3323,Chain of Fools (2000),Comedy|Crime
+M3324,Drowning Mona (2000),Comedy
+M3325,"Next Best Thing, The (2000)",Comedy|Drama
+M3326,What Planet Are You From? (2000),Comedy|Sci-Fi
+M3327,Beyond the Mat (1999),Documentary
+M3328,Ghost Dog: The Way of the Samurai (1999),Crime|Drama
+M3329,The Year My Voice Broke (1987),Drama|Romance
+M3330,Splendor in the Grass (1961),Drama|Romance
+M3331,My Tutor (1983),Drama
+M3334,Key Largo (1948),Crime|Drama|Film-Noir|Thriller
+M3338,For All Mankind (1989),Documentary
+M3341,Born Yesterday (1950),Comedy
+M3342,Birdy (1984),Drama|War
+M3344,Blood Feast (1963),Horror
+M3345,"Charlie, the Lonesome Cougar (1967)",Adventure|Children
+M3347,Never Cry Wolf (1983),Adventure|Drama
+M3350,"Raisin in the Sun, A (1961)",Drama
+M3353,"Closer You Get, The (2000)",Comedy|Romance
+M3354,Mission to Mars (2000),Sci-Fi
+M3355,"Ninth Gate, The (1999)",Fantasy|Horror|Mystery|Thriller
+M3357,East-West (Est-ouest) (1999),Drama|Romance
+M3358,Defending Your Life (1991),Comedy|Drama|Fantasy|Romance
+M3359,Breaking Away (1979),Comedy|Drama
+M3360,Hoosiers (a.k.a. Best Shot) (1986),Drama|Romance
+M3361,Bull Durham (1988),Comedy|Drama|Romance
+M3362,Dog Day Afternoon (1975),Crime|Drama
+M3363,American Graffiti (1973),Comedy|Drama
+M3364,"Asphalt Jungle, The (1950)",Crime|Film-Noir
+M3365,"Searchers, The (1956)",Drama|Western
+M3368,"Big Country, The (1958)",Romance|Western
+M3370,Betrayed (1988),Drama|Thriller
+M3372,"Bridge at Remagen, The (1969)",Action|War
+M3374,Daughters of the Dust (1991),Drama
+M3378,"Ogre, The (Unhold, Der) (1996)",Drama
+M3379,On the Beach (1959),Drama
+M3384,"Taking of Pelham One Two Three, The (1974)",Action|Crime
+M3385,Volunteers (1985),Comedy
+M3386,JFK (1991),Drama|Mystery|Thriller
+M3387,Who's Harry Crumb? (1989),Comedy|Mystery
+M3388,Harry and the Hendersons (1987),Children|Comedy
+M3389,Let's Get Harry (1986),Action|Adventure
+M3390,Shanghai Surprise (1986),Adventure|Crime|Drama|Romance
+M3391,Who's That Girl? (1987),Comedy
+M3392,She-Devil (1989),Comedy
+M3393,Date with an Angel (1987),Comedy|Fantasy|Romance
+M3394,Blind Date (1987),Comedy|Romance
+M3395,Nadine (1987),Comedy
+M3396,"Muppet Movie, The (1979)",Adventure|Children|Comedy|Musical
+M3397,"Great Muppet Caper, The (1981)",Children|Comedy
+M3398,"Muppets Take Manhattan, The (1984)",Children|Comedy|Musical
+M3400,We're Back! A Dinosaur's Story (1993),Adventure|Animation|Children|Fantasy
+M3401,Baby... Secret of the Lost Legend (1985),Adventure|Sci-Fi
+M3402,Turtle Diary (1985),Comedy|Drama|Romance
+M3403,Raise the Titanic (1980),Drama|Thriller
+M3404,Titanic (1953),Action|Drama
+M3405,"Night to Remember, A (1958)",Action|Drama
+M3406,Captain Horatio Hornblower R.N. (1951),Action|Adventure|Drama|War
+M3408,Erin Brockovich (2000),Drama
+M3409,Final Destination (2000),Drama|Thriller
+M3410,Soft Fruit (1999),Comedy|Drama
+M3412,"Bear, The (Ours, L') (1988)",Adventure|Children|Drama
+M3414,Love Is a Many-Splendored Thing (1955),Drama|Romance|War
+M3415,"Mirror, The (Zerkalo) (1975)",Drama
+M3417,"Crimson Pirate, The (1952)",Adventure|Comedy
+M3418,Thelma & Louise (1991),Adventure|Crime|Drama
+M3420,...And Justice for All (1979),Drama|Thriller
+M3421,Animal House (1978),Comedy
+M3422,She's Gotta Have It (1986),Comedy|Romance
+M3423,School Daze (1988),Drama
+M3424,Do the Right Thing (1989),Drama
+M3425,Mo' Better Blues (1990),Drama|Musical
+M3426,Jungle Fever (1991),Drama|Romance
+M3428,"Champ, The (1979)",Drama
+M3429,Creature Comforts (1989),Animation|Comedy
+M3430,Death Wish (1974),Action|Crime|Drama
+M3431,Death Wish 2 (1982),Action|Drama
+M3432,Death Wish 3 (1985),Action|Drama
+M3433,Death Wish 4: The Crackdown (1987),Action|Drama
+M3434,Death Wish 5: The Face of Death (1994),Action|Drama
+M3435,Double Indemnity (1944),Crime|Drama|Film-Noir
+M3436,Dying Young (1991),Drama|Romance
+M3438,Teenage Mutant Ninja Turtles (1990),Action|Children|Comedy|Fantasy|Sci-Fi
+M3439,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),Action|Children|Fantasy
+M3440,Teenage Mutant Ninja Turtles III (1993),Action|Adventure|Children|Comedy|Fantasy
+M3441,Red Dawn (1984),Action|Drama|War
+M3442,Band of the Hand (1986),Action|Crime|Drama
+M3444,Bloodsport (1988),Action
+M3445,Eyes of Laura Mars (1978),Mystery|Thriller
+M3446,Funny Bones (1995),Comedy|Drama
+M3447,"Good Earth, The (1937)",Drama
+M3448,"Good Morning, Vietnam (1987)",Comedy|Drama|War
+M3449,"Good Mother, The (1988)",Drama
+M3450,Grumpy Old Men (1993),Comedy
+M3451,Guess Who's Coming to Dinner (1967),Drama
+M3452,Romeo Must Die (2000),Action|Crime|Romance|Thriller
+M3453,Here on Earth (2000),Drama|Romance
+M3454,Whatever It Takes (2000),Comedy|Romance
+M3455,Buddy Boy (1999),Drama|Thriller
+M3456,"Color of Paradise, The (Rang-e khoda) (1999)",Drama
+M3459,Gothic (1986),Drama|Horror
+M3461,Lord of the Flies (1963),Adventure|Drama|Thriller
+M3462,Modern Times (1936),Comedy|Drama|Romance
+M3466,Heart and Souls (1993),Comedy|Fantasy
+M3467,Hud (1963),Drama|Western
+M3468,"Hustler, The (1961)",Drama
+M3469,Inherit the Wind (1960),Drama
+M3470,Dersu Uzala (1975),Adventure|Drama
+M3471,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi
+M3473,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy
+M3474,Retroactive (1997),Sci-Fi|Thriller
+M3475,"Place in the Sun, A (1951)",Drama|Romance
+M3476,Jacob's Ladder (1990),Horror|Mystery
+M3477,Empire Records (1995),Comedy|Drama
+M3478,"Bamba, La (1987)",Drama
+M3479,Ladyhawke (1985),Adventure|Fantasy|Romance
+M3480,Lucas (1986),Drama|Romance
+M3481,High Fidelity (2000),Comedy|Drama|Romance
+M3483,"Road to El Dorado, The (2000)",Animation|Children
+M3484,"Skulls, The (2000)",Thriller
+M3489,Hook (1991),Adventure|Comedy|Fantasy
+M3492,"Son of the Sheik, The (1926)",Adventure|Comedy|Romance
+M3494,True Grit (1969),Adventure|Drama|Western
+M3496,Madame Sousatzka (1988),Drama
+M3497,Max Dugan Returns (1983),Comedy
+M3498,Midnight Express (1978),Drama
+M3499,Misery (1990),Drama|Horror|Thriller
+M3500,Mr. Saturday Night (1992),Comedy|Drama
+M3501,Murphy's Romance (1985),Comedy|Romance
+M3502,My Life (1993),Drama
+M3503,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+M3504,Network (1976),Comedy|Drama
+M3505,No Way Out (1987),Drama|Mystery|Thriller
+M3506,North Dallas Forty (1979),Comedy|Drama
+M3507,"Odd Couple, The (1968)",Comedy
+M3508,"Outlaw Josey Wales, The (1976)",Action|Adventure|Drama|Thriller|Western
+M3510,Frequency (2000),Drama|Thriller
+M3511,Ready to Rumble (2000),Comedy
+M3512,Return to Me (2000),Drama|Romance
+M3513,Rules of Engagement (2000),Drama|Thriller
+M3514,Joe Gould's Secret (2000),Drama
+M3515,Me Myself I (2000),Comedy|Romance
+M3516,"Bell, Book and Candle (1958)",Comedy|Fantasy|Romance
+M3519,Force 10 from Navarone (1978),Action|Drama|War
+M3521,Mystery Train (1989),Comedy|Drama
+M3524,Arthur (1981),Comedy|Romance
+M3525,Bachelor Party (1984),Comedy
+M3526,Parenthood (1989),Comedy|Drama
+M3527,Predator (1987),Action|Sci-Fi|Thriller
+M3528,"Prince of Tides, The (1991)",Drama|Romance
+M3529,"Postman Always Rings Twice, The (1981)",Crime|Thriller
+M3531,All the Vermeers in New York (1990),Comedy|Drama|Romance
+M3534,28 Days (2000),Drama
+M3535,American Psycho (2000),Crime|Horror|Mystery|Thriller
+M3536,Keeping the Faith (2000),Comedy|Drama|Romance
+M3537,Where the Money Is (2000),Comedy|Drama
+M3538,East is East (1999),Comedy
+M3539,"Filth and the Fury, The (2000)",Documentary
+M3543,Diner (1982),Comedy|Drama
+M3544,Shakes the Clown (1992),Comedy
+M3545,Cabaret (1972),Drama|Musical
+M3546,What Ever Happened to Baby Jane? (1962),Drama|Horror|Thriller
+M3548,Auntie Mame (1958),Comedy|Drama
+M3549,Guys and Dolls (1955),Comedy|Musical|Romance
+M3550,The Hunger (1983),Horror
+M3551,Marathon Man (1976),Crime|Drama|Thriller
+M3552,Caddyshack (1980),Comedy
+M3553,Gossip (2000),Drama|Thriller
+M3554,Love and Basketball (2000),Drama|Romance
+M3555,U-571 (2000),Action|Thriller|War
+M3556,"Virgin Suicides, The (1999)",Drama|Romance
+M3557,Jennifer 8 (1992),Mystery|Thriller
+M3559,Limelight (1952),Comedy|Drama|Romance
+M3563,"Crow: Salvation, The (2000)",Action|Horror
+M3564,"Flintstones in Viva Rock Vegas, The (2000)",Children|Comedy
+M3565,Where the Heart Is (2000),Comedy|Drama
+M3566,"Big Kahuna, The (2000)",Comedy|Drama
+M3567,Bossa Nova (2000),Comedy|Drama|Romance
+M3568,Smiling Fish and Goat on Fire (1999),Comedy|Romance
+M3569,"Idiots, The (Idioterne) (1998)",Comedy|Drama
+M3571,Time Code (2000),Comedy|Drama
+M3572,Carnosaur (1993),Horror|Sci-Fi
+M3573,Carnosaur 2 (1995),Horror|Sci-Fi
+M3574,Carnosaur 3: Primal Species (1996),Horror|Sci-Fi
+M3576,"Hidden, The (1987)",Action|Horror|Sci-Fi
+M3577,Two Moon Junction (1988),Drama|Romance
+M3578,Gladiator (2000),Action|Adventure|Drama
+M3580,Up at the Villa (2000),Drama
+M3581,Human Traffic (1999),Comedy
+M3584,Breathless (1983),Action|Drama|Romance|Thriller
+M3586,The Idolmaker (1980),Drama|Romance
+M3587,Inferno (1980),Horror
+M3590,"Lords of Flatbush, The (1974)",Comedy|Drama
+M3591,Mr. Mom (1983),Comedy|Drama
+M3592,"Time Masters (Maîtres du temps, Les) (1982)",Animation|Sci-Fi
+M3593,Battlefield Earth (2000),Action|Sci-Fi
+M3594,Center Stage (2000),Drama|Musical
+M3596,Screwed (2000),Comedy
+M3597,Whipped (2000),Comedy
+M3598,Hamlet (2000),Crime|Drama|Romance|Thriller
+M3599,Anchors Aweigh (1945),Comedy|Musical
+M3604,Gypsy (1962),Musical
+M3606,On the Town (1949),Comedy|Musical|Romance
+M3608,Pee-wee's Big Adventure (1985),Adventure|Comedy
+M3609,Regret to Inform (1998),Documentary
+M3614,Honeymoon in Vegas (1992),Comedy|Romance
+M3615,Dinosaur (2000),Adventure|Animation|Children
+M3616,Loser (2000),Comedy|Romance
+M3617,Road Trip (2000),Comedy
+M3618,Small Time Crooks (2000),Comedy|Crime
+M3619,"Hollywood Knights, The (1980)",Comedy
+M3622,"Twelve Chairs, The (1970)",Comedy
+M3623,Mission: Impossible II (2000),Action|Adventure|Thriller
+M3624,Shanghai Noon (2000),Action|Adventure|Comedy|Western
+M3625,Better Living Through Circuitry (1999),Documentary
+M3626,8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women) (1999),Comedy
+M3627,Carnival of Souls (1962),Horror|Thriller
+M3628,Flying Tigers (1942),Action|Drama|Romance|War
+M3629,"Gold Rush, The (1925)",Adventure|Comedy|Romance
+M3632,Monsieur Verdoux (1947),Comedy|Crime
+M3633,On Her Majesty's Secret Service (1969),Action|Adventure|Romance|Thriller
+M3634,Seven Days in May (1964),Thriller
+M3635,"Spy Who Loved Me, The (1977)",Action|Adventure|Thriller
+M3637,Vagabond (Sans toit ni loi) (1985),Drama
+M3638,Moonraker (1979),Action|Adventure|Sci-Fi|Thriller
+M3639,"Man with the Golden Gun, The (1974)",Action|Adventure|Thriller
+M3640,"King in New York, A (1957)",Comedy|Drama
+M3641,"Woman of Paris, A (1923)",Drama
+M3643,"Fighting Seabees, The (1944)",Action|Drama|War
+M3646,Big Momma's House (2000),Comedy
+M3648,"Abominable Snowman, The (Abominable Snowman of the Himalayas, The) (1957)",Horror|Sci-Fi
+M3649,American Gigolo (1980),Drama
+M3652,"City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella città dei morti viventi) (1980)",Horror
+M3653,"Endless Summer, The (1966)",Documentary
+M3654,"Guns of Navarone, The (1961)",Action|Adventure|Drama|War
+M3655,Blow-Out (La grande bouffe) (1973),Drama
+M3658,Quatermass and the Pit (1967),Horror|Sci-Fi
+M3660,Puppet Master (1989),Horror|Sci-Fi|Thriller
+M3661,Puppet Master II (1991),Horror|Sci-Fi|Thriller
+M3662,Puppet Master III: Toulon's Revenge (1991),Horror|Sci-Fi|Thriller
+M3663,Puppet Master 4 (1993),Horror|Sci-Fi|Thriller
+M3664,Puppet Master 5: The Final Chapter (1994),Horror|Sci-Fi|Thriller
+M3667,Rent-A-Cop (1988),Action|Comedy|Crime
+M3668,Romeo and Juliet (1968),Drama|Romance
+M3669,Stay Tuned (1992),Comedy
+M3671,Blazing Saddles (1974),Comedy|Western
+M3672,Benji (1974),Adventure|Children
+M3673,Benji the Hunted (1987),Adventure|Children
+M3674,For the Love of Benji (1977),Adventure|Children|Comedy|Drama
+M3675,White Christmas (1954),Comedy|Musical|Romance
+M3676,Eraserhead (1977),Drama|Horror
+M3677,Baraka (1992),Documentary
+M3678,"Man with the Golden Arm, The (1955)",Drama
+M3679,"Decline of Western Civilization, The (1981)",Documentary|Musical
+M3680,"Decline of Western Civilization Part II: The Metal Years, The (1988)",Documentary
+M3681,For a Few Dollars More (Per qualche dollaro in più) (1965),Action|Drama|Thriller|Western
+M3682,Magnum Force (1973),Action|Crime|Drama|Thriller
+M3683,Blood Simple (1984),Crime|Drama|Film-Noir
+M3684,"Fabulous Baker Boys, The (1989)",Drama|Romance
+M3685,Prizzi's Honor (1985),Comedy|Drama|Romance
+M3686,Flatliners (1990),Horror|Sci-Fi|Thriller
+M3687,Light Years (Gandahar) (1988),Adventure|Animation|Fantasy|Sci-Fi
+M3688,Porky's (1982),Comedy
+M3689,Porky's II: The Next Day (1983),Comedy
+M3690,Porky's Revenge (1985),Comedy
+M3691,Private School (1983),Comedy
+M3692,Class of Nuke 'Em High (1986),Comedy|Horror
+M3693,"Toxic Avenger, The (1985)",Comedy|Horror
+M3694,"Toxic Avenger, Part II, The (1989)",Comedy|Horror
+M3695,"Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)",Comedy|Horror
+M3696,Night of the Creeps (1986),Comedy|Horror|Sci-Fi|Thriller
+M3697,Predator 2 (1990),Action|Sci-Fi|Thriller
+M3698,"Running Man, The (1987)",Action|Sci-Fi
+M3699,Starman (1984),Adventure|Drama|Romance|Sci-Fi
+M3700,"Brother from Another Planet, The (1984)",Drama|Sci-Fi
+M3701,Alien Nation (1988),Crime|Drama|Sci-Fi|Thriller
+M3702,Mad Max (1979),Action|Adventure|Sci-Fi
+M3703,"Road Warrior, The (Mad Max 2) (1981)",Action|Adventure|Sci-Fi|Thriller
+M3704,Mad Max Beyond Thunderdome (1985),Action|Adventure|Sci-Fi
+M3705,Bird on a Wire (1990),Action|Comedy|Romance
+M3706,Angel Heart (1987),Film-Noir|Horror|Mystery|Thriller
+M3707,9 1/2 Weeks (Nine 1/2 Weeks) (1986),Drama|Romance
+M3708,Firestarter (1984),Horror|Thriller
+M3709,Sleepwalkers (1992),Horror
+M3710,Action Jackson (1988),Action|Comedy|Crime|Thriller
+M3711,Sarafina! (1992),Drama
+M3712,Soapdish (1991),Comedy
+M3713,"Long Walk Home, The (1990)",Drama
+M3714,Clara's Heart (1988),Drama
+M3715,Burglar (1987),Comedy|Crime
+M3716,Fatal Beauty (1987),Action|Comedy|Crime|Drama
+M3717,Gone in 60 Seconds (2000),Action|Crime
+M3719,Love's Labour's Lost (2000),Comedy|Romance
+M3720,Sunshine (1999),Drama
+M3723,Hamlet (1990),Drama
+M3724,Coming Home (1978),Drama|War
+M3725,American Pop (1981),Animation|Musical
+M3726,Assault on Precinct 13 (1976),Action|Thriller
+M3727,Near Dark (1987),Horror|Western
+M3728,One False Move (1992),Crime|Drama|Film-Noir|Thriller
+M3729,Shaft (1971),Action|Crime|Drama|Thriller
+M3730,"Conversation, The (1974)",Drama|Mystery
+M3731,Cutter's Way (1981),Drama|Thriller
+M3732,"Fury, The (1978)",Horror
+M3733,"Paper Chase, The (1973)",Drama
+M3735,Serpico (1973),Crime|Drama
+M3736,"Ace in the Hole (Big Carnival, The) (1951)",Drama
+M3737,Lonely Are the Brave (1962),Drama|Western
+M3738,"Sugarland Express, The (1974)",Drama
+M3739,Trouble in Paradise (1932),Comedy|Romance
+M3740,Big Trouble in Little China (1986),Action|Adventure|Comedy|Fantasy
+M3741,Badlands (1973),Crime|Drama|Thriller
+M3742,Battleship Potemkin (1925),Drama|War
+M3743,Boys and Girls (2000),Comedy|Romance
+M3744,Shaft (2000),Action|Crime|Thriller
+M3745,Titan A.E. (2000),Action|Adventure|Animation|Children|Sci-Fi
+M3746,Butterfly (La lengua de las mariposas) (1999),Drama
+M3747,Jesus' Son (1999),Drama
+M3751,Chicken Run (2000),Animation|Children|Comedy
+M3752,"Me, Myself & Irene (2000)",Adventure|Comedy
+M3753,"Patriot, The (2000)",Action|Drama|War
+M3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy
+M3755,"Perfect Storm, The (2000)",Drama|Thriller
+M3756,"Golden Bowl, The (2000)",Drama
+M3758,Communion (1989),Drama|Sci-Fi|Thriller
+M3760,"Kentucky Fried Movie, The (1977)",Comedy
+M3761,"Blood In, Blood Out (1993)",Action|Crime|Drama|Thriller
+M3763,F/X (1986),Action|Crime|Thriller
+M3764,F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion) (1991),Action|Crime|Thriller
+M3765,"Hot Spot, The (1990)",Crime|Drama|Romance
+M3766,Missing in Action (1984),Action|War
+M3767,Missing in Action 2: The Beginning (1985),Action|War
+M3768,Braddock: Missing in Action III (1988),Action|War
+M3769,Thunderbolt and Lightfoot (1974),Action
+M3770,Dreamscape (1984),Horror|Sci-Fi|Thriller
+M3771,The Golden Voyage of Sinbad (1973),Action|Adventure|Fantasy
+M3773,House Party (1990),Comedy
+M3774,House Party 2 (1991),Comedy|Drama|Romance
+M3783,Croupier (1998),Crime|Drama
+M3784,"Kid, The (2000)",Comedy|Fantasy
+M3785,Scary Movie (2000),Comedy|Horror
+M3786,But I'm a Cheerleader (1999),Comedy
+M3787,Shower (Xizao) (1999),Comedy
+M3788,Blow-Up (Blowup) (1966),Drama|Mystery
+M3789,"Pawnbroker, The (1964)",Drama
+M3790,Groove (2000),Drama
+M3791,Footloose (1984),Drama
+M3792,Duel in the Sun (1946),Drama|Romance|Western
+M3793,X-Men (2000),Action|Adventure|Sci-Fi
+M3794,Chuck & Buck (2000),Comedy|Drama
+M3795,"Five Senses, The (1999)",Drama
+M3797,"In Crowd, The (2000)",Thriller
+M3798,What Lies Beneath (2000),Drama|Horror|Mystery
+M3799,Pokémon the Movie 2000 (2000),Animation|Children
+M3801,Anatomy of a Murder (1959),Drama|Mystery
+M3802,Freejack (1992),Action|Sci-Fi
+M3806,Mackenna's Gold (1969),Western
+M3807,Sinbad and the Eye of the Tiger (1977),Adventure|Fantasy
+M3808,"Two Women (Ciociara, La) (1960)",Drama|War
+M3809,What About Bob? (1991),Comedy
+M3810,White Sands (1992),Drama|Thriller
+M3811,Breaker Morant (1980),Drama|War
+M3812,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972),Comedy
+M3813,Interiors (1978),Drama
+M3814,Love and Death (1975),Comedy
+M3816,"Official Story, The (La historia oficial) (1985)",Drama
+M3819,Tampopo (1985),Comedy
+M3821,Nutty Professor II: The Klumps (2000),Comedy
+M3822,"Girl on the Bridge, The (Fille sur le pont, La) (1999)",Drama|Romance
+M3823,Wonderland (1999),Drama
+M3824,Autumn in New York (2000),Drama|Romance
+M3825,Coyote Ugly (2000),Comedy|Drama|Romance
+M3826,Hollow Man (2000),Horror|Sci-Fi|Thriller
+M3827,Space Cowboys (2000),Action|Adventure|Comedy|Sci-Fi
+M3830,Psycho Beach Party (2000),Comedy|Horror|Thriller
+M3831,Saving Grace (2000),Comedy
+M3832,"Black Sabbath (Tre volti della paura, I) (1963)",Horror
+M3833,"Brain That Wouldn't Die, The (1962)",Horror|Sci-Fi
+M3834,Bronco Billy (1980),Adventure|Drama|Romance
+M3835,"Crush, The (1993)",Thriller
+M3836,Kelly's Heroes (1970),Action|Comedy|War
+M3837,Phantasm II (1988),Action|Fantasy|Horror|Sci-Fi|Thriller
+M3838,Phantasm III: Lord of the Dead (1994),Horror
+M3839,Phantasm IV: Oblivion (1998),Horror
+M3840,Pumpkinhead (1988),Horror
+M3841,Air America (1990),Action|Comedy
+M3843,Sleepaway Camp (1983),Horror
+M3844,Steel Magnolias (1989),Drama
+M3845,And God Created Woman (Et Dieu... créa la femme) (1956),Drama
+M3846,Easy Money (1983),Comedy
+M3847,"Ilsa, She Wolf of the SS (1974)",Horror
+M3849,The Spiral Staircase (1945),Horror|Mystery|Thriller
+M3851,I'm the One That I Want (2000),Comedy
+M3852,"Tao of Steve, The (2000)",Comedy
+M3855,"Affair of Love, An (Liaison pornographique, Une) (1999)",Drama|Romance
+M3857,Bless the Child (2000),Thriller
+M3858,Cecil B. DeMented (2000),Comedy
+M3859,"Eyes of Tammy Faye, The (2000)",Documentary
+M3861,"Replacements, The (2000)",Comedy
+M3862,About Adam (2000),Comedy
+M3863,"Cell, The (2000)",Drama|Horror|Thriller
+M3864,Godzilla 2000 (Gojira ni-sen mireniamu) (1999),Action|Adventure|Sci-Fi
+M3865,"Original Kings of Comedy, The (2000)",Comedy|Documentary
+M3868,"Naked Gun: From the Files of Police Squad!, The (1988)",Action|Comedy|Crime|Romance
+M3869,"Naked Gun 2 1/2: The Smell of Fear, The (1991)",Comedy
+M3870,Our Town (1940),Drama
+M3871,Shane (1953),Drama|Western
+M3872,"Suddenly, Last Summer (1959)",Drama
+M3873,Cat Ballou (1965),Comedy|Western
+M3877,Supergirl (1984),Action|Adventure|Fantasy
+M3879,"Art of War, The (2000)",Action|Thriller
+M3882,Bring It On (2000),Comedy
+M3884,"Crew, The (2000)",Comedy
+M3888,Skipped Parts (2000),Drama|Romance
+M3889,Highlander: Endgame (Highlander IV) (2000),Action|Adventure|Fantasy
+M3893,Nurse Betty (2000),Comedy|Crime|Drama|Romance|Thriller
+M3894,Solas (1999),Drama
+M3895,"Watcher, The (2000)",Crime|Thriller
+M3896,"Way of the Gun, The (2000)",Crime|Thriller
+M3897,Almost Famous (2000),Drama
+M3898,Bait (2000),Action|Comedy
+M3899,Circus (2000),Crime|Drama|Thriller
+M3900,Crime and Punishment in Suburbia (2000),Comedy|Drama
+M3901,Duets (2000),Comedy|Drama
+M3906,Under Suspicion (2000),Crime|Thriller
+M3908,Urban Legends: Final Cut (2000),Horror
+M3909,Woman on Top (2000),Comedy|Romance
+M3910,Dancer in the Dark (2000),Drama|Musical
+M3911,Best in Show (2000),Comedy
+M3912,Beautiful (2000),Comedy|Drama
+M3914,"Broken Hearts Club, The (2000)",Drama
+M3915,Girlfight (2000),Drama
+M3916,Remember the Titans (2000),Drama
+M3917,Hellraiser (1987),Horror
+M3918,Hellbound: Hellraiser II (1988),Horror
+M3919,Hellraiser III: Hell on Earth (1992),Horror
+M3920,"Faraway, So Close (In weiter Ferne, so nah!) (1993)",Drama|Fantasy|Mystery|Romance
+M3922,Bikini Beach (1964),Comedy
+M3925,Stranger Than Paradise (1984),Comedy|Drama
+M3926,Voyage to the Bottom of the Sea (1961),Adventure|Sci-Fi
+M3927,Fantastic Voyage (1966),Adventure|Sci-Fi
+M3928,Abbott and Costello Meet Frankenstein (1948),Comedy|Horror
+M3929,"Bank Dick, The (1940)",Comedy
+M3930,"Creature from the Black Lagoon, The (1954)",Adventure|Horror|Sci-Fi
+M3932,"Invisible Man, The (1933)",Horror|Sci-Fi
+M3933,"Killer Shrews, The (1959)",Horror|Sci-Fi
+M3937,Runaway (1984),Sci-Fi|Thriller
+M3938,"Slumber Party Massacre, The (1982)",Horror
+M3939,Slumber Party Massacre II (1987),Horror
+M3940,Slumber Party Massacre III (1990),Horror
+M3941,Sorority House Massacre (1986),Horror
+M3942,Sorority House Massacre II (1990),Horror
+M3943,Bamboozled (2000),Comedy
+M3945,Digimon: The Movie (2000),Adventure|Animation|Children
+M3946,Get Carter (2000),Action|Drama|Thriller
+M3947,Get Carter (1971),Action|Crime|Drama|Thriller
+M3948,Meet the Parents (2000),Comedy
+M3949,Requiem for a Dream (2000),Drama
+M3950,Tigerland (2000),Drama
+M3951,Two Family House (2000),Drama
+M3952,"Contender, The (2000)",Drama|Thriller
+M3953,Dr. T and the Women (2000),Comedy|Romance
+M3955,"Ladies Man, The (2000)",Comedy
+M3957,Billy Jack (1971),Action|Drama
+M3958,Billy Jack Goes to Washington (1977),Drama
+M3959,"Time Machine, The (1960)",Action|Adventure|Sci-Fi
+M3962,Ghoulies II (1987),Comedy|Horror
+M3963,"Unsinkable Molly Brown, The (1964)",Musical
+M3964,"Adventures of Ichabod and Mr. Toad, The (1949)",Animation|Children
+M3965,"Strange Love of Martha Ivers, The (1946)",Drama|Film-Noir
+M3966,Detour (1945),Crime|Film-Noir
+M3967,Billy Elliot (2000),Drama
+M3968,Bedazzled (2000),Comedy
+M3969,Pay It Forward (2000),Drama
+M3971,"Private Eyes, The (1981)",Comedy|Mystery
+M3972,"Legend of Drunken Master, The (Jui kuen II) (1994)",Action|Comedy
+M3973,Book of Shadows: Blair Witch 2 (2000),Crime|Horror|Mystery|Thriller
+M3974,"Little Vampire, The (2000)",Adventure|Children
+M3977,Charlie's Angels (2000),Action|Comedy
+M3978,"Legend of Bagger Vance, The (2000)",Drama|Romance
+M3979,Little Nicky (2000),Comedy
+M3980,Men of Honor (2000),Drama
+M3981,Red Planet (2000),Action|Sci-Fi|Thriller
+M3983,You Can Count on Me (2000),Drama|Romance
+M3984,Diamonds Are Forever (1971),Action|Adventure|Thriller
+M3985,"Eagle Has Landed, The (1976)",Drama|War
+M3986,"6th Day, The (2000)",Action|Sci-Fi|Thriller
+M3987,Bounce (2000),Drama|Romance
+M3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),Children|Comedy|Fantasy
+M3989,One Day in September (1999),Documentary
+M3990,Rugrats in Paris: The Movie (2000),Animation|Children|Comedy
+M3991,102 Dalmatians (2000),Children|Comedy
+M3992,Malèna (2000),Drama|Romance|War
+M3993,Quills (2000),Drama|Romance
+M3994,Unbreakable (2000),Drama|Sci-Fi
+M3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance
+M3997,Dungeons & Dragons (2000),Action|Adventure|Comedy|Fantasy
+M3998,Proof of Life (2000),Drama
+M3999,Vertical Limit (2000),Action|Adventure
+M4000,"Bounty, The (1984)",Adventure|Drama
+M4002,"Planes, Trains & Automobiles (1987)",Comedy
+M4003,She's Having a Baby (1988),Comedy
+M4005,"Living Daylights, The (1987)",Action|Adventure|Thriller
+M4006,Transformers: The Movie (1986),Adventure|Animation|Children|Sci-Fi
+M4007,Wall Street (1987),Drama
+M4008,Born on the Fourth of July (1989),Drama|War
+M4009,Talk Radio (1988),Drama
+M4010,Brewster's Millions (1985),Comedy
+M4011,Snatch (2000),Comedy|Crime|Thriller
+M4012,Punchline (1988),Comedy|Drama
+M4014,Chocolat (2000),Drama|Romance
+M4015,"Dude, Where's My Car? (2000)",Comedy|Sci-Fi
+M4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy
+M4017,Pollock (2000),Drama
+M4018,What Women Want (2000),Comedy|Romance
+M4019,Finding Forrester (2000),Drama
+M4020,"Gift, The (2000)",Thriller
+M4021,Before Night Falls (2000),Drama
+M4022,Cast Away (2000),Drama
+M4023,"Family Man, The (2000)",Comedy|Drama|Romance
+M4024,"House of Mirth, The (2000)",Romance
+M4025,Miss Congeniality (2000),Comedy|Crime
+M4027,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime
+M4029,State and Main (2000),Comedy|Drama
+M4030,Dracula 2000 (2000),Horror
+M4031,All the Pretty Horses (2000),Drama|Romance|Western
+M4032,"Everlasting Piece, An (2000)",Comedy
+M4033,Thirteen Days (2000),Drama|Thriller|War
+M4034,Traffic (2000),Crime|Drama|Thriller
+M4035,"Claim, The (2000)",Romance|Western
+M4036,Shadow of the Vampire (2000),Drama|Horror
+M4037,House of Games (1987),Crime|Film-Noir|Mystery|Thriller
+M4039,Annie (1982),Children|Musical
+M4040,Don't Tell Mom the Babysitter's Dead (1991),Comedy
+M4041,"Officer and a Gentleman, An (1982)",Drama|Romance
+M4042,"Alamo, The (1960)",Action|Drama|War|Western
+M4043,At Close Range (1986),Crime|Drama
+M4046,Friendly Persuasion (1956),Drama
+M4047,Gettysburg (1993),Drama|War
+M4051,Horrors of Spider Island (Ein Toter Hing im Netz) (1960),Horror|Sci-Fi
+M4052,Antitrust (2001),Crime|Drama|Thriller
+M4053,Double Take (2001),Action|Comedy
+M4054,Save the Last Dance (2001),Drama|Romance
+M4055,Panic (2000),Drama
+M4056,"Pledge, The (2001)",Crime|Drama|Mystery|Thriller
+M4061,The Man in the Moon (1991),Drama|Romance
+M4062,Mystic Pizza (1988),Comedy|Drama|Romance
+M4063,Prelude to a Kiss (1992),Comedy|Drama|Romance
+M4064,Coffy (1973),Action|Crime|Thriller
+M4065,Foxy Brown (1974),Action|Crime|Drama
+M4066,I'm Gonna Git You Sucka (1988),Action|Comedy
+M4067,Untamed Heart (1993),Drama|Romance
+M4068,Sugar & Spice (2001),Comedy
+M4069,"Wedding Planner, The (2001)",Comedy|Romance
+M4074,"Legend of Rita, The (Stille nach dem Schuß, Die) (1999)",Drama
+M4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",Drama|Thriller
+M4078,Amazing Grace and Chuck (1987),Drama
+M4079,Amazon Women on the Moon (1987),Comedy|Sci-Fi
+M4080,Baby Boom (1987),Comedy
+M4081,Back to the Beach (1987),Comedy
+M4082,Barfly (1987),Comedy|Drama|Romance
+M4083,Best Seller (1987),Thriller
+M4084,Beverly Hills Cop II (1987),Action|Comedy|Crime|Thriller
+M4085,Beverly Hills Cop (1984),Action|Comedy|Crime|Drama
+M4086,"Big Easy, The (1987)",Action|Crime|Mystery|Romance|Thriller
+M4089,Born in East L.A. (1987),Comedy
+M4090,"Brave Little Toaster, The (1987)",Animation|Children
+M4091,Can't Buy Me Love (1987),Comedy|Romance
+M4092,Cherry 2000 (1987),Romance|Sci-Fi
+M4093,Cop (1988),Thriller
+M4102,Eddie Murphy Raw (1987),Comedy|Documentary
+M4103,Empire of the Sun (1987),Action|Adventure|Drama|War
+M4104,Ernest Goes to Camp (1987),Comedy
+M4105,"Evil Dead, The (1981)",Fantasy|Horror|Thriller
+M4109,Flowers in the Attic (1987),Drama|Thriller
+M4110,"Fourth Protocol, The (1987)",Thriller
+M4111,Gardens of Stone (1987),Drama|War
+M4113,"Glass Menagerie, The (1987)",Drama
+M4115,Hiding Out (1987),Comedy
+M4116,Hollywood Shuffle (1987),Comedy
+M4117,Hope and Glory (1987),Drama
+M4121,Innerspace (1987),Action|Adventure|Comedy|Sci-Fi
+M4123,Ishtar (1987),Comedy
+M4124,Jaws: The Revenge (1987),Horror|Thriller
+M4125,Leonard Part 6 (1987),Comedy|Sci-Fi
+M4126,Less Than Zero (1987),Drama
+M4127,"Like Father, Like Son (1987)",Comedy
+M4128,"Lost Boys, The (1987)",Comedy|Horror|Thriller
+M4129,Made in Heaven (1987),Fantasy|Romance
+M4130,Maid to Order (1987),Comedy|Fantasy
+M4131,Making Mr. Right (1987),Comedy|Romance|Sci-Fi
+M4132,Mannequin (1987),Comedy|Romance
+M4133,Masters of the Universe (1987),Action|Adventure|Fantasy|Sci-Fi
+M4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror
+M4138,My Demon Lover (1987),Comedy|Horror
+M4139,No Man's Land (1987),Crime|Drama
+M4141,Head Over Heels (2001),Comedy|Romance
+M4142,Left Behind: The Movie (2000),Action|Adventure|Drama|Thriller
+M4143,Valentine (2001),Horror|Mystery
+M4144,In the Mood For Love (Fa yeung nin wa) (2000),Drama|Romance
+M4146,"Million Dollar Hotel, The (2001)",Drama|Mystery|Romance
+M4147,Nico and Dani (Krámpack) (2000),Comedy|Drama|Romance
+M4148,Hannibal (2001),Horror|Thriller
+M4149,Saving Silverman (Evil Woman) (2001),Comedy|Romance
+M4152,Vatel (2000),Drama
+M4153,Down to Earth (2001),Comedy|Fantasy|Romance
+M4154,Recess: School's Out (2001),Animation|Children
+M4155,Sweet November (2001),Drama|Romance
+M4156,Company Man (2000),Comedy
+M4157,"Price of Milk, The (2000)",Comedy|Drama|Fantasy|Romance
+M4158,Monkeybone (2001),Animation|Comedy|Fantasy
+M4159,3000 Miles to Graceland (2001),Action|Thriller
+M4160,"Widow of St. Pierre, The (Veuve de Saint-Pierre, La) (2000)",Drama|Romance
+M4161,"Mexican, The (2001)",Action|Comedy
+M4164,"Caveman's Valentine, The (2001)",Drama
+M4166,Series 7: The Contenders (2001),Action|Drama
+M4167,15 Minutes (2001),Thriller
+M4168,Get Over It (2001),Comedy|Romance
+M4171,Long Night's Journey Into Day (2000),Documentary
+M4174,Avalon (1990),Drama
+M4175,Gray's Anatomy (1996),Comedy|Drama
+M4178,Of Mice and Men (1939),Drama
+M4180,Reform School Girls (1986),Action|Drama
+M4181,Tapeheads (1988),Comedy
+M4184,"Bishop's Wife, The (1947)",Comedy|Drama|Romance
+M4187,Lilies of the Field (1963),Drama
+M4189,"Greatest Story Ever Told, The (1965)",Drama
+M4190,Elmer Gantry (1960),Drama
+M4191,Alfie (1966),Comedy|Drama|Romance
+M4193,"Fantasticks, The (1995)",Musical
+M4194,I Know Where I'm Going! (1945),Drama|Romance|War
+M4195,"Abominable Dr. Phibes, The (1971)",Horror|Mystery
+M4197,Real Life (1979),Comedy
+M4198,Battle Beyond the Stars (1980),Sci-Fi
+M4200,Double Impact (1991),Action
+M4202,Fuzz (1972),Drama
+M4203,Harley Davidson and the Marlboro Man (1991),Action|Crime|Drama
+M4204,Losin' It (1983),Comedy
+M4205,Mermaids (1990),Comedy|Drama|Romance
+M4207,Navy Seals (1990),Action|Adventure|War
+M4210,Manhunter (1986),Action|Crime|Drama|Horror|Thriller
+M4211,Reversal of Fortune (1990),Drama
+M4212,Death on the Nile (1978),Crime|Mystery
+M4214,Revenge of the Nerds (1984),Comedy
+M4215,Revenge of the Nerds II: Nerds in Paradise (1987),Comedy
+M4217,4 Little Girls (1997),Documentary
+M4218,River's Edge (1986),Crime|Drama
+M4219,Girls Just Want to Have Fun (1985),Comedy
+M4220,"Longest Yard, The (1974)",Comedy
+M4221,Necessary Roughness (1991),Comedy
+M4223,Enemy at the Gates (2001),Drama|War
+M4224,Exit Wounds (2001),Action|Thriller
+M4225,"Dish, The (2001)",Comedy
+M4226,Memento (2000),Mystery|Thriller
+M4228,Heartbreakers (2001),Comedy|Crime|Romance
+M4229,Say It Isn't So (2001),Comedy|Romance
+M4231,Someone Like You (2001),Comedy|Romance
+M4232,Spy Kids (2001),Action|Adventure|Children|Comedy
+M4233,Tomcats (2001),Comedy
+M4234,"Tailor of Panama, The (2001)",Drama|Thriller
+M4235,Amores Perros (Love's a Bitch) (2000),Drama|Thriller
+M4236,Keep the River on Your Right: A Modern Cannibal Tale (2000),Documentary
+M4237,"Gleaners & I, The (Les glaneurs et la glaneuse) (2000)",Documentary
+M4238,Along Came a Spider (2001),Action|Crime|Mystery|Thriller
+M4239,Blow (2001),Crime|Drama
+M4240,Just Visiting (2001),Comedy|Fantasy
+M4241,Pokémon 3: The Movie (2001),Animation|Children
+M4242,Beautiful Creatures (2000),Comedy|Crime|Drama|Thriller
+M4243,Brigham City (2001),Crime|Drama|Mystery
+M4246,Bridget Jones's Diary (2001),Comedy|Drama|Romance
+M4247,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance
+M4248,Josie and the Pussycats (2001),Comedy
+M4251,Chopper (2000),Drama|Thriller
+M4252,"Circle, The (Dayereh) (2000)",Drama
+M4254,Crocodile Dundee in Los Angeles (2001),Comedy|Drama
+M4255,Freddy Got Fingered (2001),Comedy
+M4256,"Center of the World, The (2001)",Drama
+M4259,"Luzhin Defence, The (2000)",Drama|Romance
+M4260,"Visit, The (2000)",Drama
+M4262,Scarface (1983),Action|Crime|Drama
+M4263,Days of Wine and Roses (1962),Drama
+M4265,Driven (2001),Action|Thriller
+M4267,One Night at McCool's (2001),Comedy
+M4268,Town & Country (2001),Comedy
+M4270,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller
+M4273,Under the Sand (2000),Drama
+M4275,Krull (1983),Action|Adventure|Fantasy|Sci-Fi
+M4276,Lost in America (1985),Comedy
+M4278,Triumph of the Will (Triumph des Willens) (1934),Documentary
+M4280,"World According to Garp, The (1982)",Comedy|Drama|Romance
+M4282,Fellini Satyricon (1969),Drama|Fantasy
+M4284,Frankie and Johnny (1966),Comedy
+M4285,Frankie and Johnny (1991),Comedy|Romance
+M4289,"City of Women, The (Città delle donne, La) (1980)",Comedy|Drama
+M4290,For the Boys (1991),Comedy|Drama|Musical
+M4291,Nine to Five (a.k.a. 9 to 5) (1980),Comedy|Crime
+M4292,Norma Rae (1979),Drama
+M4293,Summer Rental (1985),Comedy
+M4294,"5,000 Fingers of Dr. T, The (1953)",Children|Fantasy|Musical
+M4296,Love Story (1970),Drama|Romance
+M4297,Pelle the Conqueror (Pelle erobreren) (1987),Drama
+M4298,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller
+M4299,"Knight's Tale, A (2001)",Action|Comedy|Romance
+M4300,Bread and Roses (2000),Drama
+M4304,Startup.com (2001),Documentary
+M4305,Angel Eyes (2001),Romance|Thriller
+M4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+M4307,"Fast Food, Fast Women (2000)",Comedy|Romance
+M4308,Moulin Rouge (2001),Drama|Musical|Romance
+M4310,Pearl Harbor (2001),Action|Drama|Romance|War
+M4312,Himalaya (Himalaya - l'enfance d'un chef) (1999),Adventure|Drama
+M4313,"Man Who Cried, The (2000)",Drama
+M4316,Ice Castles (1978),Drama
+M4317,Love Potion #9 (1992),Comedy|Romance
+M4321,City Slickers (1991),Comedy|Western
+M4322,Eight Men Out (1988),Drama
+M4323,"Horse Soldiers, The (1959)",Adventure|War|Western
+M4325,"Night, The (Notte, La) (1960)",Drama
+M4326,Mississippi Burning (1988),Crime|Drama|Thriller
+M4327,"Magnificent Seven, The (1960)",Adventure|Western
+M4329,Rio Bravo (1959),Western
+M4333,Throw Momma from the Train (1987),Comedy|Crime
+M4334,Yi Yi (2000),Drama
+M4337,"Sand Pebbles, The (1966)",Drama|Romance|War
+M4338,Twelve O'Clock High (1949),Drama|War
+M4339,Von Ryan's Express (1965),Action|Adventure|Drama|War
+M4340,"Animal, The (2001)",Comedy
+M4342,Big Eden (2000),Drama|Romance
+M4343,Evolution (2001),Comedy|Sci-Fi
+M4344,Swordfish (2001),Action|Crime|Drama
+M4345,"Anniversary Party, The (2001)",Drama
+M4347,Divided We Fall (Musíme si pomáhat) (2000),Comedy|Drama
+M4349,Catch-22 (1970),Comedy|War
+M4350,Forgotten Silver (1996),Comedy|Documentary
+M4351,Point Break (1991),Action|Crime|Thriller
+M4353,Uncommon Valor (1983),Action|War
+M4354,Unlawful Entry (1992),Crime|Thriller
+M4355,Youngblood (1986),Action|Drama
+M4356,Gentlemen Prefer Blondes (1953),Comedy|Musical|Romance
+M4357,How to Marry a Millionaire (1953),Comedy|Drama|Romance
+M4359,"Seven Year Itch, The (1955)",Comedy
+M4361,Tootsie (1982),Comedy|Romance
+M4366,Atlantis: The Lost Empire (2001),Adventure|Animation|Children|Fantasy
+M4367,Lara Croft: Tomb Raider (2001),Action|Adventure
+M4368,Dr. Dolittle 2 (2001),Comedy
+M4369,"Fast and the Furious, The (2001)",Action|Crime|Thriller
+M4370,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi
+M4371,Baby Boy (2001),Crime|Drama
+M4372,Crazy/Beautiful (2001),Drama|Romance
+M4373,Pootie Tang (2001),Comedy
+M4374,Let It Snow (1999),Comedy|Romance
+M4378,Sexy Beast (2000),Crime|Drama
+M4380,"Princess and the Warrior, The (Krieger und die Kaiserin, Der) (2000)",Drama|Romance
+M4381,"Closet, The (Placard, Le) (2001)",Comedy
+M4383,"Crimson Rivers, The (Rivières pourpres, Les) (2000)",Crime|Drama|Mystery|Thriller
+M4384,Lumumba (2000),Drama
+M4386,Cats & Dogs (2001),Children|Comedy
+M4387,Kiss of the Dragon (2001),Action
+M4388,Scary Movie 2 (2001),Comedy
+M4389,Lost and Delirious (2001),Drama
+M4390,Rape Me (Baise-moi) (2000),Crime|Drama|Thriller
+M4392,Alice (1990),Comedy|Drama|Fantasy|Romance
+M4393,Another Woman (1988),Drama
+M4394,Beach Blanket Bingo (1965),Comedy|Musical
+M4395,Big Deal on Madonna Street (I Soliti Ignoti) (1958),Comedy|Crime
+M4396,"Cannonball Run, The (1981)",Action|Comedy
+M4397,Cannonball Run II (1984),Action|Comedy
+M4399,"Diary of a Chambermaid (Journal d'une femme de chambre, Le) (1964)",Comedy|Drama
+M4402,Dr. Goldfoot and the Bikini Machine (1965),Comedy
+M4403,"Fall of the House of Usher, The (House of Usher) (1960)",Horror
+M4404,Faust (1926),Drama|Fantasy|Horror
+M4406,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western
+M4407,Salvador (1986),Drama|Thriller|War
+M4408,September (1987),Drama
+M4409,Shadows and Fog (1991),Comedy|Drama|Mystery|Thriller
+M4410,Something Wild (1986),Comedy|Crime|Drama
+M4412,"Thing with Two Heads, The (1972)",Comedy|Horror|Sci-Fi
+M4419,All That Heaven Allows (1955),Drama|Romance
+M4420,"Barefoot Contessa, The (1954)",Drama
+M4422,Cries and Whispers (Viskningar och rop) (1972),Drama
+M4424,"Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il) (1970)",Drama
+M4426,Kiss Me Deadly (1955),Film-Noir
+M4427,"Lion in Winter, The (1968)",Drama
+M4428,"Misfits, The (1961)",Comedy|Drama|Romance|Western
+M4429,Moby Dick (1956),Drama
+M4432,Sweet Smell of Success (1957),Drama|Film-Noir
+M4433,Written on the Wind (1956),Drama
+M4434,"10th Victim, The (La decima vittima) (1965)",Action|Comedy|Sci-Fi|Thriller
+M4436,Obsession (1976),Mystery|Thriller
+M4437,Suspiria (1977),Horror
+M4438,"Fist of Fury (Chinese Connection, The) (Jing wu men) (1972)",Action|Drama|Romance|Thriller
+M4439,Christiane F. (a.k.a. We Children from Bahnhof Zoo) (Christiane F. - Wir Kinder vom Bahnhof Zoo) (1981),Drama
+M4440,"Big Boss, The (Fists of Fury) (Tang shan da xiong) (1971)",Action|Thriller
+M4441,Game of Death (1978),Action
+M4442,"Last Dragon, The (1985)",Action|Comedy|Drama
+M4443,Outland (1981),Action|Sci-Fi|Thriller
+M4444,"Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972)",Action|Crime
+M4445,T-Rex: Back to the Cretaceous (1998),Adventure|Documentary|IMAX
+M4446,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi
+M4447,Legally Blonde (2001),Comedy|Romance
+M4448,"Score, The (2001)",Action|Drama
+M4449,Adanggaman (2000),Drama
+M4450,Bully (2001),Crime|Drama|Thriller
+M4451,Jump Tomorrow (2001),Comedy|Drama|Romance
+M4452,Made (2001),Comedy
+M4453,Michael Jordan to the Max (2000),Documentary|IMAX
+M4454,More (1998),Animation|Drama|Sci-Fi|IMAX
+M4458,Africa: The Serengeti (1994),Documentary|IMAX
+M4459,Alaska: Spirit of the Wild (1997),Documentary|IMAX
+M4462,18 Again! (1988),Comedy|Fantasy
+M4463,1969 (1988),Drama|War
+M4464,"Accidental Tourist, The (1988)",Comedy|Drama|Romance
+M4465,"Accused, The (1988)",Drama
+M4466,Above the Law (1988),Action|Crime|Drama
+M4467,"Adventures of Baron Munchausen, The (1988)",Adventure|Comedy|Fantasy
+M4470,Ariel (1988),Drama
+M4471,Arthur 2: On the Rocks (1988),Comedy|Romance
+M4473,Bat*21 (1988),Drama|War
+M4474,Beaches (1988),Comedy|Drama|Musical
+M4475,"Beast of War, The (Beast, The) (1988)",Drama|War
+M4476,Big Business (1988),Comedy
+M4477,Big Top Pee-Wee (1988),Adventure|Children|Comedy
+M4478,Biloxi Blues (1988),Comedy|Drama
+M4480,"Blob, The (1988)",Horror|Sci-Fi
+M4482,"Bright Lights, Big City (1988)",Drama
+M4483,Caddyshack II (1988),Comedy
+M4484,Camille Claudel (1988),Drama
+M4487,Cocktail (1988),Drama|Romance
+M4488,Colors (1988),Action|Crime|Drama
+M4489,Coming to America (1988),Comedy|Romance
+M4490,"Couch Trip, The (1988)",Comedy
+M4492,Critters (1986),Comedy|Sci-Fi
+M4495,Crossing Delancey (1988),Comedy|Romance
+M4496,D.O.A. (1988),Film-Noir|Mystery|Thriller
+M4497,Dead Heat (1988),Action|Comedy|Horror|Sci-Fi
+M4498,"Dead Pool, The (1988)",Action|Crime|Thriller
+M4499,Dirty Rotten Scoundrels (1988),Comedy
+M4500,Drowning by Numbers (1988),Comedy|Drama
+M4502,Ernest Saves Christmas (1988),Children|Comedy
+M4504,Feds (1988),Comedy
+M4505,For Keeps (1988),Drama|Romance
+M4506,Frantic (1988),Crime|Mystery|Thriller
+M4508,Gorillas in the Mist (1988),Drama
+M4509,"Great Outdoors, The (1988)",Comedy
+M4511,High Spirits (1988),Comedy
+M4516,Johnny Be Good (1988),Comedy
+M4517,Lady in White (a.k.a. The Mystery of the Lady in White) (1988),Horror|Mystery|Thriller
+M4518,The Lair of the White Worm (1988),Comedy|Horror
+M4519,"Land Before Time, The (1988)",Adventure|Animation|Children|Fantasy
+M4520,License to Drive (1988),Comedy
+M4521,Little Nikita (1988),Drama
+M4522,Masquerade (1988),Mystery|Romance|Thriller
+M4523,Milagro Beanfield War (1988),Comedy|Drama|Fantasy
+M4524,Moon Over Parador (1988),Comedy
+M4526,My Stepmother Is an Alien (1988),Comedy|Romance|Sci-Fi
+M4527,"Night in the Life of Jimmy Reardon, A (1988)",Comedy|Romance
+M4529,Bagdad Cafe (Out of Rosenheim) (1987),Comedy|Drama
+M4531,Red Heat (1988),Action
+M4533,"Return of the Living Dead, The (1985)",Comedy|Horror|Sci-Fi
+M4534,Return to Snowy River (a.k.a. The Man From Snowy River II) (1988),Adventure|Drama|Western
+M4535,"Man from Snowy River, The (1982)",Drama|Romance|Western
+M4537,Running on Empty (1988),Drama
+M4541,"Serpent and the Rainbow, The (1988)",Horror
+M4544,Short Circuit 2 (1988),Comedy|Sci-Fi
+M4545,Short Circuit (1986),Comedy|Sci-Fi
+M4546,"Vanishing, The (Spoorloos) (1988)",Drama|Thriller
+M4552,"Tetsuo, the Ironman (Tetsuo) (1988)",Action|Horror|Sci-Fi|Thriller
+M4553,They Live (1988),Action|Sci-Fi|Thriller
+M4557,Tucker: The Man and His Dream (1988),Drama
+M4558,Twins (1988),Comedy
+M4562,Without a Clue (1988),Comedy|Mystery
+M4563,Young Einstein (1988),Comedy
+M4564,Always (1989),Drama|Fantasy|Romance
+M4565,American Ninja (1985),Action|Adventure
+M4568,Best of the Best (1989),Action
+M4571,Bill & Ted's Excellent Adventure (1989),Adventure|Comedy|Sci-Fi
+M4572,Black Rain (1989),Action|Crime|Drama
+M4573,Blaze (1989),Comedy|Drama
+M4574,Blind Fury (1989),Action|Thriller
+M4577,Casualties of War (1989),Drama|War
+M4578,Chances Are (1989),Comedy|Romance
+M4580,Cyborg (1989),Action|Sci-Fi
+M4581,Dad (1989),Drama
+M4583,Disorganized Crime (1989),Action|Comedy
+M4584,Dream a Little Dream (1989),Comedy|Drama|Romance
+M4585,"Dream Team, The (1989)",Comedy
+M4587,Earth Girls Are Easy (1988),Comedy|Musical|Sci-Fi
+M4589,Eddie and the Cruisers (1983),Drama|Musical|Mystery
+M4591,Erik the Viking (1989),Adventure|Comedy|Fantasy
+M4593,Family Business (1989),Comedy
+M4594,Farewell to the King (1989),Action|War
+M4595,Fat Man and Little Boy (1989),Drama
+M4597,Gleaming the Cube (1989),Action|Drama|Mystery
+M4599,Great Balls of Fire! (1989),Drama
+M4600,Gross Anatomy (a.k.a. A Cut Above) (1989),Comedy|Drama
+M4602,Harlem Nights (1989),Comedy|Crime|Romance
+M4603,Her Alibi (1989),Comedy|Romance
+M4605,How to Get Ahead in Advertising (1989),Comedy|Fantasy
+M4608,"Innocent Man, An (1989)",Crime|Drama
+M4610,"January Man, The (1989)",Comedy|Crime|Mystery|Thriller
+M4611,Johnny Handsome (1989),Crime|Drama
+M4612,Jesus of Montreal (Jésus de Montréal) (1989),Drama
+M4613,K-9 (1989),Action|Comedy|Crime
+M4614,Kickboxer (1989),Action
+M4615,Last Exit to Brooklyn (1989),Drama
+M4616,Lean on Me (1989),Drama
+M4617,Let It Ride (1989),Comedy
+M4619,Little Monsters (1989),Comedy
+M4621,Look Who's Talking (1989),Comedy|Romance
+M4622,Loverboy (1989),Comedy
+M4623,Major League (1989),Comedy
+M4624,Meet the Feebles (1989),Animation|Comedy|Musical
+M4625,Millennium (1989),Drama|Sci-Fi|Thriller
+M4626,Miracle Mile (1989),Drama|Romance|Sci-Fi
+M4628,New York Stories (1989),Comedy|Drama
+M4629,Next of Kin (1989),Action|Crime|Thriller
+M4630,No Holds Barred (1989),Action
+M4632,"Package, The (1989)",Action|Thriller
+M4634,Penn & Teller Get Killed (1989),Adventure|Comedy
+M4635,Pink Cadillac (1989),Action|Comedy|Drama
+M4636,"Punisher, The (1989)",Action
+M4638,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller
+M4639,America's Sweethearts (2001),Comedy|Romance
+M4640,Brother (2000),Action|Crime|Thriller
+M4641,Ghost World (2001),Comedy|Drama
+M4642,Hedwig and the Angry Inch (2000),Comedy|Drama|Musical
+M4643,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi
+M4644,Bread and Tulips (Pane e tulipani) (2000),Comedy|Drama|Romance
+M4645,Cure (1997),Crime|Horror|Thriller
+M4646,Greenfingers (2000),Comedy|Drama
+M4649,Wet Hot American Summer (2001),Comedy
+M4653,"Return of the Musketeers, The (1989)",Adventure|Comedy

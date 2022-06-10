@@ -1,0 +1,117 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vis-network@latest/styles/vis-network.css" type="text/css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vis-network@latest/dist/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 800;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"color": "#F6F6F6", "font": {"color": "black"}, "id": "USER_KEY:4375", "label": "USER_KEY:4375", "shape": "dot", "size": 40}, {"color": "#F6F6F6", "font": {"color": "black"}, "id": "USER_KEY:1021", "label": "USER_KEY:1021", "shape": "dot", "size": 40}, {"color": "#86E57F", "font": {"color": "black"}, "id": "CONTENT_KEY:1023", "label": "CONTENT_KEY:1023", "shape": "dot", "size": 25}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "CONTENT_KEY:721", "label": "CONTENT_KEY:721", "shape": "dot", "size": 25}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "CONTENT_KEY:92", "label": "CONTENT_KEY:92", "shape": "dot", "size": 25}, {"color": "#F29661", "font": {"color": "black"}, "id": "CONTENT_KEY:508", "label": "CONTENT_KEY:508", "shape": "dot", "size": 25}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "CONTENT_KEY:644", "label": "CONTENT_KEY:644", "shape": "dot", "size": 25}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "644_1", "label": "\uc131\uc7a5", "shape": "square", "size": 15}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "644_2", "label": "\ub9c8\ubc95", "shape": "square", "size": 15}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "644_3", "label": "\ud310\ud0c0\uc9c0", "shape": "square", "size": 15}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "644_4", "label": "\ub85c\ub9e8\uc2a4", "shape": "square", "size": 15}, {"color": "#5CD1E5", "font": {"color": "black"}, "id": "644_5", "label": "\uc88c\ucda9\uc6b0\ub3cc", "shape": "square", "size": 15}, {"color": "#F29661", "font": {"color": "black"}, "id": "508_1", "label": "\ub9c8\ub140", "shape": "square", "size": 15}, {"color": "#F29661", "font": {"color": "black"}, "id": "508_2", "label": "\ub9cc\ud654", "shape": "square", "size": 15}, {"color": "#F29661", "font": {"color": "black"}, "id": "508_3", "label": "\ud310\ud0c0\uc9c0", "shape": "square", "size": 15}, {"color": "#F29661", "font": {"color": "black"}, "id": "508_4", "label": "\uc560\ub2c8", "shape": "square", "size": 15}, {"color": "#F29661", "font": {"color": "black"}, "id": "508_5", "label": "\ub9c8\ubc95", "shape": "square", "size": 15}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "92_1", "label": "\ub300\ub9cc", "shape": "square", "size": 15}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "92_2", "label": "\ud559\uc0dd", "shape": "square", "size": 15}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "92_3", "label": "\ub85c\ub9e8\uc2a4", "shape": "square", "size": 15}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "92_4", "label": "\ub4dc\ub77c\ub9c8", "shape": "square", "size": 15}, {"color": "#F15F5F", "font": {"color": "black"}, "id": "92_5", "label": "\uc9dd\uc0ac\ub791", "shape": "square", "size": 15}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "721_1", "label": "\uccad\ucd98", "shape": "square", "size": 15}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "721_2", "label": "\ud604\uc2e4\uc801\uc778", "shape": "square", "size": 15}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "721_3", "label": "\uc0ac\ucd98\uae30", "shape": "square", "size": 15}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "721_4", "label": "\uc120\uc0dd\ub2d8", "shape": "square", "size": 15}, {"color": "#6B66FF", "font": {"color": "black"}, "id": "721_5", "label": "\ud559\uad50", "shape": "square", "size": 15}, {"color": "#86E57F", "font": {"color": "black"}, "id": "1023_1", "label": "\ubc94\uc8c4", "shape": "square", "size": 15}, {"color": "#86E57F", "font": {"color": "black"}, "id": "1023_2", "label": "\ucd94\ub9ac", "shape": "square", "size": 15}, {"color": "#86E57F", "font": {"color": "black"}, "id": "1023_3", "label": "\uc0b4\uc778", "shape": "square", "size": 15}, {"color": "#86E57F", "font": {"color": "black"}, "id": "1023_4", "label": "\ub4dc\ub77c\ub9c8", "shape": "square", "size": 15}, {"color": "#86E57F", "font": {"color": "black"}, "id": "1023_5", "label": "\ud604\ub300", "shape": "square", "size": 15}]);
+        edges = new vis.DataSet([{"arrows": "to", "color": "#86E57F", "from": "USER_KEY:4375", "label": "3", "to": "CONTENT_KEY:1023"}, {"arrows": "to", "color": "#6B66FF", "from": "USER_KEY:4375", "label": "1", "to": "CONTENT_KEY:721"}, {"arrows": "to", "color": "#F15F5F", "from": "USER_KEY:4375", "label": "0", "to": "CONTENT_KEY:92"}, {"arrows": "to", "color": "#F29661", "from": "USER_KEY:4375", "label": "4", "to": "CONTENT_KEY:508"}, {"arrows": "to", "color": "#86E57F", "from": "USER_KEY:1021", "label": "0", "to": "CONTENT_KEY:1023"}, {"arrows": "to", "color": "#F29661", "from": "USER_KEY:1021", "label": "2", "to": "CONTENT_KEY:508"}, {"arrows": "to", "color": "#5CD1E5", "from": "USER_KEY:1021", "label": "3", "to": "CONTENT_KEY:644"}, {"color": "#5CD1E5", "from": "644_1", "to": "CONTENT_KEY:644"}, {"color": "#5CD1E5", "from": "644_2", "to": "CONTENT_KEY:644"}, {"color": "#5CD1E5", "from": "644_3", "to": "CONTENT_KEY:644"}, {"color": "#5CD1E5", "from": "644_4", "to": "CONTENT_KEY:644"}, {"color": "#5CD1E5", "from": "644_5", "to": "CONTENT_KEY:644"}, {"color": "#F29661", "from": "508_1", "to": "CONTENT_KEY:508"}, {"color": "#F29661", "from": "508_2", "to": "CONTENT_KEY:508"}, {"color": "#F29661", "from": "508_3", "to": "CONTENT_KEY:508"}, {"color": "#F29661", "from": "508_4", "to": "CONTENT_KEY:508"}, {"color": "#F29661", "from": "508_5", "to": "CONTENT_KEY:508"}, {"color": "#F15F5F", "from": "92_1", "to": "CONTENT_KEY:92"}, {"color": "#F15F5F", "from": "92_2", "to": "CONTENT_KEY:92"}, {"color": "#F15F5F", "from": "92_3", "to": "CONTENT_KEY:92"}, {"color": "#F15F5F", "from": "92_4", "to": "CONTENT_KEY:92"}, {"color": "#F15F5F", "from": "92_5", "to": "CONTENT_KEY:92"}, {"color": "#6B66FF", "from": "721_1", "to": "CONTENT_KEY:721"}, {"color": "#6B66FF", "from": "721_2", "to": "CONTENT_KEY:721"}, {"color": "#6B66FF", "from": "721_3", "to": "CONTENT_KEY:721"}, {"color": "#6B66FF", "from": "721_4", "to": "CONTENT_KEY:721"}, {"color": "#6B66FF", "from": "721_5", "to": "CONTENT_KEY:721"}, {"color": "#86E57F", "from": "1023_1", "to": "CONTENT_KEY:1023"}, {"color": "#86E57F", "from": "1023_2", "to": "CONTENT_KEY:1023"}, {"color": "#86E57F", "from": "1023_3", "to": "CONTENT_KEY:1023"}, {"color": "#86E57F", "from": "1023_4", "to": "CONTENT_KEY:1023"}, {"color": "#86E57F", "from": "1023_5", "to": "CONTENT_KEY:1023"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
